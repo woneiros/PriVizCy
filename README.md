@@ -12,7 +12,7 @@ There have not been many attempts to provide visualizations to this type of data
 ### Contents  
 
 The project has the following components:
-* **`data` folder** - contains the original data provided by the authors of the original paper.  
+* **`data`** - contains the original data provided by the authors of the original paper.  
 * **`analysis`** - some initial explorations and brief description of the data recieved, as well as scripts used for processing of the data for the visualizations.  
 *  **`visualization`** - the visualization project standalone.  
 
