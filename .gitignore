@@ -1,3 +1,8 @@
 
+*.pyc
+
 data/*.sqlite
 
+analysis/.ipynb_checkpoints/*
+analysis/__pycache__/*
+analysis/ghostdriver.log
