@@ -1,0 +1,2144 @@
+edgeID;source;target;weight;tag
+0;aol;imdb;2;doubleclick.net | twitter.com
+1;dose;guff;1;scorecardresearch.com
+2;urbandictionary;topix;16;adform.net | adgrx.com | bidswitch.net | bluekai.com | doubleclick.net | dpclk.com | gwallet.com | media6degrees.com | quantserve.com | rfihub.com | ru4.com | rubiconproject.com | sitescout.com | tapad.com | tubemogul.com | w55c.net
+3;aol;sbnation;17;adadvisor.net | adsrvr.org | adtechus.com | advertising.com | agkn.com | bluekai.com | casalemedia.com | contextweb.com | criteo.com | demdex.net | dotomi.com | doubleclick.net | everesttech.net | mediaplex.com | nexac.com | rfihub.com | univide.com
+4;pinterest;eonline;2;facebook.com | pinterest.com
+5;healthline;cnn;2;agkn.com | optimizely.com
+6;opposingviews;brainjet;1;scorecardresearch.com
+7;theblaze;southwest;1;advertising.com
+8;microsoft;photobucket;2;bluekai.com | google.com
+9;weather;yellowpages;6;advertising.com | mathtag.com | openx.net | optimizely.com | rfihub.com | turn.com
+10;wayfair;nydailynews;11;adsymptotic.com | adtechus.com | bluekai.com | btrll.com | dotomi.com | doubleclick.net | liverail.com | openx.net | rubiconproject.com | rundsp.com | turn.com
+11;whitepages;webmd;1;turn.com
+12;topix;usps;3;bizographics.com | chango.com | turn.com
+13;ask;tmz;8;adadvisor.net | agkn.com | criteo.com | exelator.com | krxd.net | nexac.com | pubmatic.com | rlcdn.com
+14;walmart;ijreview;1;tubemogul.com
+15;aol;deviantart;4;adtechus.com | casalemedia.com | doubleclick.net | pubmatic.com
+16;topix;instructables;3;facebook.com | rubiconproject.com | scorecardresearch.com
+17;nytimes;glassdoor;2;rlcdn.com | scorecardresearch.com
+18;wikia;nytimes;8;agkn.com | btrll.com | krxd.net | quantserve.com | rfihub.com | rubiconproject.com | scorecardresearch.com | w55c.net
+19;godaddy;southwest;1;advertising.com
+20;amazon;whitepages;4;amazon-adsystem.com | facebook.com | openx.net | rubiconproject.com
+21;answers;city-data;1;quantserve.com
+22;amazon;theblaze;2;openx.net | rubiconproject.com
+23;nydailynews;qpolitical;14;advertising.com | agkn.com | bluekai.com | btrll.com | chango.com | collective-media.net | crwdcntrl.net | demdex.net | liverail.com | media6degrees.com | revsci.net | rubiconproject.com | spotxchange.com | turn.com
+24;buzzfeed;conservativetribune;1;tubemogul.com
+25;yelp;aol;11;adsrvr.org | advertising.com | agkn.com | bluekai.com | btrll.com | rfihub.com | ru4.com | spotxchange.com | tapad.com | tubemogul.com | turn.com
+26;microsoft;nydailynews;1;bluekai.com
+27;bustle;nytimes;1;krxd.net
+28;vimeo;mic;1;quantserve.com
+29;linkedin;photobucket;1;imrworldwide.com
+30;conservativetribune;instructables;1;facebook.com
+31;wikia;healthline;5;adsrvr.org | agkn.com | optimizely.com | quantserve.com | rubiconproject.com
+32;wordpress;uproxx;1;wordpress.com
+33;wikia;usmagazine;3;agkn.com | krxd.net | quantserve.com
+34;vimeo;city-data;1;quantserve.com
+35;adobe;eonline;2;demdex.net | quantserve.com
+36;adobe;webmd;1;tapad.com
+37;mic;chase;1;doubleclick.net
+38;microsoft;blogspot;1;google.com
+39;opposingviews;deviantart;6;adtechus.com | bidswitch.net | casalemedia.com | openx.net | quantserve.com | scorecardresearch.com
+40;eonline;lifehacker;3;adadvisor.net | agkn.com | krxd.net
+41;godaddy;weather;6;advertising.com | convertro.com | godaddy.com | mathtag.com | rlcdn.com | turn.com
+42;conservativetribune;mapquest;1;bidswitch.net
+43;babycenter;cnn;1;imrworldwide.com
+44;answers;healthline;1;quantserve.com
+45;microsoft;wikia;1;bluekai.com
+46;vimeo;uproxx;2;google.com | quantserve.com
+47;examiner;deadspin;2;krxd.net | mathtag.com
+48;people;goodreads;1;quantserve.com
+49;twitter;imgur;1;twitter.com
+50;usmagazine;legacy;1;quantserve.com
+51;urbandictionary;healthline;3;doubleclick.net | quantserve.com | rubiconproject.com
+52;whitepages;thechive;17;adsrvr.org | adtechus.com | advertising.com | bidswitch.net | bluekai.com | chango.com | dotomi.com | eqads.com | facebook.com | media6degrees.com | openx.net | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com | sitescout.com | turn.com
+53;mozilla;thechive;1;optimizely.com
+54;fandango;ibtimes;1;google.com
+55;fandango;thetiebar;1;rlcdn.com
+56;buzzfeed;aol;3;agkn.com | demdex.net | tubemogul.com
+57;glassdoor;thoughtcatalog;1;bluekai.com
+58;about;thoughtcatalog;1;parsely.com
+59;vox;chase;2;doubleclick.net | rlcdn.com
+60;buzzfeed;gawker;1;agkn.com
+61;amazon;photobucket;6;amazon-adsystem.com | doubleclick.net | facebook.com | liverail.com | openx.net | rubiconproject.com
+62;youtube;nytimes;1;scorecardresearch.com
+63;aol;lifehacker;3;adadvisor.net | agkn.com | criteo.com
+64;bustle;imdb;1;twitter.com
+65;nydailynews;goodreads;1;quantserve.com
+66;mic;uproxx;3;crwdcntrl.net | insightexpressai.com | quantserve.com
+67;usmagazine;nydailynews;4;agkn.com | imrworldwide.com | quantserve.com | twitter.com
+68;yelp;amazon;1;rubiconproject.com
+69;photobucket;qpolitical;23;4dsply.com | adadvisor.net | advertising.com | agkn.com | bluekai.com | btrll.com | casalemedia.com | collective-media.net | crwdcntrl.net | demdex.net | liverail.com | media6degrees.com | nexac.com | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | smaato.net | spotxchange.com | tapad.com | yahoo.com
+70;answers;nbcnews;1;quantserve.com
+71;ask;qpolitical;13;adadvisor.net | addthis.com | advertising.com | agkn.com | bluekai.com | btrll.com | casalemedia.com | crwdcntrl.net | nexac.com | pubmatic.com | rlcdn.com | rubiconproject.com | spotxchange.com
+72;microsoft;wayfair;3;bing.com | bluekai.com | google.com
+73;nbcnews;tmz;12;2o7.net | adadvisor.net | agkn.com | cloudflare.com | exelator.com | krxd.net | quantserve.com | rlcdn.com | serving-sys.com | tubemogul.com | twitter.com | zergnet.com
+74;ask;sbnation;16;adadvisor.net | advertising.com | agkn.com | bluekai.com | casalemedia.com | contextweb.com | criteo.com | crwdcntrl.net | exelator.com | krxd.net | mathtag.com | mookie1.com | nexac.com | rlcdn.com | sonobi.com | switchads.com
+75;thoughtcatalog;lifehacker;1;skimresources.com
+76;wikia;linkedin;1;scorecardresearch.com
+77;yelp;examiner;21;active-agent.com | adition.com | adsrvr.org | adsymptotic.com | advertising.com | bluekai.com | btrll.com | chango.com | mathtag.com | revsci.net | rfihub.com | ru4.com | rundsp.com | simpli.fi | sitescout.com | tapad.com | tidaltv.com | tubemogul.com | turn.com | w55c.net | yahoo.com
+78;wordpress;wayfair;1;doubleclick.net
+79;bustle;photobucket;2;facebook.com | twitter.com
+80;gawker;cnn;3;agkn.com | criteo.com | krxd.net
+81;sbnation;att;3;bluekai.com | demdex.net | doubleclick.net
+82;usmagazine;chase;1;rlcdn.com
+83;whitepages;gawker;4;criteo.com | rlcdn.com | rubiconproject.com | yahoo.com
+84;city-data;qpolitical;3;adadvisor.net | agkn.com | rlcdn.com
+85;urbandictionary;stackexchange;1;quantserve.com
+86;conservativetribune;southwest;1;tubemogul.com
+87;stackexchange;topix;1;quantserve.com
+88;photobucket;youngcons;7;4dsply.com | adform.net | advertising.com | collective-media.net | crwdcntrl.net | pubmatic.com | revsci.net
+89;conservativetribune;brainjet;1;google.com
+90;conservativetribune;eonline;7;cloudflare.com | facebook.com | google.com | mathtag.com | pubmatic.com | quantserve.com | tubemogul.com
+91;aol;thetiebar;2;dotomi.com | twitter.com
+92;live;sbnation;1;demdex.net
+93;twitter;vox;2;google.com | twitter.com
+94;paypal;blogger;1;youtube.com
+95;whitepages;babycenter;2;advertising.com | revsci.net
+96;mic;photobucket;3;crwdcntrl.net | doubleclick.net | quantserve.com
+97;adobe;ask;2;exelator.com | nexac.com
+98;mic;topix;6;bidswitch.net | crwdcntrl.net | doubleclick.net | insightexpressai.com | quantserve.com | serving-sys.com
+99;buzzfeed;sbnation;2;agkn.com | demdex.net
+100;amazon;conservativetribune;3;contextweb.com | doubleclick.net | facebook.com
+101;usmagazine;walmart;3;agkn.com | nexac.com | rlcdn.com
+102;pinterest;fandango;1;facebook.com
+103;vimeo;zergnet;1;quantserve.com
+104;aol;bustle;1;twitter.com
+105;about;healthline;1;optimizely.com
+106;uproxx;usps;1;turn.com
+107;usps;webmd;1;turn.com
+108;linkedin;tmz;2;imrworldwide.com | scorecardresearch.com
+109;ebay;fandango;1;mathtag.com
+110;vimeo;goodreads;1;quantserve.com
+111;amazon;nytimes;2;liverail.com | rubiconproject.com
+112;aol;topix;26;adadvisor.net | addthis.com | adsrvr.org | advertising.com | agkn.com | atwola.com | bluekai.com | btrll.com | casalemedia.com | contextweb.com | criteo.com | doubleclick.net | jumptap.com | liverail.com | media6degrees.com | nexac.com | pubmatic.com | rfihub.com | ru4.com | spotxchange.com | tapad.com | tubemogul.com | turn.com | twitter.com | univide.com | wtp101.com
+113;topix;southwest;3;advertising.com | tidaltv.com | tubemogul.com
+114;urbandictionary;sbnation;9;adform.net | bidswitch.net | bluekai.com | doubleclick.net | everesttech.net | google.com | quantserve.com | rfihub.com | simpli.fi
+115;inquisitr;chase;5;bing.com | demdex.net | doubleclick.net | rlcdn.com | ru4.com
+116;tmz;deviantart;4;adnxs.com | pubmatic.com | quantserve.com | scorecardresearch.com
+117;godaddy;imgur;1;twitter.com
+118;bustle;yellowpages;2;facebook.com | twitter.com
+119;blogger;nydailynews;1;youtube.com
+120;usmagazine;mic;1;quantserve.com
+121;sbnation;chase;5;demdex.net | doubleclick.net | rlcdn.com | undertone.com | yahoo.com
+122;linkedin;nydailynews;1;imrworldwide.com
+123;whitepages;ask;5;advertising.com | bluekai.com | criteo.com | rlcdn.com | rubiconproject.com
+124;wikia;inquisitr;12;adsrvr.org | bluekai.com | crwdcntrl.net | demdex.net | gwallet.com | mathtag.com | quantserve.com | rfihub.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+125;amazon;chase;1;doubleclick.net
+126;amazon;deviantart;3;doubleclick.net | openx.net | rubiconproject.com
+127;wayfair;gawker;2;rubiconproject.com | yahoo.com
+128;google;vimeo;1;google.com
+129;ask;examiner;13;addthis.com | advertising.com | bluekai.com | btrll.com | crwdcntrl.net | exelator.com | krxd.net | mathtag.com | mookie1.com | nexac.com | pubmatic.com | rlcdn.com | sonobi.com
+130;facebook;glassdoor;1;facebook.com
+131;usmagazine;opposingviews;2;nexac.com | quantserve.com
+132;opposingviews;topix;15;adform.net | advertising.com | bidswitch.net | bluekai.com | bnmla.com | casalemedia.com | chango.com | iasds01.com | mathtag.com | nexac.com | openx.net | quantserve.com | revsci.net | scorecardresearch.com | tribalfusion.com
+133;wikia;zergnet;2;quantserve.com | scorecardresearch.com
+134;photobucket;tmz;14;adadvisor.net | agkn.com | amazon-adsystem.com | exelator.com | facebook.com | google.com | imrworldwide.com | media6degrees.com | nexac.com | pubmatic.com | quantserve.com | rlcdn.com | simpli.fi | twitter.com
+135;buzzfeed;legacy;1;scorecardresearch.com
+136;yelp;qpolitical;14;adsrvr.org | advertising.com | agkn.com | bluekai.com | btrll.com | chango.com | revsci.net | rfihub.com | ru4.com | rubiconproject.com | spotxchange.com | tapad.com | turn.com | yahoo.com
+137;nydailynews;uproxx;5;crwdcntrl.net | imrworldwide.com | quantserve.com | turn.com | youtube.com
+138;nbcnews;att;1;doubleclick.net
+139;theblaze;tmz;6;3lift.com | adnxs.com | agkn.com | criteo.com | taboola.com | youtube.com
+140;ask;dose;5;agkn.com | exelator.com | krxd.net | pubmatic.com | rlcdn.com
+141;godaddy;gawker;1;rlcdn.com
+142;sbnation;goodreads;2;mediaplex.com | quantserve.com
+143;mic;zergnet;1;quantserve.com
+144;youtube;zergnet;1;scorecardresearch.com
+145;vox;lifehacker;5;adadvisor.net | agkn.com | amazon-adsystem.com | krxd.net | skimresources.com
+146;wordpress;people;1;doubleclick.net
+147;fandango;glassdoor;3;facebook.com | google.com | rlcdn.com
+148;wikia;thechive;10;adsrvr.org | agkn.com | bluekai.com | optimizely.com | quantserve.com | rfihub.com | rubiconproject.com | scorecardresearch.com | turn.com | w55c.net
+149;nytimes;brainjet;1;scorecardresearch.com
+150;thetiebar;tmz;2;rlcdn.com | twitter.com
+151;inquisitr;goodreads;1;quantserve.com
+152;dose;glassdoor;2;rlcdn.com | scorecardresearch.com
+153;instructables;gawker;1;rubiconproject.com
+154;vimeo;stackexchange;1;quantserve.com
+155;buzzfeed;mapquest;1;iasds01.com
+156;walmart;webmd;2;tapad.com | turn.com
+157;uproxx;cnn;3;crwdcntrl.net | imrworldwide.com | insightexpressai.com
+158;weather;vimeo;2;mathtag.com | quantserve.com
+159;healthline;tmz;5;adsrvr.org | agkn.com | pubmatic.com | quantserve.com | serving-sys.com
+160;mic;healthline;3;doubleclick.net | quantserve.com | serving-sys.com
+161;people;chase;1;doubleclick.net
+162;wikia;ask;8;addthis.com | agkn.com | bluekai.com | btrll.com | crwdcntrl.net | krxd.net | mathtag.com | rubiconproject.com
+163;qpolitical;usps;2;chango.com | turn.com
+164;adobe;deviantart;1;quantserve.com
+165;eonline;gawker;2;agkn.com | krxd.net
+166;facebook;thechive;1;facebook.com
+167;aol;weather;13;adadvisor.net | addthis.com | adsrvr.org | advertising.com | agkn.com | atwola.com | audienceiq.com | bluekai.com | demdex.net | nexac.com | rfihub.com | ru4.com | turn.com
+168;babycenter;photobucket;5;advertising.com | imrworldwide.com | quantserve.com | revsci.net | voicefive.com
+169;thetiebar;vox;3;bidswitch.net | rlcdn.com | twitter.com
+170;yahoo;chase;1;yahoo.com
+171;ask;lifehacker;5;adadvisor.net | agkn.com | criteo.com | krxd.net | rubiconproject.com
+172;nytimes;webmd;1;tapad.com
+173;usmagazine;nbcnews;9;agkn.com | bizographics.com | bluecava.com | exelator.com | igodigital.com | krxd.net | quantserve.com | rlcdn.com | twitter.com
+174;southwest;att;1;demdex.net
+175;weather;nbcnews;9;adadvisor.net | agkn.com | crwdcntrl.net | exelator.com | mathtag.com | quantserve.com | rfihub.com | rlcdn.com | serving-sys.com
+176;legacy;mic;1;quantserve.com
+177;live;inquisitr;1;demdex.net
+178;nytimes;healthline;4;agkn.com | pubmatic.com | quantserve.com | rubiconproject.com
+179;conservativetribune;glassdoor;4;bidswitch.net | facebook.com | google.com | rlcdn.com
+180;theblaze;vox;3;adnxs.com | agkn.com | bidswitch.net
+181;microsoft;ask;1;bluekai.com
+182;chase;att;2;demdex.net | doubleclick.net
+183;wikia;walmart;9;adsrvr.org | agkn.com | bluekai.com | rfihub.com | rubiconproject.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+184;nytimes;lifehacker;4;agkn.com | imrworldwide.com | krxd.net | rubiconproject.com
+185;facebook;yellowpages;1;facebook.com
+186;adobe;conservativetribune;2;quantserve.com | w55c.net
+187;thetiebar;yellowpages;2;openx.net | twitter.com
+188;sbnation;photobucket;21;adadvisor.net | adform.net | advertising.com | agkn.com | bluekai.com | casalemedia.com | crwdcntrl.net | demdex.net | doubleclick.net | exelator.com | google.com | nexac.com | openx.net | quantserve.com | revsci.net | rfihub.com | rlcdn.com | simpli.fi | sonobi.com | voicefive.com | yahoo.com
+189;yelp;babycenter;4;advertising.com | imrworldwide.com | quantserve.com | revsci.net
+190;youtube;deviantart;2;doubleclick.net | scorecardresearch.com
+191;deadspin;lifehacker;8;agkn.com | amazon-adsystem.com | criteo.com | imrworldwide.com | kinja.com | krxd.net | rubiconproject.com | skimresources.com
+192;adobe;babycenter;1;quantserve.com
+193;blogspot;brainjet;1;google.com
+194;weather;deviantart;4;openx.net | quantserve.com | scorecardresearch.com | servedbyopenx.com
+195;yahoo;opposingviews;1;yahoo.com
+196;yelp;legacy;1;quantserve.com
+197;wayfair;dose;3;adsrvr.org | pubmatic.com | scorecardresearch.com
+198;mic;imdb;1;doubleclick.net
+199;stackexchange;opposingviews;1;quantserve.com
+200;nydailynews;deadspin;5;agkn.com | amazon-adsystem.com | iasds01.com | imrworldwide.com | rubiconproject.com
+201;theblaze;yellowpages;3;advertising.com | openx.net | rubiconproject.com
+202;dose;deadspin;2;agkn.com | krxd.net
+203;nydailynews;lifehacker;4;agkn.com | amazon-adsystem.com | imrworldwide.com | rubiconproject.com
+204;yelp;urbandictionary;10;bluekai.com | quantserve.com | rfihub.com | ru4.com | rubiconproject.com | simpli.fi | sitescout.com | tapad.com | tubemogul.com | w55c.net
+205;babycenter;mapquest;1;advertising.com
+206;opposingviews;vox;3;bidswitch.net | quantserve.com | scorecardresearch.com
+207;msn;chase;2;bing.com | msn.com
+208;theblaze;qpolitical;9;advertising.com | agkn.com | bluekai.com | btrll.com | chango.com | crwdcntrl.net | rubiconproject.com | spotxchange.com | taboola.com
+209;twitter;photobucket;2;google.com | twitter.com
+210;fandango;city-data;4;adadvisor.net | agkn.com | exelator.com | rlcdn.com
+211;about;mozilla;1;optimizely.com
+212;wikia;tmz;7;adsrvr.org | agkn.com | amazon-adsystem.com | krxd.net | quantserve.com | scorecardresearch.com | tubemogul.com
+213;conservativetribune;imgur;1;quantserve.com
+214;twitter;ibtimes;2;google.com | twitter.com
+215;nydailynews;city-data;3;adsymptotic.com | agkn.com | quantserve.com
+216;conservativetribune;distractify;1;doubleclick.net
+217;ask;ijreview;1;krxd.net
+218;whitepages;youngcons;2;advertising.com | revsci.net
+219;wayfair;legacy;1;scorecardresearch.com
+220;mic;glassdoor;1;bidswitch.net
+221;amazon;fandango;2;doubleclick.net | facebook.com
+222;google;glassdoor;1;google.com
+223;inquisitr;zergnet;2;quantserve.com | zergnet.com
+224;diply;vox;2;doubleclick.net | facebook.com
+225;imdb;thechive;1;twitter.com
+226;usmagazine;inquisitr;4;exelator.com | quantserve.com | rlcdn.com | twitter.com
+227;opposingviews;photobucket;9;adform.net | advertising.com | bluekai.com | casalemedia.com | nexac.com | openx.net | quantserve.com | revsci.net | yahoo.com
+228;walmart;nbcnews;6;agkn.com | mookie1.com | rfihub.com | rlcdn.com | rubiconproject.com | tubemogul.com
+229;godaddy;nbcnews;3;mathtag.com | rlcdn.com | twitter.com
+230;imgur;healthline;1;quantserve.com
+231;conservativetribune;examiner;14;adsrvr.org | bidswitch.net | btrll.com | crwdcntrl.net | doubleclick.net | eyereturn.com | mathtag.com | media6degrees.com | pubmatic.com | rlcdn.com | sitescout.com | tubemogul.com | turn.com | w55c.net
+232;whitepages;ibtimes;4;advertising.com | bidswitch.net | criteo.com | openx.net
+233;sbnation;conservativetribune;9;adsrvr.org | bidswitch.net | contextweb.com | crwdcntrl.net | doubleclick.net | google.com | mathtag.com | quantserve.com | rlcdn.com
+234;adobe;southwest;2;demdex.net | omtrdc.net
+235;whitepages;wayfair;11;adsrvr.org | adtechus.com | bluekai.com | dotomi.com | facebook.com | openx.net | rubiconproject.com | rundsp.com | sitescout.com | turn.com | yahoo.com
+236;yelp;adobe;5;adsymptotic.com | quantserve.com | rfihub.com | tapad.com | w55c.net
+237;nbcnews;cnn;3;agkn.com | crwdcntrl.net | krxd.net
+238;walmart;deviantart;1;rubiconproject.com
+239;people;gawker;3;krxd.net | rubiconproject.com | skimresources.com
+240;microsoft;topix;2;bing.com | bluekai.com
+241;whitepages;usps;2;chango.com | turn.com
+242;examiner;distractify;1;doubleclick.net
+243;weather;lifehacker;2;adadvisor.net | agkn.com
+244;usmagazine;imdb;1;twitter.com
+245;legacy;ibtimes;1;optimizely.com
+246;opposingviews;fandango;5;iasds01.com | mathtag.com | nexac.com | revsci.net | yahoo.com
+247;blogspot;ibtimes;1;google.com
+248;usps;thechive;2;chango.com | turn.com
+249;topix;guff;1;scorecardresearch.com
+250;people;lifehacker;3;krxd.net | rubiconproject.com | skimresources.com
+251;yelp;ask;7;advertising.com | agkn.com | bluekai.com | btrll.com | mathtag.com | rubiconproject.com | spotxchange.com
+252;sbnation;brainjet;1;google.com
+253;topix;tmz;22;3lift.com | adadvisor.net | adnxs.com | adsrvr.org | agkn.com | amazon-adsystem.com | criteo.com | exelator.com | facebook.com | imrworldwide.com | krxd.net | media6degrees.com | nexac.com | pubmatic.com | quantserve.com | rlcdn.com | scorecardresearch.com | serving-sys.com | tubemogul.com | twitter.com | webspectator.com | zergnet.com
+254;live;att;1;demdex.net
+255;youtube;healthline;1;doubleclick.net
+256;blogspot;yellowpages;1;google.com
+257;amazon;weather;1;openx.net
+258;mapquest;youngcons;2;advertising.com | iasds01.com
+259;blogger;sbnation;1;google.com
+260;pinterest;vox;1;facebook.com
+261;mozilla;people;1;optimizely.com
+262;adobe;nydailynews;5;adsymptotic.com | demdex.net | everesttech.net | quantserve.com | w55c.net
+263;answers;photobucket;1;quantserve.com
+264;legacy;dose;1;scorecardresearch.com
+265;wordpress;att;1;doubleclick.net
+266;bustle;eonline;3;facebook.com | krxd.net | serving-sys.com
+267;nydailynews;opposingviews;11;adform.net | adtechus.com | advertising.com | bidswitch.net | bluekai.com | chango.com | iasds01.com | openx.net | quantserve.com | revsci.net | tribalfusion.com
+268;paypal;gawker;1;yahoo.com
+269;youtube;diply;1;doubleclick.net
+270;amazon;examiner;2;doubleclick.net | liverail.com
+271;usmagazine;glassdoor;1;rlcdn.com
+272;youtube;distractify;1;doubleclick.net
+273;wordpress;examiner;1;doubleclick.net
+274;diply;distractify;1;doubleclick.net
+275;about;glassdoor;1;optimizely.com
+276;imgur;vox;2;quantserve.com | twitter.com
+277;legacy;sbnation;1;quantserve.com
+278;wikia;topix;19;addthis.com | adsrvr.org | agkn.com | amazon-adsystem.com | atwola.com | bluekai.com | btrll.com | crwdcntrl.net | gwallet.com | krxd.net | mathtag.com | quantserve.com | rfihub.com | rubiconproject.com | scorecardresearch.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+279;eonline;thechive;6;adadvisor.net | agkn.com | facebook.com | pubmatic.com | quantserve.com | revsci.net
+280;twitter;yellowpages;2;google.com | twitter.com
+281;pinterest;whitepages;1;facebook.com
+282;vimeo;youngcons;1;mathtag.com
+283;weather;theblaze;8;advertising.com | agkn.com | bluekai.com | crwdcntrl.net | fastclick.net | openx.net | servedbyopenx.com | taboola.com
+284;instructables;brainjet;1;scorecardresearch.com
+285;urbandictionary;vimeo;2;google.com | quantserve.com
+286;bustle;healthline;1;serving-sys.com
+287;ijreview;eonline;3;cloudflare.com | krxd.net | tubemogul.com
+288;paypal;fandango;1;yahoo.com
+289;babycenter;healthline;1;quantserve.com
+290;amazon;diply;2;doubleclick.net | facebook.com
+291;sbnation;fandango;11;adadvisor.net | agkn.com | doubleclick.net | exelator.com | google.com | krxd.net | mathtag.com | nexac.com | revsci.net | rlcdn.com | yahoo.com
+292;healthline;gawker;2;agkn.com | rubiconproject.com
+293;nydailynews;chase;2;demdex.net | doubleclick.net
+294;twitter;microsoft;1;google.com
+295;wikia;webmd;2;crwdcntrl.net | turn.com
+296;opposingviews;nbcnews;4;mathtag.com | quantserve.com | revsci.net | tribalfusion.com
+297;city-data;topix;7;adadvisor.net | adsymptotic.com | agkn.com | bluecava.com | exelator.com | quantserve.com | rlcdn.com
+298;facebook;pinterest;1;facebook.com
+299;yelp;conservativetribune;8;adsrvr.org | btrll.com | mathtag.com | quantserve.com | sitescout.com | tubemogul.com | turn.com | w55c.net
+300;twitter;godaddy;2;google.com | twitter.com
+301;nydailynews;thechive;19;adtechus.com | advertising.com | agkn.com | bidswitch.net | bluekai.com | chango.com | dotomi.com | eqads.com | fastclick.net | media6degrees.com | openx.net | quantserve.com | revsci.net | rubiconproject.com | simpli.fi | tribalfusion.com | turn.com | twitter.com | w55c.net
+302;topix;youngcons;9;4dsply.com | adform.net | advertising.com | collective-media.net | crwdcntrl.net | iasds01.com | mathtag.com | pubmatic.com | revsci.net
+303;ebay;youngcons;1;mathtag.com
+304;wayfair;deadspin;1;rubiconproject.com
+305;cnn;webmd;2;crwdcntrl.net | postrelease.com
+306;opposingviews;eonline;3;mathtag.com | quantserve.com | revsci.net
+307;uproxx;thoughtcatalog;3;gravity.com | insightexpressai.com | wordpress.com
+308;aol;yellowpages;7;advertising.com | pubmatic.com | rfihub.com | tapad.com | thebrighttag.com | turn.com | twitter.com
+309;usmagazine;fandango;5;agkn.com | exelator.com | krxd.net | nexac.com | rlcdn.com
+310;usmagazine;healthline;2;agkn.com | quantserve.com
+311;paypal;yellowpages;1;yahoo.com
+312;about;legacy;1;optimizely.com
+313;opposingviews;goodreads;2;mediaplex.com | quantserve.com
+314;dose;brainjet;1;scorecardresearch.com
+315;tmz;southwest;1;tubemogul.com
+316;ebay;yellowpages;1;mathtag.com
+317;youtube;legacy;1;scorecardresearch.com
+318;answers;nytimes;1;quantserve.com
+319;godaddy;fandango;3;google.com | mathtag.com | rlcdn.com
+320;yelp;deviantart;2;quantserve.com | rubiconproject.com
+321;theblaze;webmd;1;crwdcntrl.net
+322;mapquest;qpolitical;3;advertising.com | bluekai.com | chango.com
+323;ibtimes;deviantart;6;adnxs.com | bidswitch.net | casalemedia.com | openx.net | servedbyopenx.com | sonobi.com
+324;yelp;nbcnews;9;agkn.com | btrll.com | mathtag.com | quantserve.com | revsci.net | rfihub.com | rubiconproject.com | spotxchange.com | tubemogul.com
+325;youtube;glassdoor;1;scorecardresearch.com
+326;imgur;thetiebar;1;twitter.com
+327;fandango;deadspin;4;agkn.com | iasds01.com | krxd.net | mathtag.com
+328;aol;thechive;16;adadvisor.net | adsrvr.org | adtechus.com | advertising.com | agkn.com | bluekai.com | casalemedia.com | dotomi.com | lijit.com | media6degrees.com | nexac.com | pubmatic.com | rfihub.com | tapad.com | turn.com | twitter.com
+329;chase;southwest;1;demdex.net
+330;yahoo;whitepages;1;yahoo.com
+331;amazon;qpolitical;2;liverail.com | rubiconproject.com
+332;fandango;people;3;doubleclick.net | krxd.net | revsci.net
+333;people;guff;1;scorecardresearch.com
+334;conservativetribune;mic;4;bidswitch.net | crwdcntrl.net | doubleclick.net | quantserve.com
+335;mozilla;yellowpages;1;optimizely.com
+336;facebook;eonline;1;facebook.com
+337;usmagazine;theblaze;1;agkn.com
+338;yelp;gawker;3;agkn.com | rubiconproject.com | yahoo.com
+339;dose;thechive;6;adsrvr.org | agkn.com | pubmatic.com | rlcdn.com | scorecardresearch.com | taboola.com
+340;youtube;brainjet;1;scorecardresearch.com
+341;wayfair;goodreads;1;mediaplex.com
+342;answers;vimeo;1;quantserve.com
+343;ebay;godaddy;2;abmr.net | mathtag.com
+344;pinterest;diply;1;facebook.com
+345;inquisitr;glassdoor;6;bidswitch.net | bluekai.com | facebook.com | google.com | openx.net | rlcdn.com
+346;aol;cnn;2;agkn.com | criteo.com
+347;usmagazine;stackexchange;1;quantserve.com
+348;twitter;topix;1;twitter.com
+349;cnn;deadspin;4;agkn.com | criteo.com | imrworldwide.com | krxd.net
+350;nytimes;tmz;7;agkn.com | imrworldwide.com | krxd.net | pubmatic.com | quantserve.com | rlcdn.com | scorecardresearch.com
+351;buzzfeed;tmz;3;agkn.com | scorecardresearch.com | tubemogul.com
+352;buzzfeed;examiner;2;demdex.net | tubemogul.com
+353;weather;people;8;adsrvr.org | advertising.com | bluekai.com | gwallet.com | optimizely.com | quantserve.com | scorecardresearch.com | turn.com
+354;aol;gawker;2;agkn.com | criteo.com
+355;imgur;nbcnews;2;quantserve.com | twitter.com
+356;usmagazine;yellowpages;1;twitter.com
+357;sbnation;city-data;5;adadvisor.net | agkn.com | exelator.com | quantserve.com | rlcdn.com
+358;inquisitr;att;3;bluekai.com | demdex.net | doubleclick.net
+359;diply;wordpress;1;doubleclick.net
+360;ask;cnn;4;agkn.com | criteo.com | crwdcntrl.net | krxd.net
+361;paypal;whitepages;2;omtrdc.net | yahoo.com
+362;gawker;thoughtcatalog;1;skimresources.com
+363;weather;photobucket;15;adadvisor.net | advertising.com | agkn.com | atwola.com | bluekai.com | crwdcntrl.net | demdex.net | exelator.com | nexac.com | openx.net | quantserve.com | rfihub.com | rlcdn.com | ru4.com | sitescout.com
+364;youtube;gawker;1;voicefive.com
+365;city-data;deviantart;1;quantserve.com
+366;walmart;thoughtcatalog;1;bluekai.com
+367;live;chase;1;demdex.net
+368;glassdoor;ibtimes;4;bidswitch.net | google.com | openx.net | optimizely.com
+369;guff;tmz;1;scorecardresearch.com
+370;nydailynews;zergnet;2;quantserve.com | zergnet.com
+371;opposingviews;usps;1;chango.com
+372;stackexchange;people;1;quantserve.com
+373;aol;theblaze;8;adtechus.com | advertising.com | agkn.com | bluekai.com | btrll.com | criteo.com | dotomi.com | spotxchange.com
+374;thechive;lifehacker;3;adadvisor.net | agkn.com | rubiconproject.com
+375;blogspot;uproxx;2;google.com | youtube.com
+376;goodreads;tmz;1;quantserve.com
+377;wayfair;fandango;5;doubleclick.net | facebook.com | google.com | pubmatic.com | yahoo.com
+378;mic;theblaze;2;bidswitch.net | crwdcntrl.net
+379;youtube;nbcnews;2;doubleclick.net | mookie1.com
+380;vimeo;glassdoor;1;google.com
+381;live;nydailynews;1;demdex.net
+382;uproxx;fandango;1;google.com
+383;urbandictionary;mapquest;2;bidswitch.net | bluekai.com
+384;twitter;nydailynews;1;twitter.com
+385;ibtimes;southwest;1;advertising.com
+386;thetiebar;glassdoor;4;adroll.com | bidswitch.net | openx.net | rlcdn.com
+387;fandango;topix;14;adadvisor.net | agkn.com | doubleclick.net | exelator.com | facebook.com | iasds01.com | krxd.net | mathtag.com | nexac.com | pubmatic.com | revsci.net | rlcdn.com | spotxchange.com | tubemogul.com
+388;godaddy;theblaze;1;advertising.com
+389;sbnation;qpolitical;15;adadvisor.net | adsrvr.org | advertising.com | agkn.com | bluekai.com | casalemedia.com | chango.com | crwdcntrl.net | demdex.net | nexac.com | revsci.net | rfihub.com | rlcdn.com | taboola.com | yahoo.com
+390;usmagazine;bustle;2;krxd.net | twitter.com
+391;usmagazine;thetiebar;2;rlcdn.com | twitter.com
+392;aol;live;1;demdex.net
+393;answers;stackexchange;1;quantserve.com
+394;answers;deviantart;1;quantserve.com
+395;babycenter;tmz;2;imrworldwide.com | quantserve.com
+396;thetiebar;people;1;twitter.com
+397;wikia;imgur;1;quantserve.com
+398;wikia;mic;2;crwdcntrl.net | quantserve.com
+399;ask;att;1;bluekai.com
+400;walmart;vox;2;agkn.com | rlcdn.com
+401;mapquest;yellowpages;1;advertising.com
+402;godaddy;whitepages;3;advertising.com | rlcdn.com | turn.com
+403;youtube;conservativetribune;1;doubleclick.net
+404;examiner;ibtimes;6;addthis.com | advertising.com | bidswitch.net | postrelease.com | rtbidder.net | sonobi.com
+405;diply;nbcnews;1;doubleclick.net
+406;nydailynews;mic;4;bidswitch.net | crwdcntrl.net | doubleclick.net | quantserve.com
+407;urbandictionary;fandango;3;doubleclick.net | google.com | tubemogul.com
+408;amazon;wordpress;1;doubleclick.net
+409;twitter;bustle;1;twitter.com
+410;youngcons;yellowpages;4;adap.tv | advertising.com | mathtag.com | pubmatic.com
+411;blogger;urbandictionary;1;google.com
+412;about;people;1;optimizely.com
+413;wikia;ijreview;2;krxd.net | tubemogul.com
+414;blogger;uproxx;2;google.com | youtube.com
+415;buzzfeed;opposingviews;2;iasds01.com | scorecardresearch.com
+416;topix;lifehacker;7;adadvisor.net | agkn.com | amazon-adsystem.com | criteo.com | imrworldwide.com | krxd.net | rubiconproject.com
+417;godaddy;imdb;1;twitter.com
+418;dose;city-data;3;agkn.com | exelator.com | rlcdn.com
+419;wikia;yellowpages;6;mathtag.com | optimizely.com | rfihub.com | rubiconproject.com | turn.com | w55c.net
+420;aol;nytimes;8;agkn.com | btrll.com | casalemedia.com | liverail.com | pubmatic.com | rfihub.com | ru4.com | tapad.com
+421;microsoft;conservativetribune;1;google.com
+422;wordpress;vox;1;doubleclick.net
+423;nytimes;deadspin;4;agkn.com | imrworldwide.com | krxd.net | rubiconproject.com
+424;mozilla;healthline;1;optimizely.com
+425;godaddy;eonline;2;google.com | mathtag.com
+426;inquisitr;eonline;8;demdex.net | facebook.com | google.com | mathtag.com | pubmatic.com | quantserve.com | revsci.net | tubemogul.com
+427;yahoo;sbnation;2;yahoo.com | yimg.com
+428;gawker;lifehacker;7;agkn.com | criteo.com | gawker.com | kinja.com | krxd.net | rubiconproject.com | skimresources.com
+429;vimeo;brainjet;1;google.com
+430;diply;eonline;1;facebook.com
+431;wikia;whitepages;8;adsrvr.org | amazon-adsystem.com | bluekai.com | demdex.net | rfihub.com | rubiconproject.com | tidaltv.com | turn.com
+432;nydailynews;nytimes;8;agkn.com | btrll.com | imrworldwide.com | liverail.com | quantserve.com | revsci.net | rubiconproject.com | w55c.net
+433;aol;chase;3;demdex.net | doubleclick.net | ru4.com
+434;sbnation;people;9;adsrvr.org | advertising.com | bluekai.com | casalemedia.com | doubleclick.net | krxd.net | quantserve.com | revsci.net | skimresources.com
+435;whitepages;inquisitr;19;adsrvr.org | adtechus.com | advertising.com | bidswitch.net | bluekai.com | chango.com | connexity.net | criteo.com | demdex.net | eqads.com | facebook.com | netseer.com | openx.net | revsci.net | rfihub.com | rlcdn.com | ru4.com | tidaltv.com | turn.com
+436;mapquest;ibtimes;2;advertising.com | bidswitch.net
+437;stackexchange;eonline;1;quantserve.com
+438;paypal;photobucket;1;yahoo.com
+439;yahoo;qpolitical;1;yahoo.com
+440;fandango;examiner;10;doubleclick.net | exelator.com | krxd.net | mathtag.com | nexac.com | pubmatic.com | revsci.net | rlcdn.com | tubemogul.com | yahoo.com
+441;sbnation;inquisitr;25;adform.net | adsrvr.org | adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | criteo.com | crwdcntrl.net | demdex.net | doubleclick.net | everesttech.net | exelator.com | google.com | mathtag.com | openx.net | quantserve.com | revsci.net | rfihub.com | rlcdn.com | simpli.fi | skimresources.com | taboola.com | yimg.com
+442;weather;goodreads;1;quantserve.com
+443;nytimes;instructables;2;rubiconproject.com | scorecardresearch.com
+444;theblaze;nbcnews;5;agkn.com | btrll.com | crwdcntrl.net | rubiconproject.com | spotxchange.com
+445;aol;thoughtcatalog;2;bluekai.com | gravity.com
+446;ask;webmd;1;crwdcntrl.net
+447;youtube;imdb;1;doubleclick.net
+448;topix;vox;13;adadvisor.net | adnxs.com | agkn.com | amazon-adsystem.com | bidswitch.net | doubleclick.net | facebook.com | krxd.net | quantserve.com | rlcdn.com | scorecardresearch.com | sonobi.com | twitter.com
+449;urbandictionary;examiner;18;acuityplatform.com | adform.net | adgrx.com | bidswitch.net | bluekai.com | doubleclick.net | dpclk.com | gwallet.com | media6degrees.com | owneriq.net | rfihub.com | rtbidder.net | ru4.com | simpli.fi | sitescout.com | tapad.com | tubemogul.com | w55c.net
+450;nytimes;examiner;10;btrll.com | krxd.net | liverail.com | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | tapad.com | w55c.net
+451;linkedin;usmagazine;1;imrworldwide.com
+452;paypal;nydailynews;1;youtube.com
+453;thechive;deadspin;2;agkn.com | rubiconproject.com
+454;whitepages;healthline;4;adsrvr.org | adtechus.com | openx.net | rubiconproject.com
+455;photobucket;imdb;2;doubleclick.net | twitter.com
+456;usmagazine;vox;5;agkn.com | krxd.net | quantserve.com | rlcdn.com | twitter.com
+457;conservativetribune;topix;17;4dsply.com | adsrvr.org | bidswitch.net | btrll.com | contextweb.com | crwdcntrl.net | doubleclick.net | facebook.com | mathtag.com | media6degrees.com | pubmatic.com | quantserve.com | rlcdn.com | sitescout.com | tubemogul.com | turn.com | w55c.net
+458;youngcons;webmd;1;crwdcntrl.net
+459;buzzfeed;walmart;2;agkn.com | tubemogul.com
+460;fandango;chase;3;doubleclick.net | rlcdn.com | yahoo.com
+461;usmagazine;dose;4;agkn.com | exelator.com | krxd.net | rlcdn.com
+462;examiner;usps;2;chango.com | turn.com
+463;yelp;tmz;6;adsrvr.org | agkn.com | imrworldwide.com | quantserve.com | simpli.fi | tubemogul.com
+464;yelp;whitepages;13;adsrvr.org | advertising.com | bluekai.com | chango.com | revsci.net | rfihub.com | ru4.com | rubiconproject.com | rundsp.com | sitescout.com | tidaltv.com | turn.com | yahoo.com
+465;inquisitr;city-data;3;exelator.com | quantserve.com | rlcdn.com
+466;thetiebar;deviantart;2;bidswitch.net | openx.net
+467;blogger;brainjet;1;google.com
+468;uproxx;eonline;3;google.com | insightexpressai.com | quantserve.com
+469;whitepages;dose;2;adsrvr.org | rlcdn.com
+470;thoughtcatalog;deadspin;1;skimresources.com
+471;linkedin;cnn;1;imrworldwide.com
+472;nytimes;uproxx;2;imrworldwide.com | quantserve.com
+473;weather;att;2;bluekai.com | demdex.net
+474;sbnation;youngcons;5;adform.net | advertising.com | crwdcntrl.net | mathtag.com | revsci.net
+475;people;deviantart;5;casalemedia.com | doubleclick.net | quantserve.com | rubiconproject.com | scorecardresearch.com
+476;wikia;deviantart;3;quantserve.com | rubiconproject.com | scorecardresearch.com
+477;twitter;inquisitr;2;google.com | twitter.com
+478;twitter;uproxx;1;google.com
+479;diply;imdb;1;doubleclick.net
+480;buzzfeed;glassdoor;1;scorecardresearch.com
+481;usmagazine;gawker;3;agkn.com | krxd.net | rlcdn.com
+482;urbandictionary;gawker;1;rubiconproject.com
+483;photobucket;att;3;bluekai.com | demdex.net | doubleclick.net
+484;aol;nydailynews;15;adtechus.com | advertising.com | agkn.com | bluekai.com | btrll.com | contextweb.com | demdex.net | dotomi.com | doubleclick.net | everesttech.net | liverail.com | media6degrees.com | spotxchange.com | turn.com | twitter.com
+485;facebook;instructables;1;facebook.com
+486;people;photobucket;8;advertising.com | bluekai.com | casalemedia.com | doubleclick.net | quantserve.com | revsci.net | rubiconproject.com | twitter.com
+487;google;yellowpages;1;google.com
+488;gawker;deadspin;6;agkn.com | criteo.com | kinja.com | krxd.net | rubiconproject.com | skimresources.com
+489;city-data;glassdoor;1;rlcdn.com
+490;ibtimes;vox;6;adnxs.com | bidswitch.net | getclicky.com | google.com | sonobi.com | twitter.com
+491;usmagazine;lifehacker;3;agkn.com | imrworldwide.com | krxd.net
+492;walmart;city-data;2;agkn.com | rlcdn.com
+493;yelp;imgur;1;quantserve.com
+494;instructables;tmz;2;facebook.com | scorecardresearch.com
+495;aol;ijreview;1;tubemogul.com
+496;buzzfeed;southwest;2;demdex.net | tubemogul.com
+497;tmz;thechive;14;adadvisor.net | adnxs.com | adsrvr.org | agkn.com | facebook.com | media6degrees.com | nexac.com | pubmatic.com | quantserve.com | rlcdn.com | scorecardresearch.com | simpli.fi | taboola.com | twitter.com
+498;people;thoughtcatalog;2;bluekai.com | skimresources.com
+499;nytimes;nbcnews;10;agkn.com | btrll.com | dynamicyield.com | krxd.net | liverail.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com
+500;zergnet;city-data;1;quantserve.com
+501;theblaze;cnn;3;agkn.com | criteo.com | crwdcntrl.net
+502;fandango;eonline;11;adadvisor.net | agkn.com | facebook.com | google.com | krxd.net | mathtag.com | pubmatic.com | revsci.net | spotxchange.com | tubemogul.com | visualdna.com
+503;wikia;examiner;14;addthis.com | adsrvr.org | bluekai.com | btrll.com | crwdcntrl.net | demdex.net | gwallet.com | krxd.net | mathtag.com | rfihub.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+504;healthline;glassdoor;2;openx.net | optimizely.com
+505;legacy;zergnet;2;quantserve.com | scorecardresearch.com
+506;qpolitical;webmd;3;crwdcntrl.net | tapad.com | turn.com
+507;uproxx;opposingviews;1;quantserve.com
+508;bustle;ijreview;1;krxd.net
+509;urbandictionary;imdb;1;doubleclick.net
+510;youtube;babycenter;1;voicefive.com
+511;eonline;topix;12;adadvisor.net | agkn.com | facebook.com | insightexpressai.com | krxd.net | mathtag.com | pubmatic.com | quantserve.com | revsci.net | serving-sys.com | spotxchange.com | tubemogul.com
+512;goodreads;city-data;1;quantserve.com
+513;godaddy;sbnation;4;advertising.com | google.com | mathtag.com | rlcdn.com
+514;eonline;thoughtcatalog;1;insightexpressai.com
+515;whitepages;glassdoor;6;adroll.com | bidswitch.net | bluekai.com | facebook.com | openx.net | rlcdn.com
+516;weather;usps;1;turn.com
+517;urbandictionary;qpolitical;6;bluekai.com | media6degrees.com | rfihub.com | ru4.com | rubiconproject.com | tapad.com
+518;conservativetribune;babycenter;1;quantserve.com
+519;cnn;thoughtcatalog;1;insightexpressai.com
+520;buzzfeed;adobe;1;demdex.net
+521;about;thechive;1;optimizely.com
+522;buzzfeed;cnn;1;agkn.com
+523;mic;mapquest;1;bidswitch.net
+524;ibtimes;brainjet;1;google.com
+525;inquisitr;nbcnews;13;connexity.net | crwdcntrl.net | doubleclick.net | exelator.com | mathtag.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | tribalfusion.com | tubemogul.com | twitter.com | zergnet.com
+526;bustle;inquisitr;2;facebook.com | twitter.com
+527;buzzfeed;deadspin;2;agkn.com | iasds01.com
+528;mic;people;2;doubleclick.net | quantserve.com
+529;uproxx;deadspin;1;imrworldwide.com
+530;urbandictionary;glassdoor;3;bidswitch.net | bluekai.com | google.com
+531;nydailynews;distractify;1;doubleclick.net
+532;bustle;nbcnews;3;krxd.net | serving-sys.com | twitter.com
+533;urbandictionary;city-data;1;quantserve.com
+534;linkedin;wayfair;1;scorecardresearch.com
+535;aol;fandango;7;adadvisor.net | agkn.com | doubleclick.net | nexac.com | pubmatic.com | spotxchange.com | tubemogul.com
+536;usmagazine;ijreview;1;krxd.net
+537;people;cnn;3;krxd.net | optimizely.com | outbrain.com
+538;nbcnews;qpolitical;10;adadvisor.net | agkn.com | btrll.com | crwdcntrl.net | liverail.com | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com | spotxchange.com
+539;photobucket;instructables;2;facebook.com | rubiconproject.com
+540;sbnation;imdb;1;doubleclick.net
+541;blogger;vimeo;1;google.com
+542;mozilla;ibtimes;1;optimizely.com
+543;imdb;deviantart;1;doubleclick.net
+544;nytimes;ijreview;1;krxd.net
+545;twitter;nbcnews;1;twitter.com
+546;weather;vox;5;adadvisor.net | agkn.com | quantserve.com | rlcdn.com | scorecardresearch.com
+547;city-data;examiner;3;adsymptotic.com | exelator.com | rlcdn.com
+548;littlethings;nydailynews;1;postrelease.com
+549;wordpress;thoughtcatalog;1;wordpress.com
+550;linkedin;legacy;1;scorecardresearch.com
+551;legacy;photobucket;1;quantserve.com
+552;bustle;people;2;krxd.net | twitter.com
+553;wayfair;usps;1;turn.com
+554;yelp;linkedin;1;imrworldwide.com
+555;mic;babycenter;1;quantserve.com
+556;wikia;glassdoor;3;bluekai.com | optimizely.com | scorecardresearch.com
+557;nytimes;mic;1;quantserve.com
+558;ibtimes;webmd;1;postrelease.com
+559;dose;instructables;1;scorecardresearch.com
+560;wikia;eonline;7;agkn.com | demdex.net | krxd.net | mathtag.com | quantserve.com | tubemogul.com | visualdna.com
+561;fandango;cnn;2;agkn.com | krxd.net
+562;walmart;uproxx;1;turn.com
+563;yahoo;gawker;2;yahoo.com | yimg.com
+564;aol;babycenter;1;advertising.com
+565;city-data;thechive;4;adadvisor.net | agkn.com | quantserve.com | rlcdn.com
+566;instructables;qpolitical;1;rubiconproject.com
+567;ebay;eonline;1;mathtag.com
+568;twitter;blogger;1;google.com
+569;paypal;tmz;1;youtube.com
+570;ask;mic;2;crwdcntrl.net | mookie1.com
+571;aol;imgur;1;twitter.com
+572;mic;youngcons;1;crwdcntrl.net
+573;yelp;nytimes;10;agkn.com | btrll.com | imrworldwide.com | quantserve.com | revsci.net | rfihub.com | ru4.com | rubiconproject.com | tapad.com | w55c.net
+574;walmart;people;4;adsrvr.org | bluekai.com | rubiconproject.com | turn.com
+575;youtube;linkedin;1;scorecardresearch.com
+576;youtube;examiner;2;doubleclick.net | mookie1.com
+577;opposingviews;inquisitr;13;adform.net | adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | mathtag.com | mxptint.net | openx.net | quantserve.com | revsci.net | tribalfusion.com
+578;healthline;att;1;doubleclick.net
+579;people;theblaze;3;advertising.com | bluekai.com | rubiconproject.com
+580;urbandictionary;thoughtcatalog;1;bluekai.com
+581;yelp;webmd;2;tapad.com | turn.com
+582;wordpress;healthline;1;doubleclick.net
+583;people;qpolitical;7;adsrvr.org | advertising.com | bluekai.com | casalemedia.com | revsci.net | rubiconproject.com | turn.com
+584;aol;examiner;19;addthis.com | adsrvr.org | adtechus.com | advertising.com | bluekai.com | btrll.com | demdex.net | doubleclick.net | eyeviewads.com | liverail.com | media6degrees.com | nexac.com | pubmatic.com | rfihub.com | ru4.com | tapad.com | tubemogul.com | turn.com | wtp101.com
+585;deviantart;lifehacker;1;rubiconproject.com
+586;stackexchange;zergnet;1;quantserve.com
+587;blogger;conservativetribune;1;google.com
+588;inquisitr;vox;8;bidswitch.net | doubleclick.net | facebook.com | google.com | quantserve.com | rlcdn.com | skimresources.com | twitter.com
+589;inquisitr;examiner;29;adform.net | adsrvr.org | adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | crwdcntrl.net | demdex.net | doubleclick.net | eqads.com | exelator.com | gwallet.com | mathtag.com | owneriq.net | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | rtbidder.net | ru4.com | simpli.fi | tidaltv.com | tubemogul.com | turn.com | w55c.net | yashi.com | yimg.com
+590;qpolitical;yellowpages;8;adap.tv | advertising.com | pubmatic.com | rfihub.com | rubiconproject.com | tapad.com | turn.com | yahoo.com
+591;legacy;mozilla;1;optimizely.com
+592;fandango;instructables;1;facebook.com
+593;urbandictionary;yellowpages;5;google.com | rfihub.com | rubiconproject.com | tapad.com | w55c.net
+594;photobucket;topix;39;4dsply.com | adadvisor.net | adform.net | adgrx.com | advertising.com | agkn.com | amazon-adsystem.com | atwola.com | bluekai.com | btrll.com | cardlytics.com | casalemedia.com | collective-media.net | connexity.net | crwdcntrl.net | doubleclick.net | eqads.com | exelator.com | facebook.com | glam.com | imrworldwide.com | liverail.com | media6degrees.com | nexac.com | openx.net | pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | sitescout.com | sonobi.com | spotxchange.com | tapad.com | tidaltv.com | twitter.com | w55c.net
+595;amazon;deadspin;2;amazon-adsystem.com | rubiconproject.com
+596;zergnet;guff;1;scorecardresearch.com
+597;facebook;vox;1;facebook.com
+598;topix;webmd;3;crwdcntrl.net | tapad.com | turn.com
+599;nydailynews;thoughtcatalog;2;bluekai.com | parsely.com
+600;qpolitical;cnn;2;agkn.com | crwdcntrl.net
+601;walmart;thetiebar;1;rlcdn.com
+602;youtube;walmart;1;mookie1.com
+603;conservativetribune;zergnet;1;quantserve.com
+604;eonline;deadspin;3;agkn.com | krxd.net | mathtag.com
+605;instructables;lifehacker;1;rubiconproject.com
+606;whitepages;sbnation;14;adsrvr.org | adtechus.com | advertising.com | bidswitch.net | bluekai.com | chango.com | criteo.com | demdex.net | dotomi.com | openx.net | revsci.net | rfihub.com | rlcdn.com | yahoo.com
+607;microsoft;inquisitr;3;bing.com | bluekai.com | google.com
+608;urbandictionary;webmd;1;tapad.com
+609;healthline;eonline;4;agkn.com | pubmatic.com | quantserve.com | serving-sys.com
+610;glassdoor;chase;1;rlcdn.com
+611;twitter;wayfair;1;google.com
+612;yelp;nydailynews;17;adsymptotic.com | advertising.com | agkn.com | bluekai.com | btrll.com | chango.com | imrworldwide.com | optimatic.com | quantserve.com | revsci.net | rubiconproject.com | rundsp.com | simpli.fi | spotxchange.com | tidaltv.com | turn.com | w55c.net
+613;vimeo;examiner;1;mathtag.com
+614;yelp;theblaze;8;advertising.com | agkn.com | bluekai.com | btrll.com | chango.com | optimatic.com | rubiconproject.com | spotxchange.com
+615;twitter;imdb;1;twitter.com
+616;wayfair;thoughtcatalog;1;bluekai.com
+617;sbnation;usps;1;chango.com
+618;thechive;webmd;2;tapad.com | turn.com
+619;nytimes;vox;5;agkn.com | krxd.net | quantserve.com | rlcdn.com | scorecardresearch.com
+620;topix;cnn;7;agkn.com | criteo.com | crwdcntrl.net | dmtry.com | imrworldwide.com | insightexpressai.com | krxd.net
+621;nytimes;photobucket;14;agkn.com | btrll.com | casalemedia.com | imrworldwide.com | liverail.com | pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | tapad.com | w55c.net
+622;amazon;yellowpages;3;facebook.com | openx.net | rubiconproject.com
+623;answers;conservativetribune;1;quantserve.com
+624;weather;nytimes;6;agkn.com | quantserve.com | rfihub.com | rlcdn.com | ru4.com | scorecardresearch.com
+625;thetiebar;healthline;1;openx.net
+626;wayfair;guff;1;scorecardresearch.com
+627;uproxx;ibtimes;1;google.com
+628;walmart;tmz;6;adsrvr.org | agkn.com | criteo.com | nexac.com | rlcdn.com | tubemogul.com
+629;eonline;glassdoor;2;facebook.com | google.com
+630;vox;cnn;2;agkn.com | krxd.net
+631;aol;godaddy;3;advertising.com | turn.com | twitter.com
+632;pinterest;instructables;1;facebook.com
+633;legacy;nbcnews;1;quantserve.com
+634;nytimes;yellowpages;5;pubmatic.com | rfihub.com | rubiconproject.com | tapad.com | w55c.net
+635;yelp;cnn;2;agkn.com | imrworldwide.com
+636;sbnation;mapquest;5;advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com
+637;walmart;inquisitr;10;adsrvr.org | bluekai.com | criteo.com | rfihub.com | rlcdn.com | ru4.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+638;urbandictionary;southwest;1;tubemogul.com
+639;youtube;uproxx;1;youtube.com
+640;imgur;zergnet;1;quantserve.com
+641;amazon;thechive;3;facebook.com | openx.net | rubiconproject.com
+642;aol;qpolitical;18;adadvisor.net | addthis.com | adsrvr.org | advertising.com | agkn.com | bluekai.com | btrll.com | casalemedia.com | demdex.net | liverail.com | media6degrees.com | nexac.com | pubmatic.com | rfihub.com | ru4.com | spotxchange.com | tapad.com | turn.com
+643;weather;ask;10;adadvisor.net | addthis.com | advertising.com | agkn.com | bluekai.com | crwdcntrl.net | exelator.com | mathtag.com | nexac.com | rlcdn.com
+644;inquisitr;youngcons;6;adform.net | advertising.com | crwdcntrl.net | mathtag.com | pubmatic.com | revsci.net
+645;wikia;sbnation;9;adsrvr.org | agkn.com | bluekai.com | crwdcntrl.net | demdex.net | krxd.net | mathtag.com | quantserve.com | rfihub.com
+646;wayfair;conservativetribune;8;adsrvr.org | btrll.com | doubleclick.net | facebook.com | google.com | pubmatic.com | sitescout.com | turn.com
+647;ibtimes;tmz;4;adnxs.com | criteo.com | google.com | twitter.com
+648;bustle;topix;4;facebook.com | krxd.net | serving-sys.com | twitter.com
+649;healthline;examiner;4;adsrvr.org | adtechus.com | doubleclick.net | pubmatic.com
+650;adobe;usmagazine;4;bizographics.com | exelator.com | nexac.com | quantserve.com
+651;adobe;whitepages;3;demdex.net | omtrdc.net | rfihub.com
+652;amazon;walmart;1;rubiconproject.com
+653;examiner;webmd;4;crwdcntrl.net | postrelease.com | tapad.com | turn.com
+654;mozilla;cnn;1;optimizely.com
+655;wayfair;att;2;bluekai.com | doubleclick.net
+656;godaddy;nydailynews;3;advertising.com | turn.com | twitter.com
+657;vox;thoughtcatalog;1;skimresources.com
+658;yelp;topix;22;adsrvr.org | adsymptotic.com | advertising.com | agkn.com | bluekai.com | btrll.com | chango.com | imrworldwide.com | mathtag.com | quantserve.com | revsci.net | rfihub.com | ru4.com | rubiconproject.com | rundsp.com | sitescout.com | spotxchange.com | tapad.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+659;wikia;adobe;6;atwola.com | demdex.net | gwallet.com | quantserve.com | rfihub.com | w55c.net
+660;wikia;qpolitical;10;addthis.com | adsrvr.org | agkn.com | bluekai.com | btrll.com | crwdcntrl.net | demdex.net | rfihub.com | rubiconproject.com | turn.com
+661;aol;webmd;3;audienceiq.com | tapad.com | turn.com
+662;ask;thoughtcatalog;1;bluekai.com
+663;amazon;att;1;doubleclick.net
+664;topix;imdb;2;doubleclick.net | twitter.com
+665;blogspot;tmz;2;google.com | youtube.com
+666;yelp;buzzfeed;2;agkn.com | tubemogul.com
+667;theblaze;thoughtcatalog;1;bluekai.com
+668;pinterest;usmagazine;1;pinterest.com
+669;youngcons;thechive;3;advertising.com | pubmatic.com | revsci.net
+670;about;weather;1;optimizely.com
+671;glassdoor;examiner;3;bidswitch.net | bluekai.com | rlcdn.com
+672;microsoft;weather;1;bluekai.com
+673;usmagazine;qpolitical;3;agkn.com | nexac.com | rlcdn.com
+674;theblaze;att;1;bluekai.com
+675;city-data;chase;1;rlcdn.com
+676;mapquest;usps;1;chango.com
+677;ebay;nbcnews;1;mathtag.com
+678;healthline;youngcons;1;pubmatic.com
+679;legacy;instructables;1;scorecardresearch.com
+680;nytimes;topix;16;agkn.com | btrll.com | casalemedia.com | imrworldwide.com | krxd.net | liverail.com | pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | scorecardresearch.com | tapad.com | w55c.net
+681;adobe;mic;1;quantserve.com
+682;thechive;southwest;1;advertising.com
+683;youtube;aol;1;doubleclick.net
+684;bustle;vox;3;facebook.com | krxd.net | twitter.com
+685;imgur;deviantart;1;quantserve.com
+686;live;adobe;1;demdex.net
+687;imgur;mic;1;quantserve.com
+688;thetiebar;ibtimes;3;bidswitch.net | openx.net | twitter.com
+689;mapquest;theblaze;6;advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | iasds01.com
+690;qpolitical;thechive;17;adadvisor.net | adsrvr.org | advertising.com | agkn.com | bluekai.com | casalemedia.com | chango.com | media6degrees.com | nexac.com | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com | taboola.com | tapad.com | turn.com
+691;eonline;att;1;demdex.net
+692;whitepages;eonline;3;demdex.net | facebook.com | revsci.net
+693;people;examiner;8;adsrvr.org | advertising.com | bluekai.com | doubleclick.net | gwallet.com | krxd.net | revsci.net | turn.com
+694;pinterest;wayfair;1;facebook.com
+695;glassdoor;nbcnews;1;rlcdn.com
+696;linkedin;dose;1;scorecardresearch.com
+697;walmart;instructables;1;rubiconproject.com
+698;inquisitr;webmd;2;crwdcntrl.net | turn.com
+699;wikia;legacy;3;optimizely.com | quantserve.com | scorecardresearch.com
+700;gawker;thechive;3;agkn.com | rlcdn.com | rubiconproject.com
+701;conservativetribune;gawker;1;rlcdn.com
+702;aol;tmz;10;adadvisor.net | adsrvr.org | agkn.com | criteo.com | gravity.com | media6degrees.com | nexac.com | pubmatic.com | tubemogul.com | twitter.com
+703;opposingviews;thechive;13;adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | casalemedia.com | chango.com | nexac.com | openx.net | quantserve.com | revsci.net | scorecardresearch.com | tribalfusion.com
+704;stackexchange;healthline;1;quantserve.com
+705;topix;deviantart;10;adnxs.com | bidswitch.net | casalemedia.com | doubleclick.net | openx.net | pubmatic.com | quantserve.com | rubiconproject.com | scorecardresearch.com | sonobi.com
+706;godaddy;yellowpages;5;advertising.com | google.com | mathtag.com | turn.com | twitter.com
+707;weather;inquisitr;15;adsrvr.org | advertising.com | bluekai.com | crwdcntrl.net | demdex.net | exelator.com | gwallet.com | mathtag.com | openx.net | quantserve.com | rfihub.com | rlcdn.com | ru4.com | taboola.com | turn.com
+708;opposingviews;deadspin;2;iasds01.com | mathtag.com
+709;wikia;instructables;2;rubiconproject.com | scorecardresearch.com
+710;inquisitr;ibtimes;7;advertising.com | bidswitch.net | criteo.com | google.com | openx.net | rtbidder.net | twitter.com
+711;topix;qpolitical;24;4dsply.com | adadvisor.net | addthis.com | adsrvr.org | advertising.com | agkn.com | bluekai.com | btrll.com | casalemedia.com | chango.com | collective-media.net | crwdcntrl.net | liverail.com | media6degrees.com | nexac.com | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | spotxchange.com | tapad.com | turn.com
+712;fandango;babycenter;1;revsci.net
+713;amazon;opposingviews;1;openx.net
+714;nytimes;cnn;3;agkn.com | imrworldwide.com | krxd.net
+715;amazon;ibtimes;1;openx.net
+716;ask;healthline;4;agkn.com | pagefair.com | pubmatic.com | rubiconproject.com
+717;gawker;deviantart;1;rubiconproject.com
+718;twitter;eonline;1;google.com
+719;conservativetribune;deviantart;4;bidswitch.net | doubleclick.net | pubmatic.com | quantserve.com
+720;glassdoor;att;1;bluekai.com
+721;vimeo;topix;3;amazon-adsystem.com | mathtag.com | quantserve.com
+722;wordpress;distractify;1;doubleclick.net
+723;stackexchange;inquisitr;1;quantserve.com
+724;youtube;vox;2;doubleclick.net | scorecardresearch.com
+725;whitepages;thoughtcatalog;1;bluekai.com
+726;photobucket;lifehacker;5;adadvisor.net | agkn.com | amazon-adsystem.com | imrworldwide.com | rubiconproject.com
+727;youtube;att;1;doubleclick.net
+728;theblaze;topix;16;3lift.com | adnxs.com | advertising.com | agkn.com | bidswitch.net | bluekai.com | bnmla.com | btrll.com | chango.com | criteo.com | crwdcntrl.net | iasds01.com | openx.net | rubiconproject.com | spotxchange.com | zemanta.com
+729;sbnation;thetiebar;4;bidswitch.net | dotomi.com | openx.net | rlcdn.com
+730;wikia;youngcons;2;crwdcntrl.net | mathtag.com
+731;conservativetribune;deadspin;1;mathtag.com
+732;imgur;goodreads;1;quantserve.com
+733;ask;stackexchange;1;smartadserver.com
+734;yelp;usps;2;chango.com | turn.com
+735;thoughtcatalog;thechive;1;bluekai.com
+736;linkedin;zergnet;1;scorecardresearch.com
+737;godaddy;topix;5;advertising.com | mathtag.com | rlcdn.com | turn.com | twitter.com
+738;youtube;sbnation;3;doubleclick.net | mookie1.com | voicefive.com
+739;amazon;glassdoor;2;facebook.com | openx.net
+740;zergnet;eonline;1;quantserve.com
+741;ebay;sbnation;1;mathtag.com
+742;amazon;inquisitr;3;doubleclick.net | facebook.com | openx.net
+743;aol;adobe;6;atwola.com | demdex.net | everesttech.net | nexac.com | rfihub.com | tapad.com
+744;examiner;deviantart;5;adtechus.com | bidswitch.net | doubleclick.net | pubmatic.com | sonobi.com
+745;usmagazine;nytimes;5;agkn.com | imrworldwide.com | krxd.net | quantserve.com | rlcdn.com
+746;ebay;deadspin;1;mathtag.com
+747;wikia;babycenter;1;quantserve.com
+748;bing;inquisitr;1;bing.com
+749;vimeo;deviantart;1;quantserve.com
+750;godaddy;blogger;1;google.com
+751;mic;ibtimes;1;bidswitch.net
+752;distractify;chase;1;doubleclick.net
+753;aol;youngcons;2;advertising.com | pubmatic.com
+754;bustle;lifehacker;1;krxd.net
+755;ask;fandango;9;adadvisor.net | agkn.com | exelator.com | krxd.net | mathtag.com | nexac.com | pubmatic.com | rlcdn.com | spotxchange.com
+756;imgur;yellowpages;1;twitter.com
+757;adobe;nytimes;4;quantserve.com | rfihub.com | tapad.com | w55c.net
+758;zergnet;photobucket;1;quantserve.com
+759;vox;deadspin;4;agkn.com | amazon-adsystem.com | krxd.net | skimresources.com
+760;adobe;thechive;5;nexac.com | quantserve.com | rfihub.com | tapad.com | w55c.net
+761;godaddy;people;3;advertising.com | turn.com | twitter.com
+762;zergnet;healthline;1;quantserve.com
+763;adobe;weather;8;atwola.com | demdex.net | exelator.com | gwallet.com | nexac.com | omtrdc.net | quantserve.com | rfihub.com
+764;weather;city-data;5;adadvisor.net | agkn.com | exelator.com | quantserve.com | rlcdn.com
+765;ask;people;5;advertising.com | bluekai.com | casalemedia.com | krxd.net | rubiconproject.com
+766;youtube;wayfair;2;doubleclick.net | scorecardresearch.com
+767;theblaze;thechive;14;adnxs.com | adtechus.com | advertising.com | agkn.com | bidswitch.net | bluekai.com | bnmla.com | bounceexchange.com | chango.com | dotomi.com | fastclick.net | openx.net | rubiconproject.com | taboola.com
+768;wayfair;ask;5;bluekai.com | btrll.com | casalemedia.com | pubmatic.com | rubiconproject.com
+769;wikia;people;9;adsrvr.org | bluekai.com | gwallet.com | krxd.net | optimizely.com | quantserve.com | rubiconproject.com | scorecardresearch.com | turn.com
+770;diply;topix;2;doubleclick.net | facebook.com
+771;ebay;examiner;1;mathtag.com
+772;inquisitr;distractify;1;doubleclick.net
+773;vimeo;babycenter;1;quantserve.com
+774;godaddy;uproxx;2;google.com | turn.com
+775;eonline;examiner;7;demdex.net | krxd.net | mathtag.com | mookie1.com | pubmatic.com | revsci.net | tubemogul.com
+776;healthline;people;5;adsrvr.org | doubleclick.net | optimizely.com | quantserve.com | rubiconproject.com
+777;zergnet;dose;1;scorecardresearch.com
+778;usmagazine;cnn;3;agkn.com | imrworldwide.com | krxd.net
+779;ijreview;lifehacker;1;krxd.net
+780;instructables;vox;2;facebook.com | scorecardresearch.com
+781;conservativetribune;photobucket;13;4dsply.com | btrll.com | crwdcntrl.net | doubleclick.net | eyereturn.com | facebook.com | google.com | media6degrees.com | pubmatic.com | quantserve.com | rlcdn.com | sitescout.com | w55c.net
+782;legacy;yellowpages;1;optimizely.com
+783;msn;tmz;1;serving-sys.com
+784;legacy;thechive;3;optimizely.com | quantserve.com | scorecardresearch.com
+785;adobe;uproxx;1;quantserve.com
+786;linkedin;babycenter;1;imrworldwide.com
+787;whitepages;topix;24;254a.com | adsrvr.org | advertising.com | amazon-adsystem.com | bidswitch.net | bluekai.com | chango.com | connexity.net | criteo.com | dmtry.com | eqads.com | facebook.com | media6degrees.com | openx.net | revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | rundsp.com | sitescout.com | tidaltv.com | turn.com | wtp101.com
+788;cnn;youngcons;1;crwdcntrl.net
+789;conservativetribune;uproxx;4;crwdcntrl.net | google.com | quantserve.com | turn.com
+790;yelp;mic;1;quantserve.com
+791;thetiebar;theblaze;3;bidswitch.net | dotomi.com | openx.net
+792;vimeo;vox;3;amazon-adsystem.com | google.com | quantserve.com
+793;tmz;brainjet;2;google.com | scorecardresearch.com
+794;blogspot;vox;1;google.com
+795;amazon;nydailynews;6;amazon-adsystem.com | contextweb.com | doubleclick.net | liverail.com | openx.net | rubiconproject.com
+796;nytimes;guff;1;scorecardresearch.com
+797;aol;ask;14;adadvisor.net | addthis.com | advertising.com | agkn.com | bluekai.com | btrll.com | casalemedia.com | contextweb.com | criteo.com | lijit.com | nexac.com | pubmatic.com | smartadserver.com | spotxchange.com
+798;conservativetribune;dose;3;adsrvr.org | pubmatic.com | rlcdn.com
+799;sbnation;imgur;1;quantserve.com
+800;theblaze;usps;1;chango.com
+801;legacy;inquisitr;1;quantserve.com
+802;usmagazine;vimeo;1;quantserve.com
+803;healthline;lifehacker;2;agkn.com | rubiconproject.com
+804;mic;goodreads;1;quantserve.com
+805;thetiebar;city-data;1;rlcdn.com
+806;microsoft;theblaze;1;bluekai.com
+807;wordpress;chase;1;doubleclick.net
+808;uproxx;thechive;3;lijit.com | quantserve.com | turn.com
+809;qpolitical;youngcons;7;4dsply.com | adap.tv | advertising.com | collective-media.net | crwdcntrl.net | pubmatic.com | revsci.net
+810;yelp;usmagazine;3;agkn.com | imrworldwide.com | quantserve.com
+811;adobe;photobucket;8;atwola.com | demdex.net | exelator.com | nexac.com | quantserve.com | rfihub.com | tapad.com | w55c.net
+812;examiner;southwest;4;advertising.com | demdex.net | tidaltv.com | tubemogul.com
+813;mic;tmz;2;quantserve.com | serving-sys.com
+814;topix;thoughtcatalog;2;bluekai.com | insightexpressai.com
+815;inquisitr;instructables;1;facebook.com
+816;adobe;topix;10;adsymptotic.com | atwola.com | bizographics.com | exelator.com | gwallet.com | nexac.com | quantserve.com | rfihub.com | tapad.com | w55c.net
+817;instructables;deviantart;2;rubiconproject.com | scorecardresearch.com
+818;buzzfeed;qpolitical;2;agkn.com | demdex.net
+819;ebay;paypal;1;ebay.com
+820;weather;mic;3;crwdcntrl.net | quantserve.com | serving-sys.com
+821;wayfair;mic;1;doubleclick.net
+822;imgur;topix;2;quantserve.com | twitter.com
+823;vimeo;photobucket;3;amazon-adsystem.com | google.com | quantserve.com
+824;uproxx;nbcnews;3;crwdcntrl.net | lijit.com | quantserve.com
+825;wikia;vox;5;agkn.com | amazon-adsystem.com | krxd.net | quantserve.com | scorecardresearch.com
+826;imgur;ibtimes;1;twitter.com
+827;weather;urbandictionary;6;bluekai.com | gwallet.com | quantserve.com | rfihub.com | ru4.com | sitescout.com
+828;ask;nbcnews;12;adadvisor.net | agkn.com | btrll.com | crwdcntrl.net | exelator.com | krxd.net | lijit.com | mathtag.com | mookie1.com | rlcdn.com | rubiconproject.com | spotxchange.com
+829;walmart;mapquest;1;bluekai.com
+830;answers;people;1;quantserve.com
+831;google;blogspot;1;google.com
+832;littlethings;ibtimes;1;postrelease.com
+833;glassdoor;instructables;2;facebook.com | scorecardresearch.com
+834;photobucket;deviantart;7;casalemedia.com | doubleclick.net | openx.net | pubmatic.com | quantserve.com | rubiconproject.com | sonobi.com
+835;amazon;sbnation;3;contextweb.com | doubleclick.net | openx.net
+836;glassdoor;deviantart;3;bidswitch.net | openx.net | scorecardresearch.com
+837;godaddy;nytimes;1;rlcdn.com
+838;nytimes;inquisitr;7;pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | w55c.net
+839;bing;microsoft;1;bing.com
+840;topix;chase;4;bing.com | doubleclick.net | rlcdn.com | ru4.com
+841;southwest;yellowpages;1;advertising.com
+842;walmart;dose;3;adsrvr.org | agkn.com | rlcdn.com
+843;mapquest;people;2;advertising.com | bluekai.com
+844;uproxx;zergnet;1;quantserve.com
+845;youtube;photobucket;2;doubleclick.net | voicefive.com
+846;conservativetribune;opposingviews;3;bidswitch.net | mathtag.com | quantserve.com
+847;thetiebar;chase;1;rlcdn.com
+848;wordpress;conservativetribune;1;doubleclick.net
+849;conservativetribune;goodreads;1;quantserve.com
+850;dose;vox;5;agkn.com | krxd.net | ml314.com | rlcdn.com | scorecardresearch.com
+851;thetiebar;topix;4;bidswitch.net | openx.net | rlcdn.com | twitter.com
+852;conservativetribune;ijreview;2;cloudflare.com | tubemogul.com
+853;wikia;city-data;2;agkn.com | quantserve.com
+854;whitepages;yellowpages;7;advertising.com | facebook.com | openx.net | rfihub.com | rubiconproject.com | turn.com | yahoo.com
+855;wordpress;photobucket;1;doubleclick.net
+856;urbandictionary;thechive;11;bidswitch.net | bluekai.com | media6degrees.com | quantserve.com | rfihub.com | rubiconproject.com | simpli.fi | sitescout.com | tapad.com | udmserve.net | w55c.net
+857;bing;chase;1;bing.com
+858;healthline;thechive;8;adsrvr.org | adtechus.com | agkn.com | openx.net | optimizely.com | pubmatic.com | quantserve.com | rubiconproject.com
+859;littlethings;cnn;1;postrelease.com
+860;ask;southwest;1;advertising.com
+861;live;examiner;1;demdex.net
+862;fandango;gawker;4;agkn.com | krxd.net | rlcdn.com | yahoo.com
+863;conservativetribune;yellowpages;6;facebook.com | google.com | mathtag.com | pubmatic.com | turn.com | w55c.net
+864;wikia;lifehacker;4;agkn.com | amazon-adsystem.com | krxd.net | rubiconproject.com
+865;blogger;blogspot;2;google.com | youtube.com
+866;aol;usps;1;turn.com
+867;facebook;whitepages;1;facebook.com
+868;blogger;fandango;1;google.com
+869;linkedin;guff;1;scorecardresearch.com
+870;nydailynews;vimeo;2;amazon-adsystem.com | quantserve.com
+871;inquisitr;photobucket;24;adform.net | advertising.com | appier.net | bluekai.com | connexity.net | crwdcntrl.net | demdex.net | doubleclick.net | eqads.com | exelator.com | facebook.com | google.com | openx.net | owneriq.net | pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | simpli.fi | tidaltv.com | twitter.com | w55c.net
+872;people;yellowpages;5;advertising.com | optimizely.com | rubiconproject.com | turn.com | twitter.com
+873;healthline;photobucket;6;agkn.com | doubleclick.net | openx.net | pubmatic.com | quantserve.com | rubiconproject.com
+874;pinterest;conservativetribune;1;facebook.com
+875;whitepages;vox;4;amazon-adsystem.com | bidswitch.net | facebook.com | rlcdn.com
+876;weather;usmagazine;5;agkn.com | exelator.com | nexac.com | quantserve.com | rlcdn.com
+877;mic;qpolitical;1;crwdcntrl.net
+878;urbandictionary;babycenter;1;quantserve.com
+879;diply;photobucket;2;doubleclick.net | facebook.com
+880;healthline;ibtimes;2;openx.net | optimizely.com
+881;buzzfeed;fandango;3;agkn.com | iasds01.com | tubemogul.com
+882;aol;urbandictionary;8;bluekai.com | doubleclick.net | everesttech.net | media6degrees.com | rfihub.com | ru4.com | tapad.com | tubemogul.com
+883;conservativetribune;thechive;10;adsrvr.org | bidswitch.net | facebook.com | media6degrees.com | pubmatic.com | quantserve.com | rlcdn.com | sitescout.com | turn.com | w55c.net
+884;nytimes;goodreads;1;quantserve.com
+885;glassdoor;brainjet;2;google.com | scorecardresearch.com
+886;opposingviews;youngcons;5;adform.net | advertising.com | iasds01.com | mathtag.com | revsci.net
+887;legacy;city-data;1;quantserve.com
+888;yelp;microsoft;1;bluekai.com
+889;distractify;deviantart;1;doubleclick.net
+890;vimeo;nytimes;1;quantserve.com
+891;instructables;thechive;3;facebook.com | rubiconproject.com | scorecardresearch.com
+892;bustle;sbnation;1;krxd.net
+893;urbandictionary;youngcons;1;adform.net
+894;nytimes;eonline;5;agkn.com | krxd.net | pubmatic.com | quantserve.com | revsci.net
+895;vimeo;sbnation;3;google.com | mathtag.com | quantserve.com
+896;legacy;stackexchange;1;quantserve.com
+897;conservativetribune;fandango;7;doubleclick.net | facebook.com | google.com | mathtag.com | pubmatic.com | rlcdn.com | tubemogul.com
+898;walmart;chase;2;rlcdn.com | ru4.com
+899;adobe;wayfair;1;adsymptotic.com
+900;weather;imgur;1;quantserve.com
+901;wayfair;youngcons;1;pubmatic.com
+902;twitter;thechive;1;twitter.com
+903;godaddy;webmd;1;turn.com
+904;conservativetribune;cnn;1;crwdcntrl.net
+905;stackexchange;imgur;2;imgur.com | quantserve.com
+906;goodreads;topix;1;quantserve.com
+907;ijreview;people;1;krxd.net
+908;ask;deadspin;5;agkn.com | criteo.com | krxd.net | mathtag.com | rubiconproject.com
+909;urbandictionary;conservativetribune;9;adblade.com | bidswitch.net | doubleclick.net | google.com | media6degrees.com | quantserve.com | sitescout.com | tubemogul.com | w55c.net
+910;people;tmz;5;adsrvr.org | krxd.net | quantserve.com | scorecardresearch.com | twitter.com
+911;uproxx;deviantart;1;quantserve.com
+912;godaddy;conservativetribune;4;google.com | mathtag.com | rlcdn.com | turn.com
+913;microsoft;tmz;1;google.com
+914;godaddy;youngcons;2;advertising.com | mathtag.com
+915;uproxx;theblaze;2;crwdcntrl.net | youtube.com
+916;nydailynews;sbnation;19;adform.net | adtechus.com | advertising.com | agkn.com | bidswitch.net | bluekai.com | chango.com | contextweb.com | crwdcntrl.net | demdex.net | dotomi.com | doubleclick.net | everesttech.net | fastclick.net | openx.net | quantserve.com | revsci.net | simpli.fi | voicefive.com
+917;google;ibtimes;1;google.com
+918;uproxx;inquisitr;4;crwdcntrl.net | google.com | quantserve.com | turn.com
+919;aol;mapquest;4;advertising.com | aol.com | atwola.com | bluekai.com
+920;stackexchange;tmz;1;quantserve.com
+921;adobe;sbnation;6;demdex.net | everesttech.net | exelator.com | nexac.com | quantserve.com | rfihub.com
+922;ijreview;topix;2;krxd.net | tubemogul.com
+923;cnn;lifehacker;4;agkn.com | criteo.com | imrworldwide.com | krxd.net
+924;eonline;chase;1;demdex.net
+925;opposingviews;southwest;1;advertising.com
+926;sbnation;webmd;1;crwdcntrl.net
+927;inquisitr;thoughtcatalog;3;bluekai.com | parsely.com | skimresources.com
+928;adobe;att;1;demdex.net
+929;legacy;healthline;2;optimizely.com | quantserve.com
+930;buzzfeed;guff;1;scorecardresearch.com
+931;photobucket;southwest;3;advertising.com | demdex.net | tidaltv.com
+932;bustle;dose;1;krxd.net
+933;city-data;gawker;2;agkn.com | rlcdn.com
+934;ebay;wikia;1;mathtag.com
+935;mic;cnn;2;crwdcntrl.net | insightexpressai.com
+936;uproxx;healthline;1;quantserve.com
+937;urbandictionary;ask;2;bluekai.com | rubiconproject.com
+938;usmagazine;thechive;6;agkn.com | nexac.com | quantserve.com | rlcdn.com | twitter.com | zedo.com
+939;ask;thetiebar;1;rlcdn.com
+940;babycenter;vox;1;quantserve.com
+941;examiner;thoughtcatalog;1;bluekai.com
+942;walmart;eonline;3;agkn.com | mookie1.com | tubemogul.com
+943;youtube;ask;1;mookie1.com
+944;chase;thechive;1;rlcdn.com
+945;yelp;inquisitr;16;adsrvr.org | advertising.com | basebanner.com | bluekai.com | chango.com | mathtag.com | mxptint.net | quantserve.com | revsci.net | rfihub.com | ru4.com | simpli.fi | tidaltv.com | tubemogul.com | turn.com | w55c.net
+946;aol;stackexchange;1;smartadserver.com
+947;buzzfeed;nbcnews;2;agkn.com | tubemogul.com
+948;wordpress;urbandictionary;1;doubleclick.net
+949;urbandictionary;blogspot;1;google.com
+950;bustle;deadspin;1;krxd.net
+951;weather;dose;6;adsrvr.org | agkn.com | exelator.com | rlcdn.com | scorecardresearch.com | taboola.com
+952;youtube;people;3;doubleclick.net | pointroll.com | scorecardresearch.com
+953;google;photobucket;1;google.com
+954;ask;youngcons;4;advertising.com | crwdcntrl.net | mathtag.com | pubmatic.com
+955;adobe;dose;1;exelator.com
+956;nydailynews;bustle;1;twitter.com
+957;paypal;examiner;1;yahoo.com
+958;microsoft;fandango;1;google.com
+959;opposingviews;people;6;advertising.com | bluekai.com | casalemedia.com | quantserve.com | revsci.net | scorecardresearch.com
+960;apple;thoughtcatalog;1;apple.com
+961;wayfair;topix;18;3lift.com | adsrvr.org | adsymptotic.com | amgdgt.com | bing.com | bluekai.com | btrll.com | casalemedia.com | doubleclick.net | facebook.com | liverail.com | openx.net | pubmatic.com | rubiconproject.com | rundsp.com | scorecardresearch.com | sitescout.com | turn.com
+962;pinterest;glassdoor;1;facebook.com
+963;answers;sbnation;1;quantserve.com
+964;nbcnews;webmd;1;crwdcntrl.net
+965;answers;uproxx;1;quantserve.com
+966;stackexchange;vox;1;quantserve.com
+967;walmart;topix;14;adsrvr.org | agkn.com | bluekai.com | criteo.com | nexac.com | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | tapad.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+968;urbandictionary;distractify;1;doubleclick.net
+969;uproxx;city-data;1;quantserve.com
+970;twitter;glassdoor;1;google.com
+971;legacy;glassdoor;2;optimizely.com | scorecardresearch.com
+972;ijreview;nbcnews;3;cloudflare.com | krxd.net | tubemogul.com
+973;youtube;thechive;1;scorecardresearch.com
+974;buzzfeed;ijreview;1;tubemogul.com
+975;msn;topix;2;bing.com | serving-sys.com
+976;buzzfeed;healthline;1;agkn.com
+977;theblaze;gawker;4;agkn.com | criteo.com | rubiconproject.com | voicefive.com
+978;aol;whitepages;13;adsrvr.org | adtechus.com | advertising.com | bluekai.com | criteo.com | demdex.net | dotomi.com | eyeviewads.com | media6degrees.com | rfihub.com | ru4.com | turn.com | wtp101.com
+979;microsoft;opposingviews;1;bluekai.com
+980;uproxx;lifehacker;1;imrworldwide.com
+981;walmart;theblaze;4;agkn.com | bluekai.com | criteo.com | rubiconproject.com
+982;distractify;cnn;1;outbrain.com
+983;gawker;vox;4;agkn.com | krxd.net | rlcdn.com | skimresources.com
+984;whitepages;opposingviews;8;adtechus.com | advertising.com | bidswitch.net | bluekai.com | chango.com | openx.net | revsci.net | yahoo.com
+985;wayfair;sbnation;10;adsrvr.org | adtechus.com | bluekai.com | casalemedia.com | dotomi.com | doubleclick.net | google.com | mediaplex.com | openx.net | yahoo.com
+986;msn;healthline;1;serving-sys.com
+987;goodreads;deviantart;1;quantserve.com
+988;buzzfeed;wikia;4;agkn.com | demdex.net | scorecardresearch.com | tubemogul.com
+989;answers;urbandictionary;1;quantserve.com
+990;vimeo;deadspin;2;amazon-adsystem.com | mathtag.com
+991;ask;yellowpages;4;advertising.com | mathtag.com | pubmatic.com | rubiconproject.com
+992;glassdoor;qpolitical;2;bluekai.com | rlcdn.com
+993;theblaze;examiner;10;adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | btrll.com | chango.com | crwdcntrl.net | fastclick.net | visiblemeasures.com
+994;microsoft;blogger;1;google.com
+995;yelp;city-data;3;adsymptotic.com | agkn.com | quantserve.com
+996;linkedin;glassdoor;1;scorecardresearch.com
+997;eonline;photobucket;9;adadvisor.net | agkn.com | demdex.net | facebook.com | google.com | pubmatic.com | quantserve.com | revsci.net | spotxchange.com
+998;guff;brainjet;1;scorecardresearch.com
+999;whitepages;instructables;2;facebook.com | rubiconproject.com
+1000;walmart;cnn;2;agkn.com | criteo.com
+1001;vimeo;thechive;1;quantserve.com
+1002;yelp;mapquest;3;advertising.com | bluekai.com | chango.com
+1003;conservativetribune;qpolitical;8;4dsply.com | adsrvr.org | btrll.com | crwdcntrl.net | media6degrees.com | pubmatic.com | rlcdn.com | turn.com
+1004;theblaze;chase;1;undertone.com
+1005;whitepages;uproxx;1;turn.com
+1006;walmart;healthline;3;adsrvr.org | agkn.com | rubiconproject.com
+1007;wikia;usps;1;turn.com
+1008;tmz;chase;1;rlcdn.com
+1009;wikia;theblaze;5;agkn.com | bluekai.com | btrll.com | crwdcntrl.net | rubiconproject.com
+1010;microsoft;thechive;1;bluekai.com
+1011;legacy;people;3;optimizely.com | quantserve.com | scorecardresearch.com
+1012;legacy;conservativetribune;1;quantserve.com
+1013;urbandictionary;legacy;1;quantserve.com
+1014;sbnation;lifehacker;5;adadvisor.net | agkn.com | criteo.com | krxd.net | skimresources.com
+1015;nydailynews;gawker;3;agkn.com | rubiconproject.com | voicefive.com
+1016;buzzfeed;lifehacker;1;agkn.com
+1017;nbcnews;instructables;1;rubiconproject.com
+1018;whitepages;examiner;22;acuityplatform.com | adsrvr.org | adtechus.com | advertising.com | bidswitch.net | bluekai.com | chango.com | demdex.net | eqads.com | eyereturn.com | eyeviewads.com | media6degrees.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | rundsp.com | sitescout.com | tidaltv.com | turn.com | wtp101.com | yahoo.com
+1019;aol;city-data;2;adadvisor.net | agkn.com
+1020;urbandictionary;imgur;1;quantserve.com
+1021;usmagazine;sbnation;6;agkn.com | exelator.com | krxd.net | nexac.com | quantserve.com | rlcdn.com
+1022;thetiebar;qpolitical;1;rlcdn.com
+1023;imgur;babycenter;1;quantserve.com
+1024;zergnet;deviantart;2;quantserve.com | scorecardresearch.com
+1025;theblaze;deadspin;4;agkn.com | criteo.com | iasds01.com | rubiconproject.com
+1026;nytimes;gawker;4;agkn.com | krxd.net | rlcdn.com | rubiconproject.com
+1027;amazon;instructables;2;facebook.com | rubiconproject.com
+1028;nytimes;opposingviews;4;casalemedia.com | quantserve.com | revsci.net | scorecardresearch.com
+1029;topix;distractify;1;doubleclick.net
+1030;weather;youngcons;3;advertising.com | crwdcntrl.net | mathtag.com
+1031;wikia;ibtimes;2;addthis.com | optimizely.com
+1032;wayfair;nytimes;6;btrll.com | casalemedia.com | liverail.com | pubmatic.com | rubiconproject.com | scorecardresearch.com
+1033;fandango;thechive;7;adadvisor.net | agkn.com | facebook.com | nexac.com | pubmatic.com | revsci.net | rlcdn.com
+1034;microsoft;uproxx;1;google.com
+1035;wayfair;vox;4;doubleclick.net | facebook.com | google.com | scorecardresearch.com
+1036;facebook;inquisitr;1;facebook.com
+1037;imdb;yellowpages;1;twitter.com
+1038;ask;ibtimes;5;addthis.com | advertising.com | casalemedia.com | criteo.com | sonobi.com
+1039;whitepages;cnn;2;criteo.com | dmtry.com
+1040;blogspot;inquisitr;1;google.com
+1041;stackexchange;uproxx;1;quantserve.com
+1042;urbandictionary;ijreview;1;tubemogul.com
+1043;dose;people;3;adsrvr.org | krxd.net | scorecardresearch.com
+1044;twitter;brainjet;1;google.com
+1045;paypal;theblaze;1;youtube.com
+1046;weather;babycenter;2;advertising.com | quantserve.com
+1047;nytimes;deviantart;5;casalemedia.com | pubmatic.com | quantserve.com | rubiconproject.com | scorecardresearch.com
+1048;legacy;eonline;1;quantserve.com
+1049;whitepages;vimeo;1;amazon-adsystem.com
+1050;fandango;deviantart;2;doubleclick.net | pubmatic.com
+1051;wikia;godaddy;2;mathtag.com | turn.com
+1052;bustle;instructables;1;facebook.com
+1053;mic;opposingviews;2;bidswitch.net | quantserve.com
+1054;wayfair;yellowpages;7;facebook.com | google.com | openx.net | pubmatic.com | rubiconproject.com | turn.com | yahoo.com
+1055;eonline;qpolitical;6;adadvisor.net | agkn.com | demdex.net | pubmatic.com | revsci.net | spotxchange.com
+1056;legacy;tmz;2;quantserve.com | scorecardresearch.com
+1057;imdb;vox;2;doubleclick.net | twitter.com
+1058;inquisitr;usps;2;chango.com | turn.com
+1059;microsoft;thoughtcatalog;1;bluekai.com
+1060;whitepages;usmagazine;1;rlcdn.com
+1061;stackexchange;sbnation;1;quantserve.com
+1062;qpolitical;vox;3;adadvisor.net | agkn.com | rlcdn.com
+1063;twitter;conservativetribune;1;google.com
+1064;answers;vox;1;quantserve.com
+1065;nytimes;thechive;11;agkn.com | casalemedia.com | pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com | scorecardresearch.com | tapad.com | w55c.net
+1066;ibtimes;qpolitical;3;addthis.com | advertising.com | casalemedia.com
+1067;weather;thechive;16;adadvisor.net | adsrvr.org | advertising.com | agkn.com | bluekai.com | fastclick.net | nexac.com | openx.net | optimizely.com | quantserve.com | rfihub.com | rlcdn.com | scorecardresearch.com | sitescout.com | taboola.com | turn.com
+1068;eonline;brainjet;1;google.com
+1069;nbcnews;imdb;2;doubleclick.net | twitter.com
+1070;yelp;paypal;1;yahoo.com
+1071;wikia;deadspin;5;agkn.com | amazon-adsystem.com | krxd.net | mathtag.com | rubiconproject.com
+1072;whitepages;southwest;4;advertising.com | demdex.net | omtrdc.net | tidaltv.com
+1073;nytimes;conservativetribune;5;btrll.com | pubmatic.com | quantserve.com | rlcdn.com | w55c.net
+1074;aol;glassdoor;1;bluekai.com
+1075;godaddy;dose;1;rlcdn.com
+1076;google;urbandictionary;1;google.com
+1077;conservativetribune;tmz;9;adsrvr.org | cloudflare.com | facebook.com | google.com | media6degrees.com | pubmatic.com | quantserve.com | rlcdn.com | tubemogul.com
+1078;aol;inquisitr;15;adbrn.com | adsrvr.org | adtechus.com | advertising.com | bluekai.com | criteo.com | demdex.net | doubleclick.net | everesttech.net | pubmatic.com | rfihub.com | ru4.com | tubemogul.com | turn.com | twitter.com
+1079;nydailynews;legacy;1;quantserve.com
+1080;live;southwest;1;demdex.net
+1081;people;southwest;1;advertising.com
+1082;ebay;att;1;abmr.net
+1083;urbandictionary;usmagazine;1;quantserve.com
+1084;qpolitical;gawker;4;agkn.com | rlcdn.com | rubiconproject.com | yahoo.com
+1085;godaddy;thetiebar;2;rlcdn.com | twitter.com
+1086;sbnation;dose;7;adsrvr.org | agkn.com | exelator.com | krxd.net | ml314.com | rlcdn.com | taboola.com
+1087;ebay;conservativetribune;1;mathtag.com
+1088;answers;usmagazine;1;quantserve.com
+1089;dose;youngcons;1;pubmatic.com
+1090;imgur;eonline;1;quantserve.com
+1091;wayfair;glassdoor;5;bluekai.com | facebook.com | google.com | openx.net | scorecardresearch.com
+1092;vox;att;1;doubleclick.net
+1093;thetiebar;examiner;2;bidswitch.net | rlcdn.com
+1094;conservativetribune;att;1;doubleclick.net
+1095;babycenter;deadspin;1;imrworldwide.com
+1096;littlethings;webmd;1;postrelease.com
+1097;urbandictionary;mic;3;bidswitch.net | doubleclick.net | quantserve.com
+1098;adobe;people;2;gwallet.com | quantserve.com
+1099;tmz;cnn;4;agkn.com | criteo.com | imrworldwide.com | krxd.net
+1100;adobe;examiner;8;adsymptotic.com | demdex.net | exelator.com | gwallet.com | nexac.com | rfihub.com | tapad.com | w55c.net
+1101;guff;vox;1;scorecardresearch.com
+1102;aol;distractify;1;doubleclick.net
+1103;mic;nbcnews;5;crwdcntrl.net | doubleclick.net | mookie1.com | quantserve.com | serving-sys.com
+1104;diply;att;1;doubleclick.net
+1105;adobe;vox;1;quantserve.com
+1106;ebay;ask;1;mathtag.com
+1107;about;inquisitr;1;parsely.com
+1108;walmart;mic;1;mookie1.com
+1109;thetiebar;imdb;1;twitter.com
+1110;usmagazine;eonline;4;agkn.com | krxd.net | pinterest.com | quantserve.com
+1111;legacy;nytimes;2;quantserve.com | scorecardresearch.com
+1112;nydailynews;vox;6;agkn.com | amazon-adsystem.com | bidswitch.net | doubleclick.net | quantserve.com | twitter.com
+1113;buzzfeed;chase;1;demdex.net
+1114;uproxx;goodreads;1;quantserve.com
+1115;yelp;lifehacker;3;agkn.com | imrworldwide.com | rubiconproject.com
+1116;google;wayfair;1;google.com
+1117;weather;webmd;3;audienceiq.com | crwdcntrl.net | turn.com
+1118;wikia;nbcnews;10;agkn.com | btrll.com | crwdcntrl.net | krxd.net | mathtag.com | quantserve.com | rfihub.com | rubiconproject.com | tubemogul.com | visualdna.com
+1119;mic;att;1;doubleclick.net
+1120;wikia;urbandictionary;7;bluekai.com | gwallet.com | quantserve.com | rfihub.com | rubiconproject.com | tubemogul.com | w55c.net
+1121;nytimes;dose;5;agkn.com | krxd.net | pubmatic.com | rlcdn.com | scorecardresearch.com
+1122;inquisitr;thetiebar;4;bidswitch.net | openx.net | rlcdn.com | twitter.com
+1123;linkedin;opposingviews;1;scorecardresearch.com
+1124;conservativetribune;chase;2;doubleclick.net | rlcdn.com
+1125;sbnation;babycenter;4;advertising.com | quantserve.com | revsci.net | voicefive.com
+1126;bustle;tmz;4;facebook.com | krxd.net | serving-sys.com | twitter.com
+1127;ibtimes;imdb;1;twitter.com
+1128;weather;examiner;17;addthis.com | adsrvr.org | advertising.com | bluekai.com | crwdcntrl.net | demdex.net | exelator.com | fastclick.net | gwallet.com | mathtag.com | nexac.com | pro-market.net | rfihub.com | rlcdn.com | ru4.com | sitescout.com | turn.com
+1129;amazon;ask;3;burstnet.com | contextweb.com | rubiconproject.com
+1130;wayfair;lifehacker;1;rubiconproject.com
+1131;nydailynews;instructables;1;rubiconproject.com
+1132;whitepages;chase;4;demdex.net | rlcdn.com | ru4.com | yahoo.com
+1133;nydailynews;usps;2;chango.com | turn.com
+1134;urbandictionary;goodreads;1;quantserve.com
+1135;yelp;people;7;adsrvr.org | advertising.com | bluekai.com | quantserve.com | revsci.net | rubiconproject.com | turn.com
+1136;wikia;weather;14;addthis.com | adsrvr.org | agkn.com | atwola.com | bluekai.com | crwdcntrl.net | demdex.net | gwallet.com | mathtag.com | optimizely.com | quantserve.com | rfihub.com | scorecardresearch.com | turn.com
+1137;stackexchange;thechive;1;quantserve.com
+1138;godaddy;brainjet;1;google.com
+1139;yelp;thoughtcatalog;1;bluekai.com
+1140;pinterest;topix;1;facebook.com
+1141;photobucket;yellowpages;11;advertising.com | facebook.com | google.com | openx.net | pubmatic.com | rfihub.com | rubiconproject.com | tapad.com | twitter.com | w55c.net | yahoo.com
+1142;babycenter;topix;4;advertising.com | imrworldwide.com | quantserve.com | revsci.net
+1143;amazon;gawker;1;rubiconproject.com
+1144;usmagazine;city-data;6;agkn.com | bluecava.com | exelator.com | quantserve.com | rlcdn.com | tynt.com
+1145;whitepages;theblaze;9;adtechus.com | advertising.com | bidswitch.net | bluekai.com | chango.com | criteo.com | dotomi.com | openx.net | rubiconproject.com
+1146;godaddy;wayfair;2;google.com | turn.com
+1147;sbnation;thoughtcatalog;2;bluekai.com | skimresources.com
+1148;answers;inquisitr;1;quantserve.com
+1149;nbcnews;chase;2;doubleclick.net | rlcdn.com
+1150;fandango;att;1;doubleclick.net
+1151;mic;eonline;4;insightexpressai.com | mookie1.com | quantserve.com | serving-sys.com
+1152;fandango;vox;7;adadvisor.net | agkn.com | doubleclick.net | facebook.com | google.com | krxd.net | rlcdn.com
+1153;adobe;chase;1;demdex.net
+1154;usmagazine;tmz;10;agkn.com | exelator.com | imrworldwide.com | krxd.net | nexac.com | pinterest.com | quantserve.com | rlcdn.com | twitter.com | tynt.com
+1155;dose;distractify;1;socialtrack.co
+1156;godaddy;walmart;2;rlcdn.com | turn.com
+1157;google;blogger;1;google.com
+1158;people;ibtimes;4;advertising.com | casalemedia.com | optimizely.com | twitter.com
+1159;photobucket;vox;10;adadvisor.net | agkn.com | amazon-adsystem.com | doubleclick.net | facebook.com | google.com | quantserve.com | rlcdn.com | sonobi.com | twitter.com
+1160;sbnation;nbcnews;12;adadvisor.net | agkn.com | crwdcntrl.net | doubleclick.net | exelator.com | krxd.net | mathtag.com | mookie1.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com
+1161;twitter;aol;1;twitter.com
+1162;vimeo;fandango;2;google.com | mathtag.com
+1163;blogspot;fandango;1;google.com
+1164;aol;dose;3;adsrvr.org | agkn.com | pubmatic.com
+1165;msn;mic;1;serving-sys.com
+1166;paypal;adobe;1;omtrdc.net
+1167;diply;glassdoor;1;facebook.com
+1168;vimeo;eonline;3;google.com | mathtag.com | quantserve.com
+1169;distractify;att;1;doubleclick.net
+1170;answers;imgur;1;quantserve.com
+1171;gawker;yellowpages;2;rubiconproject.com | yahoo.com
+1172;inquisitr;topix;33;adform.net | adsrvr.org | adtech.de | advertising.com | bidswitch.net | bing.com | bluekai.com | bnmla.com | chango.com | connexity.net | criteo.com | crwdcntrl.net | doubleclick.net | eqads.com | exelator.com | facebook.com | gwallet.com | mathtag.com | openx.net | pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | tidaltv.com | tribalfusion.com | tubemogul.com | turn.com | twitter.com | w55c.net | yashi.com | zergnet.com
+1173;yelp;youngcons;3;advertising.com | mathtag.com | revsci.net
+1174;ibtimes;youngcons;1;advertising.com
+1175;dose;examiner;5;adsrvr.org | exelator.com | krxd.net | pubmatic.com | rlcdn.com
+1176;city-data;deadspin;1;agkn.com
+1177;tmz;yellowpages;4;facebook.com | google.com | pubmatic.com | twitter.com
+1178;walmart;sbnation;8;adsrvr.org | agkn.com | bluekai.com | criteo.com | mookie1.com | nexac.com | rfihub.com | rlcdn.com
+1179;pinterest;bustle;1;facebook.com
+1180;glassdoor;gawker;1;rlcdn.com
+1181;topix;ibtimes;9;addthis.com | adnxs.com | advertising.com | bidswitch.net | casalemedia.com | criteo.com | openx.net | sonobi.com | twitter.com
+1182;imdb;att;1;doubleclick.net
+1183;usmagazine;uproxx;2;imrworldwide.com | quantserve.com
+1184;ebay;weather;1;mathtag.com
+1185;people;att;2;bluekai.com | doubleclick.net
+1186;microsoft;vox;1;google.com
+1187;people;deadspin;3;krxd.net | rubiconproject.com | skimresources.com
+1188;eonline;deviantart;2;pubmatic.com | quantserve.com
+1189;wayfair;city-data;1;adsymptotic.com
+1190;people;city-data;1;quantserve.com
+1191;photobucket;thoughtcatalog;1;bluekai.com
+1192;urbandictionary;inquisitr;16;adform.net | appier.net | bidswitch.net | bluekai.com | doubleclick.net | everesttech.net | google.com | gwallet.com | owneriq.net | quantserve.com | rfihub.com | rtbidder.net | ru4.com | simpli.fi | tubemogul.com | w55c.net
+1193;babycenter;yellowpages;1;advertising.com
+1194;ask;opposingviews;5;advertising.com | bluekai.com | casalemedia.com | mathtag.com | nexac.com
+1195;conservativetribune;ibtimes;2;bidswitch.net | google.com
+1196;aol;southwest;3;advertising.com | demdex.net | tubemogul.com
+1197;amazon;nbcnews;3;doubleclick.net | liverail.com | rubiconproject.com
+1198;whitepages;mapquest;4;advertising.com | bidswitch.net | bluekai.com | chango.com
+1199;sbnation;healthline;6;adsrvr.org | adtechus.com | agkn.com | doubleclick.net | openx.net | quantserve.com
+1200;fandango;ijreview;2;krxd.net | tubemogul.com
+1201;urbandictionary;tmz;5;google.com | media6degrees.com | quantserve.com | simpli.fi | tubemogul.com
+1202;youtube;weather;1;scorecardresearch.com
+1203;google;conservativetribune;1;google.com
+1204;diply;fandango;2;doubleclick.net | facebook.com
+1205;blogger;yellowpages;1;google.com
+1206;legacy;vox;2;quantserve.com | scorecardresearch.com
+1207;babycenter;examiner;2;advertising.com | revsci.net
+1208;youtube;tmz;2;scorecardresearch.com | youtube.com
+1209;youtube;wordpress;1;doubleclick.net
+1210;blogspot;sbnation;1;google.com
+1211;healthline;nbcnews;5;agkn.com | doubleclick.net | quantserve.com | rubiconproject.com | serving-sys.com
+1212;uproxx;brainjet;1;google.com
+1213;adobe;stackexchange;1;quantserve.com
+1214;city-data;vox;4;adadvisor.net | agkn.com | quantserve.com | rlcdn.com
+1215;imgur;opposingviews;1;quantserve.com
+1216;aol;mic;1;doubleclick.net
+1217;legacy;guff;1;scorecardresearch.com
+1218;urbandictionary;photobucket;17;acuityplatform.com | adform.net | adgrx.com | appier.net | bluekai.com | doubleclick.net | google.com | media6degrees.com | owneriq.net | quantserve.com | rfihub.com | ru4.com | rubiconproject.com | simpli.fi | sitescout.com | tapad.com | w55c.net
+1219;buzzfeed;eonline;3;agkn.com | demdex.net | tubemogul.com
+1220;wayfair;chase;4;bing.com | doubleclick.net | msn.com | yahoo.com
+1221;buzzfeed;ask;1;agkn.com
+1222;buzzfeed;zergnet;1;scorecardresearch.com
+1223;distractify;imdb;1;doubleclick.net
+1224;conservativetribune;usps;1;turn.com
+1225;usmagazine;topix;11;agkn.com | bizographics.com | bluecava.com | exelator.com | imrworldwide.com | krxd.net | nexac.com | quantserve.com | rlcdn.com | twitter.com | zedo.com
+1226;buzzfeed;brainjet;1;scorecardresearch.com
+1227;google;brainjet;1;google.com
+1228;eonline;southwest;2;demdex.net | tubemogul.com
+1229;babycenter;city-data;1;quantserve.com
+1230;blogger;vox;1;google.com
+1231;zergnet;babycenter;1;quantserve.com
+1232;wayfair;mapquest;1;bluekai.com
+1233;nytimes;qpolitical;11;agkn.com | btrll.com | casalemedia.com | liverail.com | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | tapad.com
+1234;whitepages;people;6;adsrvr.org | advertising.com | bluekai.com | revsci.net | rubiconproject.com | turn.com
+1235;whitepages;fandango;4;facebook.com | revsci.net | rlcdn.com | yahoo.com
+1236;goodreads;photobucket;1;quantserve.com
+1237;wordpress;deviantart;1;doubleclick.net
+1238;babycenter;ibtimes;1;advertising.com
+1239;walmart;ibtimes;1;criteo.com
+1240;twitter;vimeo;1;google.com
+1241;nydailynews;topix;32;adform.net | adsymptotic.com | advertising.com | agkn.com | amazon-adsystem.com | bidswitch.net | bluekai.com | btrll.com | chango.com | collective-media.net | contextweb.com | crwdcntrl.net | dmtry.com | doubleclick.net | eqads.com | iasds01.com | imrworldwide.com | liverail.com | media6degrees.com | openx.net | quantserve.com | revsci.net | rubiconproject.com | rundsp.com | spotxchange.com | tidaltv.com | tribalfusion.com | turn.com | twitter.com | w55c.net | webspectator.com | zergnet.com
+1242;yelp;walmart;11;adsrvr.org | agkn.com | bluekai.com | rfihub.com | ru4.com | rubiconproject.com | tapad.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+1243;topix;thechive;31;adadvisor.net | adnxs.com | adsrvr.org | advertising.com | agkn.com | atdmt.com | bidswitch.net | bluekai.com | bnmla.com | casalemedia.com | chango.com | domdex.com | eqads.com | facebook.com | media6degrees.com | nexac.com | openx.net | pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com | scorecardresearch.com | sitescout.com | tapad.com | tribalfusion.com | turn.com | twitter.com | w55c.net | zedo.com
+1244;ask;chase;1;rlcdn.com
+1245;vimeo;imgur;1;quantserve.com
+1246;wikia;mapquest;2;atwola.com | bluekai.com
+1247;about;ibtimes;1;optimizely.com
+1248;fandango;southwest;1;tubemogul.com
+1249;legacy;uproxx;1;quantserve.com
+1250;nbcnews;usps;1;bizographics.com
+1251;imgur;thechive;2;quantserve.com | twitter.com
+1252;microsoft;mapquest;1;bluekai.com
+1253;city-data;nbcnews;6;adadvisor.net | agkn.com | bluecava.com | exelator.com | quantserve.com | rlcdn.com
+1254;nydailynews;conservativetribune;10;bidswitch.net | btrll.com | contextweb.com | crwdcntrl.net | doubleclick.net | media6degrees.com | opendsp.com | quantserve.com | turn.com | w55c.net
+1255;buzzfeed;att;1;demdex.net
+1256;yelp;eonline;6;agkn.com | mathtag.com | quantserve.com | revsci.net | spotxchange.com | tubemogul.com
+1257;healthline;imdb;1;doubleclick.net
+1258;wayfair;uproxx;2;google.com | turn.com
+1259;sbnation;ibtimes;7;advertising.com | bidswitch.net | casalemedia.com | criteo.com | google.com | openx.net | sonobi.com
+1260;qpolitical;deviantart;3;casalemedia.com | pubmatic.com | rubiconproject.com
+1261;nytimes;theblaze;3;agkn.com | btrll.com | rubiconproject.com
+1262;tmz;deadspin;5;agkn.com | amazon-adsystem.com | criteo.com | imrworldwide.com | krxd.net
+1263;microsoft;eonline;1;google.com
+1264;ibtimes;yellowpages;5;advertising.com | google.com | openx.net | optimizely.com | twitter.com
+1265;people;glassdoor;3;bluekai.com | optimizely.com | scorecardresearch.com
+1266;diply;sbnation;1;doubleclick.net
+1267;aol;goodreads;1;mediaplex.com
+1268;fandango;youngcons;4;iasds01.com | mathtag.com | pubmatic.com | revsci.net
+1269;people;instructables;2;rubiconproject.com | scorecardresearch.com
+1270;deadspin;deviantart;1;rubiconproject.com
+1271;urbandictionary;lifehacker;1;rubiconproject.com
+1272;godaddy;glassdoor;2;google.com | rlcdn.com
+1273;urbandictionary;eonline;3;google.com | quantserve.com | tubemogul.com
+1274;usmagazine;ibtimes;1;twitter.com
+1275;opposingviews;examiner;11;adform.net | adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | mathtag.com | nexac.com | revsci.net | yahoo.com
+1276;amazon;imdb;2;amazon.com | doubleclick.net
+1277;conservativetribune;people;4;adsrvr.org | doubleclick.net | quantserve.com | turn.com
+1278;eonline;vox;6;adadvisor.net | agkn.com | facebook.com | google.com | krxd.net | quantserve.com
+1279;yahoo;inquisitr;1;yimg.com
+1280;mapquest;southwest;1;advertising.com
+1281;mapquest;deviantart;1;bidswitch.net
+1282;walmart;conservativetribune;5;adsrvr.org | rlcdn.com | tubemogul.com | turn.com | w55c.net
+1283;whitepages;att;2;bluekai.com | demdex.net
+1284;live;photobucket;1;demdex.net
+1285;opposingviews;dose;1;scorecardresearch.com
+1286;examiner;lifehacker;1;krxd.net
+1287;thoughtcatalog;att;1;bluekai.com
+1288;amazon;vimeo;1;amazon-adsystem.com
+1289;godaddy;qpolitical;3;advertising.com | rlcdn.com | turn.com
+1290;adobe;nbcnews;4;bizographics.com | exelator.com | quantserve.com | rfihub.com
+1291;adobe;urbandictionary;6;everesttech.net | gwallet.com | quantserve.com | rfihub.com | tapad.com | w55c.net
+1292;examiner;nbcnews;13;amgdgt.com | btrll.com | crwdcntrl.net | doubleclick.net | exelator.com | krxd.net | liverail.com | mathtag.com | mookie1.com | revsci.net | rfihub.com | rlcdn.com | tubemogul.com
+1293;yelp;att;1;bluekai.com
+1294;ask;nytimes;7;agkn.com | btrll.com | casalemedia.com | krxd.net | pubmatic.com | rlcdn.com | rubiconproject.com
+1295;nytimes;people;6;casalemedia.com | krxd.net | quantserve.com | revsci.net | rubiconproject.com | scorecardresearch.com
+1296;people;vox;6;doubleclick.net | krxd.net | quantserve.com | scorecardresearch.com | skimresources.com | twitter.com
+1297;youtube;buzzfeed;1;scorecardresearch.com
+1298;diply;examiner;1;doubleclick.net
+1299;live;eonline;1;demdex.net
+1300;photobucket;deadspin;4;agkn.com | amazon-adsystem.com | imrworldwide.com | rubiconproject.com
+1301;uproxx;photobucket;5;crwdcntrl.net | google.com | imrworldwide.com | lijit.com | quantserve.com
+1302;weather;southwest;3;advertising.com | demdex.net | omtrdc.net
+1303;usmagazine;usps;1;bizographics.com
+1304;aol;deadspin;2;agkn.com | criteo.com
+1305;healthline;topix;8;adsrvr.org | agkn.com | doubleclick.net | openx.net | pubmatic.com | quantserve.com | rubiconproject.com | serving-sys.com
+1306;diply;thechive;1;facebook.com
+1307;blogger;photobucket;1;google.com
+1308;blogger;tmz;2;google.com | youtube.com
+1309;walmart;wayfair;4;adsrvr.org | bluekai.com | rubiconproject.com | turn.com
+1310;amazon;distractify;1;doubleclick.net
+1311;urbandictionary;theblaze;4;adblade.com | bidswitch.net | bluekai.com | rubiconproject.com
+1312;inquisitr;brainjet;1;google.com
+1313;deviantart;yellowpages;3;openx.net | pubmatic.com | rubiconproject.com
+1314;weather;zergnet;2;quantserve.com | scorecardresearch.com
+1315;wikia;vimeo;3;amazon-adsystem.com | mathtag.com | quantserve.com
+1316;mic;distractify;1;doubleclick.net
+1317;microsoft;qpolitical;1;bluekai.com
+1318;ask;bustle;1;krxd.net
+1319;ijreview;dose;1;krxd.net
+1320;nydailynews;southwest;3;advertising.com | demdex.net | tidaltv.com
+1321;youtube;blogspot;1;youtube.com
+1322;legacy;deviantart;2;quantserve.com | scorecardresearch.com
+1323;usmagazine;photobucket;7;agkn.com | exelator.com | imrworldwide.com | nexac.com | quantserve.com | rlcdn.com | twitter.com
+1324;paypal;chase;1;yahoo.com
+1325;nytimes;zergnet;2;quantserve.com | scorecardresearch.com
+1326;sbnation;glassdoor;5;bidswitch.net | bluekai.com | google.com | openx.net | rlcdn.com
+1327;inquisitr;babycenter;3;advertising.com | quantserve.com | revsci.net
+1328;glassdoor;cnn;1;optimizely.com
+1329;amazon;wikia;2;amazon-adsystem.com | rubiconproject.com
+1330;nbcnews;yellowpages;4;mathtag.com | rfihub.com | rubiconproject.com | twitter.com
+1331;microsoft;walmart;1;bluekai.com
+1332;wikia;fandango;5;agkn.com | krxd.net | mathtag.com | tubemogul.com | visualdna.com
+1333;answers;thechive;1;quantserve.com
+1334;linkedin;brainjet;1;scorecardresearch.com
+1335;buzzfeed;photobucket;2;agkn.com | demdex.net
+1336;ijreview;cnn;1;krxd.net
+1337;mic;fandango;1;doubleclick.net
+1338;weather;thoughtcatalog;1;bluekai.com
+1339;nydailynews;inquisitr;25;adform.net | adtechus.com | advertising.com | bidswitch.net | bluekai.com | chango.com | crwdcntrl.net | demdex.net | doubleclick.net | eqads.com | everesttech.net | legolas-media.com | netseer.com | openx.net | owneriq.net | parsely.com | quantserve.com | revsci.net | simpli.fi | tidaltv.com | tribalfusion.com | turn.com | twitter.com | w55c.net | zergnet.com
+1340;linkedin;topix;2;imrworldwide.com | scorecardresearch.com
+1341;diply;inquisitr;2;doubleclick.net | facebook.com
+1342;answers;legacy;1;quantserve.com
+1343;nydailynews;glassdoor;3;bidswitch.net | bluekai.com | openx.net
+1344;whitepages;qpolitical;13;adsrvr.org | advertising.com | bluekai.com | chango.com | demdex.net | media6degrees.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | turn.com | yahoo.com
+1345;godaddy;att;1;abmr.net
+1346;ebay;topix;1;mathtag.com
+1347;legacy;imgur;1;quantserve.com
+1348;nbcnews;thechive;11;adadvisor.net | agkn.com | domdex.com | lijit.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com | tribalfusion.com | twitter.com
+1349;godaddy;examiner;4;advertising.com | mathtag.com | rlcdn.com | turn.com
+1350;aol;photobucket;19;adadvisor.net | advertising.com | agkn.com | atwola.com | bluekai.com | btrll.com | casalemedia.com | demdex.net | doubleclick.net | lijit.com | liverail.com | media6degrees.com | nexac.com | pubmatic.com | rfihub.com | ru4.com | spotxchange.com | tapad.com | twitter.com
+1351;legacy;topix;2;quantserve.com | scorecardresearch.com
+1352;amazon;lifehacker;2;amazon-adsystem.com | rubiconproject.com
+1353;eonline;cnn;3;agkn.com | insightexpressai.com | krxd.net
+1354;msn;microsoft;1;bing.com
+1355;uproxx;babycenter;2;imrworldwide.com | quantserve.com
+1356;msn;bustle;1;serving-sys.com
+1357;ask;gawker;5;agkn.com | criteo.com | krxd.net | rlcdn.com | rubiconproject.com
+1358;examiner;imdb;1;doubleclick.net
+1359;yelp;glassdoor;1;bluekai.com
+1360;mapquest;examiner;5;advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com
+1361;bustle;imgur;1;twitter.com
+1362;wayfair;examiner;13;adsrvr.org | adsymptotic.com | adtechus.com | amgdgt.com | bluekai.com | btrll.com | doubleclick.net | liverail.com | pubmatic.com | rundsp.com | sitescout.com | turn.com | yahoo.com
+1363;qpolitical;thoughtcatalog;1;bluekai.com
+1364;nydailynews;webmd;3;crwdcntrl.net | postrelease.com | turn.com
+1365;inquisitr;dose;5;adsrvr.org | exelator.com | pubmatic.com | rlcdn.com | taboola.com
+1366;opposingviews;thetiebar;2;bidswitch.net | openx.net
+1367;qpolitical;att;2;bluekai.com | demdex.net
+1368;sbnation;uproxx;3;crwdcntrl.net | google.com | quantserve.com
+1369;buzzfeed;topix;4;agkn.com | iasds01.com | scorecardresearch.com | tubemogul.com
+1370;lifehacker;yellowpages;1;rubiconproject.com
+1371;stackexchange;deviantart;1;quantserve.com
+1372;adobe;walmart;4;nexac.com | rfihub.com | tapad.com | w55c.net
+1373;nytimes;imgur;1;quantserve.com
+1374;godaddy;city-data;1;rlcdn.com
+1375;wikia;goodreads;1;quantserve.com
+1376;legacy;brainjet;1;scorecardresearch.com
+1377;urbandictionary;vox;4;bidswitch.net | doubleclick.net | google.com | quantserve.com
+1378;fandango;photobucket;12;adadvisor.net | agkn.com | doubleclick.net | exelator.com | facebook.com | google.com | nexac.com | pubmatic.com | revsci.net | rlcdn.com | spotxchange.com | yahoo.com
+1379;wayfair;webmd;1;turn.com
+1380;conservativetribune;city-data;2;quantserve.com | rlcdn.com
+1381;mozilla;chase;1;mozilla.org
+1382;ask;deviantart;4;casalemedia.com | pubmatic.com | rubiconproject.com | sonobi.com
+1383;nydailynews;eonline;5;agkn.com | demdex.net | quantserve.com | revsci.net | spotxchange.com
+1384;ask;instructables;1;rubiconproject.com
+1385;usmagazine;deviantart;1;quantserve.com
+1386;youtube;eonline;1;mookie1.com
+1387;amazon;thetiebar;1;openx.net
+1388;buzzfeed;people;1;scorecardresearch.com
+1389;wayfair;photobucket;12;bluekai.com | btrll.com | casalemedia.com | doubleclick.net | facebook.com | google.com | liverail.com | openx.net | pubmatic.com | rubiconproject.com | sitescout.com | yahoo.com
+1390;weather;glassdoor;5;bluekai.com | openx.net | optimizely.com | rlcdn.com | scorecardresearch.com
+1391;nydailynews;thetiebar;4;bidswitch.net | dotomi.com | openx.net | twitter.com
+1392;imgur;imdb;1;twitter.com
+1393;zergnet;goodreads;1;quantserve.com
+1394;buzzfeed;nydailynews;3;agkn.com | demdex.net | iasds01.com
+1395;imgur;inquisitr;2;quantserve.com | twitter.com
+1396;brainjet;deviantart;1;scorecardresearch.com
+1397;zergnet;brainjet;1;scorecardresearch.com
+1398;fandango;lifehacker;3;adadvisor.net | agkn.com | krxd.net
+1399;ask;thechive;11;adadvisor.net | advertising.com | agkn.com | bluekai.com | casalemedia.com | lijit.com | nexac.com | pubmatic.com | rlcdn.com | rubiconproject.com | switchads.com
+1400;photobucket;glassdoor;5;bluekai.com | facebook.com | google.com | openx.net | rlcdn.com
+1401;wordpress;fandango;1;doubleclick.net
+1402;msn;inquisitr;1;bing.com
+1403;glassdoor;thechive;7;bidswitch.net | bluekai.com | facebook.com | openx.net | optimizely.com | rlcdn.com | scorecardresearch.com
+1404;aol;conservativetribune;8;adsrvr.org | btrll.com | contextweb.com | doubleclick.net | media6degrees.com | pubmatic.com | tubemogul.com | turn.com
+1405;walmart;fandango;4;agkn.com | nexac.com | rlcdn.com | tubemogul.com
+1406;fandango;qpolitical;8;adadvisor.net | agkn.com | nexac.com | pubmatic.com | revsci.net | rlcdn.com | spotxchange.com | yahoo.com
+1407;aol;eonline;6;adadvisor.net | agkn.com | demdex.net | pubmatic.com | spotxchange.com | tubemogul.com
+1408;youtube;guff;1;scorecardresearch.com
+1409;blogger;inquisitr;1;google.com
+1410;webmd;yellowpages;2;tapad.com | turn.com
+1411;opposingviews;instructables;1;scorecardresearch.com
+1412;opposingviews;healthline;3;adtechus.com | openx.net | quantserve.com
+1413;buzzfeed;urbandictionary;1;tubemogul.com
+1414;yelp;stackexchange;1;quantserve.com
+1415;whitepages;tmz;6;adsrvr.org | amazon-adsystem.com | criteo.com | facebook.com | media6degrees.com | rlcdn.com
+1416;examiner;youngcons;7;adap.tv | adform.net | advertising.com | crwdcntrl.net | mathtag.com | pubmatic.com | revsci.net
+1417;dose;yellowpages;1;pubmatic.com
+1418;usmagazine;goodreads;1;quantserve.com
+1419;nydailynews;att;3;bluekai.com | demdex.net | doubleclick.net
+1420;youtube;nydailynews;3;doubleclick.net | voicefive.com | youtube.com
+1421;dose;topix;7;adsrvr.org | agkn.com | exelator.com | krxd.net | pubmatic.com | rlcdn.com | scorecardresearch.com
+1422;zergnet;thechive;2;quantserve.com | scorecardresearch.com
+1423;pinterest;inquisitr;1;facebook.com
+1424;urbandictionary;nbcnews;5;doubleclick.net | quantserve.com | rfihub.com | rubiconproject.com | tubemogul.com
+1425;babycenter;lifehacker;1;imrworldwide.com
+1426;godaddy;mapquest;1;advertising.com
+1427;youtube;amazon;1;doubleclick.net
+1428;answers;goodreads;1;quantserve.com
+1429;usmagazine;zergnet;1;quantserve.com
+1430;imgur;uproxx;1;quantserve.com
+1431;conservativetribune;inquisitr;13;adsrvr.org | bidswitch.net | crwdcntrl.net | doubleclick.net | facebook.com | google.com | mathtag.com | pubmatic.com | quantserve.com | rlcdn.com | tubemogul.com | turn.com | w55c.net
+1432;mozilla;glassdoor;1;optimizely.com
+1433;nydailynews;stackexchange;1;quantserve.com
+1434;eonline;city-data;3;adadvisor.net | agkn.com | quantserve.com
+1435;blogger;wayfair;1;google.com
+1436;youtube;theblaze;2;voicefive.com | youtube.com
+1437;mic;deviantart;3;bidswitch.net | doubleclick.net | quantserve.com
+1438;weather;gawker;2;agkn.com | rlcdn.com
+1439;whitepages;urbandictionary;8;acuityplatform.com | bidswitch.net | bluekai.com | media6degrees.com | rfihub.com | ru4.com | rubiconproject.com | sitescout.com
+1440;aol;people;7;adsrvr.org | advertising.com | bluekai.com | casalemedia.com | doubleclick.net | turn.com | twitter.com
+1441;inquisitr;deadspin;3;criteo.com | mathtag.com | skimresources.com
+1442;tmz;lifehacker;6;adadvisor.net | agkn.com | amazon-adsystem.com | criteo.com | imrworldwide.com | krxd.net
+1443;wayfair;tmz;6;3lift.com | adsrvr.org | facebook.com | google.com | pubmatic.com | scorecardresearch.com
+1444;bustle;thetiebar;1;twitter.com
+1445;inquisitr;lifehacker;2;criteo.com | skimresources.com
+1446;msn;wayfair;2;bing.com | msn.com
+1447;nytimes;chase;2;rlcdn.com | ru4.com
+1448;urbandictionary;att;2;bluekai.com | doubleclick.net
+1449;photobucket;city-data;5;adadvisor.net | agkn.com | exelator.com | quantserve.com | rlcdn.com
+1450;adobe;goodreads;1;quantserve.com
+1451;imdb;chase;1;doubleclick.net
+1452;fandango;tmz;10;adadvisor.net | agkn.com | exelator.com | facebook.com | google.com | krxd.net | nexac.com | pubmatic.com | rlcdn.com | tubemogul.com
+1453;paypal;qpolitical;1;yahoo.com
+1454;yelp;southwest;3;advertising.com | tidaltv.com | tubemogul.com
+1455;dose;cnn;2;agkn.com | krxd.net
+1456;diply;bustle;1;facebook.com
+1457;stackexchange;nytimes;1;quantserve.com
+1458;walmart;att;1;bluekai.com
+1459;photobucket;brainjet;1;google.com
+1460;sbnation;vox;11;adadvisor.net | agkn.com | bidswitch.net | doubleclick.net | google.com | krxd.net | ml314.com | quantserve.com | rlcdn.com | skimresources.com | sonobi.com
+1461;healthline;distractify;1;doubleclick.net
+1462;examiner;tmz;9;adsrvr.org | exelator.com | krxd.net | media6degrees.com | nexac.com | pubmatic.com | rlcdn.com | simpli.fi | tubemogul.com
+1463;vimeo;opposingviews;2;mathtag.com | quantserve.com
+1464;ask;babycenter;1;advertising.com
+1465;qpolitical;deadspin;2;agkn.com | rubiconproject.com
+1466;ask;eonline;7;adadvisor.net | agkn.com | krxd.net | mathtag.com | mookie1.com | pubmatic.com | spotxchange.com
+1467;people;brainjet;1;scorecardresearch.com
+1468;nydailynews;fandango;5;agkn.com | doubleclick.net | iasds01.com | revsci.net | spotxchange.com
+1469;answers;mic;1;quantserve.com
+1470;linkedin;vox;1;scorecardresearch.com
+1471;mapquest;thechive;5;advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com
+1472;buzzfeed;deviantart;1;scorecardresearch.com
+1473;sbnation;yellowpages;6;advertising.com | google.com | mathtag.com | openx.net | rfihub.com | yahoo.com
+1474;wayfair;vimeo;1;google.com
+1475;adobe;zergnet;1;quantserve.com
+1476;live;whitepages;1;demdex.net
+1477;wikia;live;1;demdex.net
+1478;vimeo;tmz;3;amazon-adsystem.com | google.com | quantserve.com
+1479;microsoft;vimeo;1;google.com
+1480;eonline;youngcons;4;cloudflare.com | mathtag.com | pubmatic.com | revsci.net
+1481;weather;sbnation;16;adadvisor.net | adsrvr.org | advertising.com | agkn.com | bluekai.com | crwdcntrl.net | demdex.net | exelator.com | fastclick.net | mathtag.com | nexac.com | openx.net | quantserve.com | rfihub.com | rlcdn.com | taboola.com
+1482;thetiebar;gawker;1;rlcdn.com
+1483;yahoo;photobucket;1;yahoo.com
+1484;babycenter;youngcons;2;advertising.com | revsci.net
+1485;godaddy;usps;1;turn.com
+1486;eonline;ibtimes;1;google.com
+1487;google;godaddy;1;google.com
+1488;linkedin;uproxx;1;imrworldwide.com
+1489;conservativetribune;theblaze;4;adblade.com | bidswitch.net | btrll.com | crwdcntrl.net
+1490;nydailynews;mapquest;5;advertising.com | bidswitch.net | bluekai.com | chango.com | iasds01.com
+1491;walmart;nytimes;7;agkn.com | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | tapad.com | w55c.net
+1492;babycenter;theblaze;2;advertising.com | voicefive.com
+1493;wayfair;people;7;adsrvr.org | bluekai.com | casalemedia.com | doubleclick.net | rubiconproject.com | scorecardresearch.com | turn.com
+1494;amazon;pinterest;1;facebook.com
+1495;diply;wayfair;2;doubleclick.net | facebook.com
+1496;tmz;youngcons;2;cloudflare.com | pubmatic.com
+1497;buzzfeed;inquisitr;2;demdex.net | tubemogul.com
+1498;guff;deviantart;1;scorecardresearch.com
+1499;adobe;mapquest;1;atwola.com
+1500;people;nbcnews;6;doubleclick.net | krxd.net | quantserve.com | revsci.net | rubiconproject.com | twitter.com
+1501;inquisitr;healthline;6;adsrvr.org | adtechus.com | doubleclick.net | openx.net | pubmatic.com | quantserve.com
+1502;ijreview;youngcons;1;cloudflare.com
+1503;inquisitr;theblaze;10;adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | criteo.com | crwdcntrl.net | openx.net | taboola.com
+1504;bustle;cnn;1;krxd.net
+1505;wayfair;qpolitical;9;adsrvr.org | bluekai.com | btrll.com | casalemedia.com | liverail.com | pubmatic.com | rubiconproject.com | turn.com | yahoo.com
+1506;aol;vox;4;adadvisor.net | agkn.com | doubleclick.net | twitter.com
+1507;amazon;healthline;3;doubleclick.net | openx.net | rubiconproject.com
+1508;walmart;qpolitical;10;adsrvr.org | agkn.com | bluekai.com | nexac.com | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | tapad.com | turn.com
+1509;thetiebar;photobucket;3;openx.net | rlcdn.com | twitter.com
+1510;weather;guff;1;scorecardresearch.com
+1511;godaddy;vox;3;google.com | rlcdn.com | twitter.com
+1512;yelp;yellowpages;8;advertising.com | mathtag.com | rfihub.com | rubiconproject.com | tapad.com | turn.com | w55c.net | yahoo.com
+1513;weather;fandango;6;adadvisor.net | agkn.com | exelator.com | mathtag.com | nexac.com | rlcdn.com
+1514;twitter;usmagazine;1;twitter.com
+1515;photobucket;ibtimes;6;advertising.com | casalemedia.com | google.com | openx.net | sonobi.com | twitter.com
+1516;whitepages;nbcnews;5;connexity.net | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com
+1517;thetiebar;thechive;5;bidswitch.net | dotomi.com | openx.net | rlcdn.com | twitter.com
+1518;nytimes;ibtimes;1;casalemedia.com
+1519;blogspot;nydailynews;1;youtube.com
+1520;nbcnews;youngcons;4;cloudflare.com | crwdcntrl.net | mathtag.com | revsci.net
+1521;deadspin;yellowpages;2;mathtag.com | rubiconproject.com
+1522;wikia;gawker;3;agkn.com | krxd.net | rubiconproject.com
+1523;adobe;yellowpages;3;rfihub.com | tapad.com | w55c.net
+1524;examiner;att;3;bluekai.com | demdex.net | doubleclick.net
+1525;answers;babycenter;1;quantserve.com
+1526;bing;topix;1;bing.com
+1527;walmart;glassdoor;2;bluekai.com | rlcdn.com
+1528;yahoo;yellowpages;1;yahoo.com
+1529;examiner;qpolitical;20;adap.tv | addthis.com | adsrvr.org | advertising.com | bluekai.com | btrll.com | chango.com | crwdcntrl.net | demdex.net | liverail.com | media6degrees.com | nexac.com | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | tapad.com | turn.com | yahoo.com
+1530;adobe;imgur;1;quantserve.com
+1531;eonline;tmz;11;adadvisor.net | agkn.com | cloudflare.com | facebook.com | google.com | krxd.net | pinterest.com | pubmatic.com | quantserve.com | serving-sys.com | tubemogul.com
+1532;ask;uproxx;2;crwdcntrl.net | lijit.com
+1533;buzzfeed;dose;2;agkn.com | scorecardresearch.com
+1534;ask;city-data;4;adadvisor.net | agkn.com | exelator.com | rlcdn.com
+1535;dose;lifehacker;2;agkn.com | krxd.net
+1536;nydailynews;yellowpages;6;advertising.com | openx.net | rubiconproject.com | turn.com | twitter.com | w55c.net
+1537;thetiebar;nbcnews;2;rlcdn.com | twitter.com
+1538;weather;mapquest;3;advertising.com | atwola.com | bluekai.com
+1539;answers;wikia;1;quantserve.com
+1540;blogger;theblaze;1;youtube.com
+1541;nbcnews;southwest;1;tubemogul.com
+1542;uproxx;yellowpages;2;google.com | turn.com
+1543;aol;opposingviews;6;adtechus.com | advertising.com | bluekai.com | casalemedia.com | mediaplex.com | nexac.com
+1544;usmagazine;examiner;4;exelator.com | krxd.net | nexac.com | rlcdn.com
+1545;opposingviews;chase;1;yahoo.com
+1546;blogger;eonline;1;google.com
+1547;wayfair;distractify;1;doubleclick.net
+1548;conservativetribune;healthline;4;adsrvr.org | doubleclick.net | pubmatic.com | quantserve.com
+1549;buzzfeed;city-data;1;agkn.com
+1550;cnn;thechive;2;agkn.com | optimizely.com
+1551;goodreads;thechive;1;quantserve.com
+1552;urbandictionary;deviantart;4;bidswitch.net | doubleclick.net | quantserve.com | rubiconproject.com
+1553;weather;healthline;6;adsrvr.org | agkn.com | openx.net | optimizely.com | quantserve.com | serving-sys.com
+1554;healthline;deviantart;6;adtechus.com | doubleclick.net | openx.net | pubmatic.com | quantserve.com | rubiconproject.com
+1555;legacy;cnn;1;optimizely.com
+1556;blogspot;conservativetribune;1;google.com
+1557;cnn;yellowpages;1;optimizely.com
+1558;uproxx;vox;2;google.com | quantserve.com
+1559;pinterest;yellowpages;1;facebook.com
+1560;live;weather;1;demdex.net
+1561;inquisitr;imdb;2;doubleclick.net | twitter.com
+1562;yahoo;wayfair;1;yahoo.com
+1563;blogspot;glassdoor;1;google.com
+1564;usmagazine;people;3;krxd.net | quantserve.com | twitter.com
+1565;yelp;dose;2;adsrvr.org | agkn.com
+1566;godaddy;photobucket;4;advertising.com | google.com | rlcdn.com | twitter.com
+1567;usmagazine;deadspin;3;agkn.com | imrworldwide.com | krxd.net
+1568;urbandictionary;nytimes;6;quantserve.com | rfihub.com | ru4.com | rubiconproject.com | tapad.com | w55c.net
+1569;weather;legacy;3;optimizely.com | quantserve.com | scorecardresearch.com
+1570;facebook;fandango;1;facebook.com
+1571;people;imdb;2;doubleclick.net | twitter.com
+1572;whitepages;city-data;1;rlcdn.com
+1573;thechive;deviantart;9;adnxs.com | adtechus.com | bidswitch.net | casalemedia.com | openx.net | pubmatic.com | quantserve.com | rubiconproject.com | scorecardresearch.com
+1574;diply;whitepages;1;facebook.com
+1575;godaddy;bustle;1;twitter.com
+1576;uproxx;qpolitical;2;crwdcntrl.net | turn.com
+1577;ijreview;tmz;3;cloudflare.com | krxd.net | tubemogul.com
+1578;conservativetribune;imdb;1;doubleclick.net
+1579;ebay;opposingviews;1;mathtag.com
+1580;zergnet;topix;3;quantserve.com | scorecardresearch.com | zergnet.com
+1581;whitepages;lifehacker;3;amazon-adsystem.com | criteo.com | rubiconproject.com
+1582;inquisitr;southwest;4;advertising.com | demdex.net | tidaltv.com | tubemogul.com
+1583;ibtimes;gawker;1;criteo.com
+1584;aol;diply;1;doubleclick.net
+1585;whitepages;deadspin;3;amazon-adsystem.com | criteo.com | rubiconproject.com
+1586;adobe;healthline;1;quantserve.com
+1587;microsoft;examiner;1;bluekai.com
+1588;walmart;nydailynews;6;agkn.com | bluekai.com | rubiconproject.com | tidaltv.com | turn.com | w55c.net
+1589;wordpress;inquisitr;1;doubleclick.net
+1590;google;eonline;1;google.com
+1591;city-data;lifehacker;2;adadvisor.net | agkn.com
+1592;youtube;opposingviews;1;scorecardresearch.com
+1593;bustle;conservativetribune;1;facebook.com
+1594;facebook;amazon;1;facebook.com
+1595;babycenter;qpolitical;2;advertising.com | revsci.net
+1596;stackexchange;goodreads;1;quantserve.com
+1597;theblaze;instructables;1;rubiconproject.com
+1598;yahoo;paypal;1;yahoo.com
+1599;legacy;goodreads;1;quantserve.com
+1600;healthline;goodreads;1;quantserve.com
+1601;yelp;ijreview;1;tubemogul.com
+1602;tmz;vox;11;adadvisor.net | adnxs.com | agkn.com | amazon-adsystem.com | facebook.com | google.com | krxd.net | quantserve.com | rlcdn.com | scorecardresearch.com | twitter.com
+1603;twitter;people;1;twitter.com
+1604;walmart;yellowpages;5;rfihub.com | rubiconproject.com | tapad.com | turn.com | w55c.net
+1605;aol;usmagazine;3;agkn.com | nexac.com | twitter.com
+1606;vimeo;healthline;1;quantserve.com
+1607;answers;eonline;1;quantserve.com
+1608;inquisitr;tmz;13;adsrvr.org | criteo.com | exelator.com | facebook.com | google.com | pubmatic.com | quantserve.com | rlcdn.com | simpli.fi | taboola.com | tubemogul.com | twitter.com | zergnet.com
+1609;nytimes;fandango;5;agkn.com | krxd.net | pubmatic.com | revsci.net | rlcdn.com
+1610;youngcons;deviantart;1;pubmatic.com
+1611;nbcnews;ibtimes;1;twitter.com
+1612;yelp;yahoo;1;yahoo.com
+1613;mic;thoughtcatalog;1;insightexpressai.com
+1614;pinterest;photobucket;1;facebook.com
+1615;topix;gawker;5;agkn.com | criteo.com | krxd.net | rlcdn.com | rubiconproject.com
+1616;stackexchange;babycenter;1;quantserve.com
+1617;bustle;ibtimes;1;twitter.com
+1618;dose;tmz;8;adsrvr.org | agkn.com | exelator.com | krxd.net | pubmatic.com | rlcdn.com | scorecardresearch.com | taboola.com
+1619;ask;theblaze;8;advertising.com | agkn.com | bluekai.com | btrll.com | criteo.com | crwdcntrl.net | rubiconproject.com | spotxchange.com
+1620;people;youngcons;2;advertising.com | revsci.net
+1621;weather;bustle;1;serving-sys.com
+1622;walmart;deadspin;3;agkn.com | criteo.com | rubiconproject.com
+1623;buzzfeed;usmagazine;1;agkn.com
+1624;mic;examiner;4;bidswitch.net | crwdcntrl.net | doubleclick.net | mookie1.com
+1625;godaddy;tmz;3;google.com | rlcdn.com | twitter.com
+1626;sbnation;nytimes;7;agkn.com | casalemedia.com | krxd.net | quantserve.com | revsci.net | rfihub.com | rlcdn.com
+1627;linkedin;deviantart;1;scorecardresearch.com
+1628;wikia;guff;1;scorecardresearch.com
+1629;youtube;instructables;1;scorecardresearch.com
+1630;fandango;distractify;1;doubleclick.net
+1631;blogspot;photobucket;1;google.com
+1632;youtube;urbandictionary;1;doubleclick.net
+1633;theblaze;lifehacker;3;agkn.com | criteo.com | rubiconproject.com
+1634;whitepages;bustle;1;facebook.com
+1635;weather;thetiebar;2;openx.net | rlcdn.com
+1636;urbandictionary;wayfair;5;bluekai.com | doubleclick.net | google.com | rubiconproject.com | sitescout.com
+1637;buzzfeed;thechive;2;agkn.com | scorecardresearch.com
+1638;whitepages;thetiebar;5;adroll.com | bidswitch.net | dotomi.com | openx.net | rlcdn.com
+1639;msn;bing;1;bing.com
+1640;mapquest;att;1;bluekai.com
+1641;babycenter;people;3;advertising.com | quantserve.com | revsci.net
+1642;uproxx;tmz;5;google.com | gravity.com | imrworldwide.com | quantserve.com | youtube.com
+1643;answers;topix;1;quantserve.com
+1644;mic;vox;3;bidswitch.net | doubleclick.net | quantserve.com
+1645;chase;yellowpages;1;yahoo.com
+1646;weather;uproxx;4;audienceiq.com | crwdcntrl.net | quantserve.com | turn.com
+1647;nydailynews;youngcons;6;adform.net | advertising.com | collective-media.net | crwdcntrl.net | iasds01.com | revsci.net
+1648;fandango;imdb;1;doubleclick.net
+1649;aol;wikia;10;addthis.com | adsrvr.org | agkn.com | atwola.com | bluekai.com | btrll.com | demdex.net | rfihub.com | tubemogul.com | turn.com
+1650;walmart;examiner;12;adsrvr.org | bluekai.com | mookie1.com | nexac.com | rfihub.com | rlcdn.com | ru4.com | tapad.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+1651;vimeo;lifehacker;1;amazon-adsystem.com
+1652;buzzfeed;instructables;1;scorecardresearch.com
+1653;opposingviews;zergnet;2;quantserve.com | scorecardresearch.com
+1654;microsoft;whitepages;1;bluekai.com
+1655;yelp;weather;10;adsrvr.org | advertising.com | agkn.com | bluekai.com | mathtag.com | quantserve.com | rfihub.com | ru4.com | sitescout.com | turn.com
+1656;answers;weather;1;quantserve.com
+1657;glassdoor;yellowpages;4;facebook.com | google.com | openx.net | optimizely.com
+1658;yahoo;examiner;2;yahoo.com | yimg.com
+1659;buzzfeed;theblaze;2;agkn.com | iasds01.com
+1660;dose;eonline;4;agkn.com | krxd.net | pubmatic.com | visualdna.com
+1661;opposingviews;babycenter;3;advertising.com | quantserve.com | revsci.net
+1662;instructables;guff;1;scorecardresearch.com
+1663;bustle;examiner;1;krxd.net
+1664;buzzfeed;wayfair;1;scorecardresearch.com
+1665;wayfair;inquisitr;10;adsrvr.org | adtechus.com | bing.com | bluekai.com | doubleclick.net | facebook.com | google.com | openx.net | pubmatic.com | turn.com
+1666;facebook;photobucket;1;facebook.com
+1667;dose;chase;1;rlcdn.com
+1668;wayfair;theblaze;7;3lift.com | adtechus.com | bluekai.com | btrll.com | dotomi.com | openx.net | rubiconproject.com
+1669;wikia;nydailynews;11;agkn.com | amazon-adsystem.com | bluekai.com | btrll.com | crwdcntrl.net | demdex.net | quantserve.com | rubiconproject.com | tidaltv.com | turn.com | w55c.net
+1670;youtube;mic;2;doubleclick.net | mookie1.com
+1671;sbnation;tmz;12;adadvisor.net | adsrvr.org | agkn.com | criteo.com | exelator.com | google.com | krxd.net | nexac.com | quantserve.com | rlcdn.com | simpli.fi | taboola.com
+1672;imgur;city-data;1;quantserve.com
+1673;sbnation;southwest;2;advertising.com | demdex.net
+1674;whitepages;walmart;9;adsrvr.org | bluekai.com | criteo.com | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | tidaltv.com | turn.com
+1675;about;nydailynews;1;parsely.com
+1676;ask;topix;19;adadvisor.net | addthis.com | advertising.com | agkn.com | bluekai.com | btrll.com | casalemedia.com | contextweb.com | criteo.com | crwdcntrl.net | exelator.com | krxd.net | mathtag.com | nexac.com | pubmatic.com | rlcdn.com | rubiconproject.com | sonobi.com | spotxchange.com
+1677;opposingviews;thoughtcatalog;1;bluekai.com
+1678;godaddy;inquisitr;6;advertising.com | google.com | mathtag.com | rlcdn.com | turn.com | twitter.com
+1679;wayfair;imdb;1;doubleclick.net
+1680;wordpress;imdb;1;doubleclick.net
+1681;nydailynews;dose;1;agkn.com
+1682;photobucket;webmd;2;crwdcntrl.net | tapad.com
+1683;nytimes;city-data;3;agkn.com | quantserve.com | rlcdn.com
+1684;linkedin;people;1;scorecardresearch.com
+1685;uproxx;youngcons;1;crwdcntrl.net
+1686;godaddy;vimeo;2;google.com | mathtag.com
+1687;yelp;godaddy;3;advertising.com | mathtag.com | turn.com
+1688;google;vox;1;google.com
+1689;wordpress;mic;1;doubleclick.net
+1690;brainjet;yellowpages;1;google.com
+1691;nydailynews;tmz;10;agkn.com | amazon-adsystem.com | imrworldwide.com | media6degrees.com | quantserve.com | simpli.fi | twitter.com | webspectator.com | youtube.com | zergnet.com
+1692;nydailynews;examiner;25;adform.net | adotube.com | adsymptotic.com | adtechus.com | advertising.com | altitude-arena.com | bidswitch.net | bluekai.com | btrll.com | chango.com | crwdcntrl.net | demdex.net | doubleclick.net | eqads.com | fastclick.net | liverail.com | media6degrees.com | owneriq.net | postrelease.com | revsci.net | rundsp.com | simpli.fi | tidaltv.com | turn.com | w55c.net
+1693;uproxx;webmd;3;audienceiq.com | crwdcntrl.net | turn.com
+1694;nydailynews;imdb;2;doubleclick.net | twitter.com
+1695;glassdoor;tmz;4;facebook.com | google.com | rlcdn.com | scorecardresearch.com
+1696;wikia;southwest;3;demdex.net | tidaltv.com | tubemogul.com
+1697;youtube;dose;1;scorecardresearch.com
+1698;adobe;tmz;3;exelator.com | nexac.com | quantserve.com
+1699;amazon;aol;3;contextweb.com | doubleclick.net | liverail.com
+1700;linkedin;thechive;1;scorecardresearch.com
+1701;babycenter;deviantart;1;quantserve.com
+1702;youngcons;southwest;1;advertising.com
+1703;nytimes;thetiebar;1;rlcdn.com
+1704;wayfair;healthline;6;adsrvr.org | adtechus.com | doubleclick.net | openx.net | pubmatic.com | rubiconproject.com
+1705;opposingviews;gawker;1;yahoo.com
+1706;aol;wordpress;1;doubleclick.net
+1707;photobucket;nbcnews;16;adadvisor.net | agkn.com | btrll.com | connexity.net | crwdcntrl.net | doubleclick.net | exelator.com | lijit.com | liverail.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com | spotxchange.com | twitter.com
+1708;opposingviews;ibtimes;4;advertising.com | bidswitch.net | casalemedia.com | openx.net
+1709;uproxx;examiner;2;crwdcntrl.net | turn.com
+1710;healthline;chase;1;doubleclick.net
+1711;google;inquisitr;1;google.com
+1712;fandango;nbcnews;11;adadvisor.net | agkn.com | doubleclick.net | exelator.com | krxd.net | mathtag.com | revsci.net | rlcdn.com | spotxchange.com | tubemogul.com | visualdna.com
+1713;opposingviews;city-data;1;quantserve.com
+1714;amazon;eonline;1;facebook.com
+1715;yelp;vox;2;agkn.com | quantserve.com
+1716;blogspot;eonline;1;google.com
+1717;zergnet;tmz;3;quantserve.com | scorecardresearch.com | zergnet.com
+1718;eonline;goodreads;1;quantserve.com
+1719;sbnation;eonline;9;adadvisor.net | agkn.com | demdex.net | google.com | krxd.net | mathtag.com | mookie1.com | quantserve.com | revsci.net
+1720;ask;inquisitr;8;advertising.com | bluekai.com | criteo.com | crwdcntrl.net | exelator.com | mathtag.com | pubmatic.com | rlcdn.com
+1721;msn;weather;1;serving-sys.com
+1722;qpolitical;southwest;2;advertising.com | demdex.net
+1723;walmart;usps;1;turn.com
+1724;pinterest;thechive;1;facebook.com
+1725;opposingviews;glassdoor;4;bidswitch.net | bluekai.com | openx.net | scorecardresearch.com
+1726;examiner;chase;5;demdex.net | doubleclick.net | rlcdn.com | ru4.com | yahoo.com
+1727;wikia;uproxx;3;crwdcntrl.net | quantserve.com | turn.com
+1728;adobe;usps;1;bizographics.com
+1729;theblaze;ibtimes;6;adnxs.com | advertising.com | bidswitch.net | criteo.com | openx.net | servedbyopenx.com
+1730;nbcnews;deviantart;3;doubleclick.net | quantserve.com | rubiconproject.com
+1731;weather;tmz;10;adadvisor.net | adsrvr.org | agkn.com | exelator.com | nexac.com | quantserve.com | rlcdn.com | scorecardresearch.com | serving-sys.com | taboola.com
+1732;healthline;yellowpages;4;openx.net | optimizely.com | pubmatic.com | rubiconproject.com
+1733;wayfair;zergnet;1;scorecardresearch.com
+1734;youtube;paypal;1;youtube.com
+1735;dose;photobucket;4;agkn.com | exelator.com | pubmatic.com | rlcdn.com
+1736;amazon;urbandictionary;2;doubleclick.net | rubiconproject.com
+1737;zergnet;instructables;1;scorecardresearch.com
+1738;legacy;opposingviews;2;quantserve.com | scorecardresearch.com
+1739;photobucket;chase;5;demdex.net | doubleclick.net | rlcdn.com | ru4.com | yahoo.com
+1740;urbandictionary;brainjet;1;google.com
+1741;opposingviews;qpolitical;7;advertising.com | bluekai.com | casalemedia.com | chango.com | nexac.com | revsci.net | yahoo.com
+1742;wordpress;nydailynews;1;doubleclick.net
+1743;urbandictionary;zergnet;1;quantserve.com
+1744;babycenter;southwest;1;advertising.com
+1745;nydailynews;people;8;advertising.com | bluekai.com | doubleclick.net | quantserve.com | revsci.net | rubiconproject.com | turn.com | twitter.com
+1746;weather;instructables;1;scorecardresearch.com
+1747;blogger;ibtimes;1;google.com
+1748;city-data;theblaze;1;agkn.com
+1749;amazon;people;2;doubleclick.net | rubiconproject.com
+1750;theblaze;youngcons;3;advertising.com | crwdcntrl.net | iasds01.com
+1751;wayfair;nbcnews;5;amgdgt.com | btrll.com | doubleclick.net | liverail.com | rubiconproject.com
+1752;paypal;blogspot;1;youtube.com
+1753;linkedin;deadspin;1;imrworldwide.com
+1754;youtube;wikia;1;scorecardresearch.com
+1755;youtube;chase;1;doubleclick.net
+1756;sbnation;distractify;1;doubleclick.net
+1757;bing;wayfair;1;bing.com
+1758;buzzfeed;live;1;demdex.net
+1759;city-data;tmz;6;adadvisor.net | agkn.com | exelator.com | quantserve.com | rlcdn.com | tynt.com
+1760;aol;wayfair;11;adsrvr.org | adtechus.com | bluekai.com | btrll.com | casalemedia.com | dotomi.com | doubleclick.net | liverail.com | mediaplex.com | pubmatic.com | turn.com
+1761;usmagazine;conservativetribune;2;quantserve.com | rlcdn.com
+1762;twitter;thetiebar;1;twitter.com
+1763;nydailynews;deviantart;7;adtechus.com | bidswitch.net | doubleclick.net | openx.net | quantserve.com | rubiconproject.com | servedbyopenx.com
+1764;stackexchange;city-data;1;quantserve.com
+1765;photobucket;theblaze;9;advertising.com | agkn.com | bluekai.com | btrll.com | crwdcntrl.net | openx.net | rubiconproject.com | spotxchange.com | voicefive.com
+1766;facebook;diply;1;facebook.com
+1767;nydailynews;nbcnews;12;agkn.com | btrll.com | crwdcntrl.net | doubleclick.net | liverail.com | quantserve.com | revsci.net | rubiconproject.com | spotxchange.com | tribalfusion.com | twitter.com | zergnet.com
+1768;bustle;mic;1;serving-sys.com
+1769;wikia;mozilla;1;optimizely.com
+1770;photobucket;distractify;1;doubleclick.net
+1771;fandango;mapquest;1;iasds01.com
+1772;whitepages;weather;11;adsrvr.org | advertising.com | bluekai.com | demdex.net | omtrdc.net | openx.net | rfihub.com | rlcdn.com | ru4.com | sitescout.com | turn.com
+1773;yelp;ebay;1;mathtag.com
+1774;diply;nydailynews;1;doubleclick.net
+1775;wikia;bustle;1;krxd.net
+1776;yelp;healthline;4;adsrvr.org | agkn.com | quantserve.com | rubiconproject.com
+1777;linkedin;instructables;1;scorecardresearch.com
+1778;ibtimes;lifehacker;1;criteo.com
+1779;microsoft;urbandictionary;2;bluekai.com | google.com
+1780;inquisitr;cnn;2;criteo.com | crwdcntrl.net
+1781;sbnation;examiner;24;adform.net | adsrvr.org | adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | crwdcntrl.net | demdex.net | doubleclick.net | exelator.com | fastclick.net | krxd.net | mathtag.com | mookie1.com | nexac.com | revsci.net | rfihub.com | rlcdn.com | simpli.fi | sonobi.com | yahoo.com | yimg.com
+1782;paypal;uproxx;1;youtube.com
+1783;healthline;city-data;2;agkn.com | quantserve.com
+1784;eonline;people;3;krxd.net | quantserve.com | revsci.net
+1785;google;uproxx;1;google.com
+1786;inquisitr;fandango;9;doubleclick.net | exelator.com | facebook.com | google.com | mathtag.com | pubmatic.com | revsci.net | rlcdn.com | tubemogul.com
+1787;diply;chase;1;doubleclick.net
+1788;usmagazine;babycenter;2;imrworldwide.com | quantserve.com
+1789;twitter;urbandictionary;1;google.com
+1790;adobe;legacy;1;quantserve.com
+1791;inquisitr;yellowpages;10;advertising.com | facebook.com | google.com | mathtag.com | openx.net | pubmatic.com | rfihub.com | turn.com | twitter.com | w55c.net
+1792;yelp;wikia;12;adsrvr.org | agkn.com | bluekai.com | btrll.com | mathtag.com | quantserve.com | rfihub.com | rubiconproject.com | tidaltv.com | tubemogul.com | turn.com | w55c.net
+1793;microsoft;brainjet;1;google.com
+1794;blogspot;wayfair;1;google.com
+1795;vox;thechive;10;adadvisor.net | adnxs.com | adyapper.com | agkn.com | bidswitch.net | facebook.com | quantserve.com | rlcdn.com | scorecardresearch.com | twitter.com
+1796;nydailynews;healthline;6;adtechus.com | agkn.com | doubleclick.net | openx.net | quantserve.com | rubiconproject.com
+1797;buzzfeed;weather;3;agkn.com | demdex.net | scorecardresearch.com
+1798;inquisitr;thechive;21;adsrvr.org | adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | eqads.com | facebook.com | openx.net | pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | simpli.fi | taboola.com | tribalfusion.com | turn.com | twitter.com | w55c.net
+1799;facebook;wayfair;1;facebook.com
+1800;diply;healthline;1;doubleclick.net
+1801;stackexchange;conservativetribune;1;quantserve.com
+1802;inquisitr;ijreview;1;tubemogul.com
+1803;amazon;mic;1;doubleclick.net
+1804;opposingviews;yellowpages;4;advertising.com | mathtag.com | openx.net | yahoo.com
+1805;ask;glassdoor;2;bluekai.com | rlcdn.com
+1806;deviantart;att;1;doubleclick.net
+1807;nytimes;youngcons;2;pubmatic.com | revsci.net
+1808;buzzfeed;youngcons;1;iasds01.com
+1809;dose;healthline;3;adsrvr.org | agkn.com | pubmatic.com
+1810;answers;tmz;1;quantserve.com
+1811;yelp;zergnet;1;quantserve.com
+1812;vimeo;ibtimes;1;google.com
+1813;wikia;att;2;bluekai.com | demdex.net
+1814;godaddy;usmagazine;2;rlcdn.com | twitter.com
+1815;vox;deviantart;6;adnxs.com | bidswitch.net | doubleclick.net | quantserve.com | scorecardresearch.com | sonobi.com
+1816;answers;nydailynews;1;quantserve.com
+1817;examiner;gawker;4;krxd.net | rlcdn.com | yahoo.com | yimg.com
+1818;walmart;southwest;2;tidaltv.com | tubemogul.com
+1819;inquisitr;mapquest;5;advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com
+1820;wayfair;brainjet;2;google.com | scorecardresearch.com
+1821;google;twitter;1;google.com
+1822;weather;conservativetribune;7;adsrvr.org | crwdcntrl.net | mathtag.com | quantserve.com | rlcdn.com | sitescout.com | turn.com
+1823;blogspot;vimeo;1;google.com
+1824;wikia;dose;5;adsrvr.org | agkn.com | krxd.net | scorecardresearch.com | visualdna.com
+1825;topix;brainjet;1;scorecardresearch.com
+1826;nydailynews;theblaze;19;adtechus.com | advertising.com | agkn.com | bidswitch.net | bluekai.com | btrll.com | chango.com | crwdcntrl.net | dotomi.com | fastclick.net | iasds01.com | newsinc.com | openx.net | optimatic.com | rubiconproject.com | servedbyopenx.com | spotxchange.com | voicefive.com | youtube.com
+1827;people;thechive;11;adsrvr.org | advertising.com | bluekai.com | casalemedia.com | optimizely.com | quantserve.com | revsci.net | rubiconproject.com | scorecardresearch.com | turn.com | twitter.com
+1828;weather;mozilla;1;optimizely.com
+1829;answers;opposingviews;1;quantserve.com
+1830;stackexchange;nbcnews;1;quantserve.com
+1831;usps;yellowpages;1;turn.com
+1832;wordpress;topix;1;doubleclick.net
+1833;diply;deviantart;1;doubleclick.net
+1834;fandango;theblaze;3;agkn.com | iasds01.com | spotxchange.com
+1835;examiner;cnn;3;crwdcntrl.net | krxd.net | postrelease.com
+1836;diply;mic;1;doubleclick.net
+1837;adobe;qpolitical;4;demdex.net | nexac.com | rfihub.com | tapad.com
+1838;mic;webmd;1;crwdcntrl.net
+1839;eonline;yellowpages;4;facebook.com | google.com | mathtag.com | pubmatic.com
+1840;aol;walmart;10;adsrvr.org | agkn.com | bluekai.com | criteo.com | nexac.com | rfihub.com | ru4.com | tapad.com | tubemogul.com | turn.com
+1841;urbandictionary;deadspin;1;rubiconproject.com
+1842;sbnation;cnn;4;agkn.com | criteo.com | crwdcntrl.net | krxd.net
+1843;urbandictionary;people;5;bluekai.com | doubleclick.net | gwallet.com | quantserve.com | rubiconproject.com
+1844;goodreads;nbcnews;1;quantserve.com
+1845;yahoo;fandango;1;yahoo.com
+1846;littlethings;examiner;1;postrelease.com
+1847;wordpress;nbcnews;1;doubleclick.net
+1848;healthline;qpolitical;4;adsrvr.org | agkn.com | pubmatic.com | rubiconproject.com
+1849;tmz;gawker;4;agkn.com | criteo.com | krxd.net | rlcdn.com
+1850;aol;microsoft;1;bluekai.com
+1851;godaddy;ask;3;advertising.com | mathtag.com | rlcdn.com
+1852;weather;stackexchange;1;quantserve.com
+1853;weather;eonline;6;adadvisor.net | agkn.com | demdex.net | mathtag.com | quantserve.com | serving-sys.com
+1854;microsoft;sbnation;2;bluekai.com | google.com
+1855;examiner;thechive;21;adsrvr.org | adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | crsspxl.com | eqads.com | fastclick.net | media6degrees.com | nexac.com | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | simpli.fi | sitescout.com | tapad.com | turn.com | w55c.net
+1856;google;fandango;1;google.com
+1857;weather;walmart;8;adsrvr.org | agkn.com | bluekai.com | nexac.com | rfihub.com | rlcdn.com | ru4.com | turn.com
+1858;whitepages;mic;1;bidswitch.net
+1859;healthline;instructables;1;rubiconproject.com
+1860;fandango;healthline;3;agkn.com | doubleclick.net | pubmatic.com
+1861;usmagazine;ask;5;agkn.com | exelator.com | krxd.net | nexac.com | rlcdn.com
+1862;opposingviews;guff;1;scorecardresearch.com
+1863;aol;nbcnews;11;adadvisor.net | agkn.com | btrll.com | doubleclick.net | jumptap.com | lijit.com | liverail.com | rfihub.com | spotxchange.com | tubemogul.com | twitter.com
+1864;babycenter;thechive;3;advertising.com | quantserve.com | revsci.net
+1865;diply;instructables;1;facebook.com
+1866;msn;nbcnews;1;serving-sys.com
+1867;weather;ibtimes;5;addthis.com | advertising.com | openx.net | optimizely.com | servedbyopenx.com
+1868;diply;urbandictionary;1;doubleclick.net
+1869;babycenter;eonline;2;quantserve.com | revsci.net
+1870;sbnation;gawker;8;agkn.com | criteo.com | krxd.net | rlcdn.com | skimresources.com | voicefive.com | yahoo.com | yimg.com
+1871;nydailynews;cnn;5;agkn.com | crwdcntrl.net | dmtry.com | imrworldwide.com | postrelease.com
+1872;sbnation;opposingviews;15;adform.net | adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | casalemedia.com | chango.com | mathtag.com | mediaplex.com | nexac.com | openx.net | quantserve.com | revsci.net | yahoo.com
+1873;twitter;tmz;2;google.com | twitter.com
+1874;about;yellowpages;1;optimizely.com
+1875;zergnet;glassdoor;1;scorecardresearch.com
+1876;babycenter;goodreads;1;quantserve.com
+1877;sbnation;ijreview;1;krxd.net
+1878;qpolitical;tmz;8;adadvisor.net | adsrvr.org | agkn.com | media6degrees.com | nexac.com | pubmatic.com | rlcdn.com | taboola.com
+1879;youtube;topix;2;doubleclick.net | scorecardresearch.com
+1880;amazon;vox;3;amazon-adsystem.com | doubleclick.net | facebook.com
+1881;paypal;weather;1;omtrdc.net
+1882;linkedin;lifehacker;1;imrworldwide.com
+1883;ask;vimeo;1;mathtag.com
+1884;opposingviews;mapquest;6;advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | iasds01.com
+1885;ijreview;deadspin;1;krxd.net
+1886;sbnation;deviantart;7;adtechus.com | bidswitch.net | casalemedia.com | doubleclick.net | openx.net | quantserve.com | sonobi.com
+1887;ijreview;southwest;1;tubemogul.com
+1888;sbnation;mic;5;bidswitch.net | crwdcntrl.net | doubleclick.net | mookie1.com | quantserve.com
+1889;nbcnews;vox;7;adadvisor.net | agkn.com | doubleclick.net | krxd.net | quantserve.com | rlcdn.com | twitter.com
+1890;ebay;vimeo;1;mathtag.com
+1891;adobe;city-data;3;adsymptotic.com | exelator.com | quantserve.com
+1892;yelp;wayfair;9;adsrvr.org | adsymptotic.com | bluekai.com | btrll.com | rubiconproject.com | rundsp.com | sitescout.com | turn.com | yahoo.com
+1893;conservativetribune;thetiebar;2;bidswitch.net | rlcdn.com
+1894;urbandictionary;ibtimes;3;bidswitch.net | google.com | rtbidder.net
+1895;ask;conservativetribune;6;btrll.com | contextweb.com | crwdcntrl.net | mathtag.com | pubmatic.com | rlcdn.com
+1896;babycenter;gawker;1;voicefive.com
+1897;ask;nydailynews;8;advertising.com | agkn.com | bluekai.com | btrll.com | contextweb.com | crwdcntrl.net | rubiconproject.com | spotxchange.com
+1898;microsoft;people;1;bluekai.com
+1899;godaddy;opposingviews;2;advertising.com | mathtag.com
+1900;chase;deviantart;1;doubleclick.net
+1901;microsoft;ibtimes;1;google.com
+1902;sbnation;thechive;21;adadvisor.net | adsrvr.org | adtechus.com | advertising.com | agkn.com | bidswitch.net | bluekai.com | bnmla.com | casalemedia.com | chango.com | dotomi.com | fastclick.net | nexac.com | openx.net | quantserve.com | revsci.net | rfihub.com | rlcdn.com | simpli.fi | switchads.com | taboola.com
+1903;bustle;fandango;2;facebook.com | krxd.net
+1904;nbcnews;deadspin;4;agkn.com | krxd.net | mathtag.com | rubiconproject.com
+1905;godaddy;chase;1;rlcdn.com
+1906;urbandictionary;walmart;7;bluekai.com | rfihub.com | ru4.com | rubiconproject.com | tapad.com | tubemogul.com | w55c.net
+1907;wikia;brainjet;1;scorecardresearch.com
+1908;ijreview;gawker;1;krxd.net
+1909;people;webmd;1;turn.com
+1910;linkedin;weather;1;scorecardresearch.com
+1911;ijreview;vox;1;krxd.net
+1912;topix;att;3;atdmt.com | bluekai.com | doubleclick.net
+1913;buzzfeed;whitepages;1;demdex.net
+1914;ijreview;examiner;2;krxd.net | tubemogul.com
+1915;godaddy;babycenter;1;advertising.com
+1916;yelp;fandango;6;agkn.com | mathtag.com | revsci.net | spotxchange.com | tubemogul.com | yahoo.com
+1917;weather;deadspin;2;agkn.com | mathtag.com
+1918;wikia;stackexchange;1;quantserve.com
+1919;photobucket;cnn;3;agkn.com | crwdcntrl.net | imrworldwide.com
+1920;weather;chase;3;demdex.net | rlcdn.com | ru4.com
+1921;live;qpolitical;1;demdex.net
+1922;nbcnews;gawker;4;agkn.com | krxd.net | rlcdn.com | rubiconproject.com
+1923;yelp;thechive;14;adsrvr.org | advertising.com | agkn.com | bluekai.com | chango.com | quantserve.com | revsci.net | rfihub.com | rubiconproject.com | simpli.fi | sitescout.com | tapad.com | turn.com | w55c.net
+1924;wikia;opposingviews;4;bluekai.com | mathtag.com | quantserve.com | scorecardresearch.com
+1925;sbnation;zergnet;1;quantserve.com
+1926;dose;gawker;3;agkn.com | krxd.net | rlcdn.com
+1927;zergnet;vox;2;quantserve.com | scorecardresearch.com
+1928;godaddy;thechive;4;advertising.com | rlcdn.com | turn.com | twitter.com
+1929;buzzfeed;vox;2;agkn.com | scorecardresearch.com
+1930;topix;nbcnews;31;adadvisor.net | adlucent.com | agkn.com | amgdgt.com | bizographics.com | bluecava.com | btrll.com | connexity.net | crwdcntrl.net | d41.co | domdex.com | doubleclick.net | exelator.com | flashtalking.com | jumptap.com | krxd.net | liverail.com | mathtag.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com | serving-sys.com | spongecell.com | spotxchange.com | tribalfusion.com | tubemogul.com | twitter.com | xg4ken.com | zergnet.com
+1931;youtube;fandango;1;doubleclick.net
+1932;facebook;tmz;1;facebook.com
+1933;godaddy;blogspot;1;google.com
+1934;mapquest;photobucket;3;advertising.com | atwola.com | bluekai.com
+1935;adobe;opposingviews;2;nexac.com | quantserve.com
+1936;adobe;inquisitr;7;demdex.net | everesttech.net | exelator.com | gwallet.com | quantserve.com | rfihub.com | w55c.net
+1937;dose;nbcnews;5;agkn.com | exelator.com | krxd.net | rlcdn.com | visualdna.com
+1938;mapquest;topix;7;advertising.com | atwola.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | iasds01.com
+1939;microsoft;glassdoor;2;bluekai.com | google.com
+1940;amazon;bustle;1;facebook.com
+1941;weather;topix;21;adadvisor.net | addthis.com | adsrvr.org | advertising.com | agkn.com | atwola.com | bluekai.com | crwdcntrl.net | exelator.com | gwallet.com | mathtag.com | nexac.com | openx.net | quantserve.com | rfihub.com | rlcdn.com | ru4.com | scorecardresearch.com | serving-sys.com | sitescout.com | turn.com
+1942;dose;deviantart;2;pubmatic.com | scorecardresearch.com
+1943;paypal;sbnation;1;yahoo.com
+1944;adobe;vimeo;1;quantserve.com
+1945;conservativetribune;webmd;2;crwdcntrl.net | turn.com
+1946;brainjet;vox;2;google.com | scorecardresearch.com
+1947;photobucket;gawker;5;agkn.com | rlcdn.com | rubiconproject.com | voicefive.com | yahoo.com
+1948;pinterest;tmz;2;facebook.com | pinterest.com
+1949;inquisitr;deviantart;6;adtechus.com | bidswitch.net | doubleclick.net | openx.net | pubmatic.com | quantserve.com
+1950;ask;mapquest;2;advertising.com | bluekai.com
+1951;glassdoor;theblaze;3;bidswitch.net | bluekai.com | openx.net
+1952;google;sbnation;1;google.com
+1953;yelp;deadspin;4;agkn.com | imrworldwide.com | mathtag.com | rubiconproject.com
+1954;yelp;opposingviews;8;advertising.com | bluekai.com | chango.com | mathtag.com | mxptint.net | quantserve.com | revsci.net | yahoo.com
+1955;qpolitical;chase;4;demdex.net | rlcdn.com | ru4.com | yahoo.com
+1956;dose;qpolitical;5;adsrvr.org | agkn.com | pubmatic.com | rlcdn.com | taboola.com
+1957;whitepages;nydailynews;18;adtechus.com | advertising.com | amazon-adsystem.com | bidswitch.net | bluekai.com | chango.com | demdex.net | dmtry.com | dotomi.com | eqads.com | media6degrees.com | netseer.com | openx.net | revsci.net | rubiconproject.com | rundsp.com | tidaltv.com | turn.com
+1958;imgur;people;2;quantserve.com | twitter.com
+1959;ask;vox;5;adadvisor.net | agkn.com | krxd.net | rlcdn.com | sonobi.com
+1960;diply;yellowpages;1;facebook.com
+1961;paypal;wayfair;1;yahoo.com
+1962;wayfair;ibtimes;3;casalemedia.com | google.com | openx.net
+1963;vimeo;conservativetribune;3;google.com | mathtag.com | quantserve.com
+1964;fandango;dose;6;agkn.com | exelator.com | krxd.net | pubmatic.com | rlcdn.com | visualdna.com
+1965;nytimes;babycenter;3;imrworldwide.com | quantserve.com | revsci.net
+1966;walmart;photobucket;10;agkn.com | bluekai.com | nexac.com | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | tapad.com | tidaltv.com | w55c.net
+1967;weather;nydailynews;10;advertising.com | agkn.com | bluekai.com | crwdcntrl.net | demdex.net | fastclick.net | openx.net | quantserve.com | servedbyopenx.com | turn.com
+1968;ibtimes;deadspin;1;criteo.com
+1969;inquisitr;gawker;4;criteo.com | rlcdn.com | skimresources.com | yimg.com
+1970;twitter;blogspot;1;google.com
+1971;aol;uproxx;4;audienceiq.com | gravity.com | lijit.com | turn.com
+1972;buzzfeed;linkedin;1;scorecardresearch.com
+1973;godaddy;ibtimes;3;advertising.com | google.com | twitter.com
+1974;aol;att;3;bluekai.com | demdex.net | doubleclick.net
+1975;bustle;gawker;1;krxd.net
+1976;eonline;instructables;1;facebook.com
+1977;answers;adobe;1;quantserve.com
+1978;nydailynews;babycenter;5;advertising.com | imrworldwide.com | quantserve.com | revsci.net | voicefive.com
+1979;whitepages;photobucket;19;acuityplatform.com | advertising.com | amazon-adsystem.com | bluekai.com | connexity.net | demdex.net | eqads.com | eyereturn.com | facebook.com | media6degrees.com | openx.net | revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com | sitescout.com | tidaltv.com | yahoo.com
+1980;healthline;deadspin;2;agkn.com | rubiconproject.com
+1981;thechive;yellowpages;11;advertising.com | facebook.com | openx.net | optimizely.com | pubmatic.com | rfihub.com | rubiconproject.com | tapad.com | turn.com | twitter.com | w55c.net
+1982;thetiebar;dose;1;rlcdn.com
+1983;examiner;yellowpages;9;adap.tv | advertising.com | mathtag.com | pubmatic.com | rfihub.com | tapad.com | turn.com | w55c.net | yahoo.com
+1984;distractify;vox;1;doubleclick.net
+1985;vimeo;nbcnews;2;mathtag.com | quantserve.com
+1986;yelp;vimeo;2;mathtag.com | quantserve.com
+1987;mic;thechive;2;bidswitch.net | quantserve.com
+1988;ask;photobucket;15;adadvisor.net | advertising.com | agkn.com | bluekai.com | btrll.com | casalemedia.com | crwdcntrl.net | exelator.com | lijit.com | nexac.com | pubmatic.com | rlcdn.com | rubiconproject.com | sonobi.com | spotxchange.com
+1989;instructables;yellowpages;2;facebook.com | rubiconproject.com
+1990;eonline;theblaze;2;agkn.com | spotxchange.com
+1991;blogger;glassdoor;1;google.com
+1992;ebay;inquisitr;1;mathtag.com
+1993;examiner;vox;5;bidswitch.net | doubleclick.net | krxd.net | rlcdn.com | sonobi.com
+1994;wikia;cnn;4;agkn.com | crwdcntrl.net | krxd.net | optimizely.com
+1995;nydailynews;photobucket;25;adform.net | advertising.com | agkn.com | amazon-adsystem.com | bluekai.com | btrll.com | collective-media.net | crwdcntrl.net | demdex.net | doubleclick.net | eqads.com | imrworldwide.com | liverail.com | media6degrees.com | openx.net | owneriq.net | quantserve.com | revsci.net | rubiconproject.com | simpli.fi | spotxchange.com | tidaltv.com | twitter.com | voicefive.com | w55c.net
+1996;walmart;gawker;4;agkn.com | criteo.com | rlcdn.com | rubiconproject.com
+1997;uproxx;glassdoor;1;google.com
+1998;urbandictionary;instructables;1;rubiconproject.com
+1999;mic;thetiebar;1;bidswitch.net
+2000;healthline;theblaze;4;adtechus.com | agkn.com | openx.net | rubiconproject.com
+2001;facebook;topix;1;facebook.com
+2002;wikia;conservativetribune;8;adsrvr.org | btrll.com | crwdcntrl.net | mathtag.com | quantserve.com | tubemogul.com | turn.com | w55c.net
+2003;topix;deadspin;8;agkn.com | amazon-adsystem.com | criteo.com | iasds01.com | imrworldwide.com | krxd.net | mathtag.com | rubiconproject.com
+2004;weather;brainjet;1;scorecardresearch.com
+2005;imgur;tmz;2;quantserve.com | twitter.com
+2006;vimeo;yellowpages;2;google.com | mathtag.com
+2007;eonline;nbcnews;12;adadvisor.net | agkn.com | cloudflare.com | krxd.net | mathtag.com | mookie1.com | quantserve.com | revsci.net | serving-sys.com | spotxchange.com | tubemogul.com | visualdna.com
+2008;facebook;bustle;1;facebook.com
+2009;diply;people;1;doubleclick.net
+2010;diply;conservativetribune;2;doubleclick.net | facebook.com
+2011;yelp;ibtimes;1;advertising.com
+2012;weather;opposingviews;7;advertising.com | bluekai.com | mathtag.com | nexac.com | openx.net | quantserve.com | scorecardresearch.com
+2013;bustle;thechive;2;facebook.com | twitter.com
+2014;yelp;instructables;1;rubiconproject.com
+2015;mapquest;vox;1;bidswitch.net
+2016;buzzfeed;nytimes;2;agkn.com | scorecardresearch.com
+2017;inquisitr;people;10;adsrvr.org | advertising.com | bluekai.com | doubleclick.net | gwallet.com | quantserve.com | revsci.net | skimresources.com | turn.com | twitter.com
+2018;yelp;photobucket;17;advertising.com | agkn.com | bluekai.com | btrll.com | imrworldwide.com | quantserve.com | revsci.net | rfihub.com | ru4.com | rubiconproject.com | simpli.fi | sitescout.com | spotxchange.com | tapad.com | tidaltv.com | w55c.net | yahoo.com
+2019;amazon;tmz;2;amazon-adsystem.com | facebook.com
+2020;sbnation;topix;25;adadvisor.net | adform.net | adsrvr.org | advertising.com | agkn.com | bidswitch.net | bluekai.com | bnmla.com | casalemedia.com | chango.com | contextweb.com | criteo.com | crwdcntrl.net | doubleclick.net | exelator.com | krxd.net | mathtag.com | nexac.com | openx.net | quantserve.com | revsci.net | rfihub.com | rlcdn.com | sonobi.com | univide.com
+2021;twitter;sbnation;1;google.com
+2022;stackexchange;photobucket;1;quantserve.com
+2023;bustle;glassdoor;1;facebook.com
+2024;linkedin;nytimes;2;imrworldwide.com | scorecardresearch.com
+2025;youngcons;deadspin;2;iasds01.com | mathtag.com
+2026;google;tmz;1;google.com
+2027;legacy;babycenter;1;quantserve.com
+2028;microsoft;godaddy;1;google.com
+2029;about;cnn;1;optimizely.com
+2030;whitepages;conservativetribune;8;adsrvr.org | bidswitch.net | eyereturn.com | facebook.com | media6degrees.com | rlcdn.com | sitescout.com | turn.com
+2031;wikia;wayfair;6;adsrvr.org | bluekai.com | btrll.com | rubiconproject.com | scorecardresearch.com | turn.com
+2032;walmart;thechive;10;adsrvr.org | agkn.com | bluekai.com | nexac.com | rfihub.com | rlcdn.com | rubiconproject.com | tapad.com | turn.com | w55c.net
+2033;godaddy;urbandictionary;1;google.com
+2034;google;microsoft;1;google.com
+2035;fandango;brainjet;1;google.com
+2036;conservativetribune;youngcons;5;4dsply.com | cloudflare.com | crwdcntrl.net | mathtag.com | pubmatic.com
+2037;dose;theblaze;2;agkn.com | taboola.com
+2038;glassdoor;guff;1;scorecardresearch.com
+2039;mapquest;deadspin;1;iasds01.com
+2040;whitepages;nytimes;5;revsci.net | rfihub.com | rlcdn.com | ru4.com | rubiconproject.com
+2041;thechive;att;2;atdmt.com | bluekai.com
+2042;paypal;southwest;1;omtrdc.net
+2043;yelp;answers;1;quantserve.com
+2044;qpolitical;lifehacker;3;adadvisor.net | agkn.com | rubiconproject.com
+2045;aol;ibtimes;5;addthis.com | advertising.com | casalemedia.com | criteo.com | twitter.com
+2046;weather;qpolitical;14;adadvisor.net | addthis.com | adsrvr.org | advertising.com | agkn.com | bluekai.com | crwdcntrl.net | demdex.net | nexac.com | rfihub.com | rlcdn.com | ru4.com | taboola.com | turn.com
+2047;vox;yellowpages;3;facebook.com | google.com | twitter.com
+2048;uproxx;people;2;quantserve.com | turn.com
+2049;wayfair;bustle;1;facebook.com
+2050;whitepages;deviantart;4;adtechus.com | bidswitch.net | openx.net | rubiconproject.com
+2051;paypal;opposingviews;1;yahoo.com
+2052;guff;thechive;1;scorecardresearch.com
+2053;vimeo;people;1;quantserve.com
+2054;nbcnews;lifehacker;4;adadvisor.net | agkn.com | krxd.net | rubiconproject.com
+2055;yelp;uproxx;3;imrworldwide.com | quantserve.com | turn.com
+2056;legacy;vimeo;1;quantserve.com
+2057;linkedin;ibtimes;1;linkedin.com
+2058;people;topix;13;adsrvr.org | advertising.com | bluekai.com | casalemedia.com | doubleclick.net | gwallet.com | krxd.net | quantserve.com | revsci.net | rubiconproject.com | scorecardresearch.com | turn.com | twitter.com
+2059;ibtimes;cnn;3;criteo.com | optimizely.com | postrelease.com
+2060;mapquest;glassdoor;2;bidswitch.net | bluekai.com
+2061;topix;yellowpages;11;advertising.com | facebook.com | mathtag.com | openx.net | pubmatic.com | rfihub.com | rubiconproject.com | tapad.com | turn.com | twitter.com | w55c.net
+2062;youtube;inquisitr;1;doubleclick.net
+2063;walmart;opposingviews;2;bluekai.com | nexac.com
+2064;conservativetribune;vox;6;bidswitch.net | doubleclick.net | facebook.com | google.com | quantserve.com | rlcdn.com
+2065;diply;tmz;1;facebook.com
+2066;examiner;topix;44;addthis.com | adform.net | adgrx.com | adsrvr.org | adsymptotic.com | advertising.com | amgdgt.com | bidswitch.net | bluekai.com | bnmla.com | btrll.com | chango.com | crwdcntrl.net | doubleclick.net | dpclk.com | dyntrk.com | eqads.com | exelator.com | gradientx.net | gwallet.com | krxd.net | liverail.com | mathtag.com | media6degrees.com | metrigo.com | nexac.com | phluidmedia.net | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | rundsp.com | scanscout.com | sitescout.com | sonobi.com | tapad.com | tidaltv.com | tubemogul.com | turn.com | w55c.net | wtp101.com | yashi.com | yume.com
+2067;healthline;vox;3;agkn.com | doubleclick.net | quantserve.com
+2068;adobe;fandango;3;adobe.com | exelator.com | nexac.com
+2069;urbandictionary;chase;2;doubleclick.net | ru4.com
+2070;wayfair;instructables;3;facebook.com | rubiconproject.com | scorecardresearch.com
+2071;wayfair;thetiebar;2;dotomi.com | openx.net
+2072;conservativetribune;nbcnews;8;btrll.com | cloudflare.com | crwdcntrl.net | doubleclick.net | mathtag.com | quantserve.com | rlcdn.com | tubemogul.com
+2073;people;distractify;2;doubleclick.net | outbrain.com
+2074;aol;healthline;5;adsrvr.org | adtechus.com | agkn.com | doubleclick.net | pubmatic.com
+2075;photobucket;thechive;22;adadvisor.net | advertising.com | agkn.com | bluekai.com | casalemedia.com | eqads.com | facebook.com | lijit.com | media6degrees.com | nexac.com | openx.net | pubmatic.com | quantserve.com | revsci.net | rfihub.com | rlcdn.com | rubiconproject.com | simpli.fi | sitescout.com | tapad.com | twitter.com | w55c.net
+2076;urbandictionary;opposingviews;4;adform.net | bidswitch.net | bluekai.com | quantserve.com
+2077;answers;zergnet;1;quantserve.com
+2078;instructables;deadspin;1;rubiconproject.com
+2079;glassdoor;topix;6;bidswitch.net | bluekai.com | facebook.com | openx.net | rlcdn.com | scorecardresearch.com
+2080;mic;city-data;1;quantserve.com
+2081;theblaze;deviantart;6;adnxs.com | adtechus.com | bidswitch.net | openx.net | rubiconproject.com | servedbyopenx.com
+2082;brainjet;thechive;1;scorecardresearch.com
+2083;microsoft;chase;1;bing.com
+2084;microsoft;att;1;bluekai.com
+2085;youtube;blogger;1;youtube.com
+2086;photobucket;examiner;28;acuityplatform.com | adform.net | adgrx.com | advertising.com | bluekai.com | btrll.com | crwdcntrl.net | demdex.net | doubleclick.net | eqads.com | exelator.com | eyereturn.com | liverail.com | media6degrees.com | nexac.com | owneriq.net | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | simpli.fi | sitescout.com | sonobi.com | tapad.com | tidaltv.com | w55c.net | yahoo.com
+2087;wordpress;sbnation;1;doubleclick.net
+2088;wayfair;opposingviews;7;adtechus.com | bluekai.com | casalemedia.com | mediaplex.com | openx.net | scorecardresearch.com | yahoo.com
+2089;glassdoor;vox;5;bidswitch.net | facebook.com | google.com | rlcdn.com | scorecardresearch.com
+2090;yelp;chase;2;ru4.com | yahoo.com
+2091;amazon;wayfair;5;doubleclick.net | facebook.com | liverail.com | openx.net | rubiconproject.com
+2092;opposingviews;tmz;3;nexac.com | quantserve.com | scorecardresearch.com
+2093;inquisitr;qpolitical;13;adsrvr.org | advertising.com | bluekai.com | chango.com | crwdcntrl.net | demdex.net | pubmatic.com | revsci.net | rfihub.com | rlcdn.com | ru4.com | taboola.com | turn.com
+2094;goodreads;vox;1;quantserve.com
+2095;wikia;chase;1;demdex.net
+2096;twitter;fandango;1;google.com
+2097;wikia;thoughtcatalog;1;bluekai.com
+2098;opposingviews;theblaze;8;adtechus.com | advertising.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | iasds01.com | openx.net
+2099;sbnation;theblaze;15;adtechus.com | advertising.com | agkn.com | bidswitch.net | bluekai.com | bnmla.com | chango.com | criteo.com | crwdcntrl.net | dotomi.com | fastclick.net | openx.net | taboola.com | undertone.com | voicefive.com
+2100;tmz;imdb;1;twitter.com
+2101;sbnation;deadspin;5;agkn.com | criteo.com | krxd.net | mathtag.com | skimresources.com
+2102;wayfair;deviantart;7;adtechus.com | casalemedia.com | doubleclick.net | openx.net | pubmatic.com | rubiconproject.com | scorecardresearch.com
+2103;yelp;goodreads;1;quantserve.com
+2104;thetiebar;mapquest;1;bidswitch.net
+2105;urbandictionary;uproxx;2;google.com | quantserve.com
+2106;usmagazine;imgur;2;quantserve.com | twitter.com
+2107;wikia;photobucket;12;agkn.com | amazon-adsystem.com | atwola.com | bluekai.com | btrll.com | crwdcntrl.net | demdex.net | quantserve.com | rfihub.com | rubiconproject.com | tidaltv.com | w55c.net
+2108;msn;eonline;1;serving-sys.com
+2109;nydailynews;ibtimes;6;advertising.com | bidswitch.net | openx.net | postrelease.com | servedbyopenx.com | twitter.com
+2110;tmz;thoughtcatalog;1;gravity.com
+2111;zergnet;nbcnews;2;quantserve.com | zergnet.com
+2112;people;usps;1;turn.com
+2113;weather;cnn;3;agkn.com | crwdcntrl.net | optimizely.com
+2114;walmart;ask;7;agkn.com | bluekai.com | criteo.com | mookie1.com | nexac.com | rlcdn.com | rubiconproject.com
+2115;microsoft;yellowpages;1;google.com
+2116;wayfair;thechive;12;adsrvr.org | adtechus.com | bluekai.com | casalemedia.com | dotomi.com | facebook.com | openx.net | pubmatic.com | rubiconproject.com | scorecardresearch.com | sitescout.com | turn.com
+2117;weather;wayfair;6;adsrvr.org | bluekai.com | openx.net | scorecardresearch.com | sitescout.com | turn.com
+2118;urbandictionary;thetiebar;1;bidswitch.net
+2119;uproxx;topix;7;callingjustified.com | crwdcntrl.net | imrworldwide.com | insightexpressai.com | quantserve.com | thangasoline.com | turn.com
+2120;urbandictionary;nydailynews;12;adform.net | bidswitch.net | bluekai.com | doubleclick.net | erne.co | everesttech.net | media6degrees.com | owneriq.net | quantserve.com | rubiconproject.com | simpli.fi | w55c.net
+2121;wayfair;eonline;3;facebook.com | google.com | pubmatic.com
+2122;yelp;sbnation;11;adsrvr.org | advertising.com | agkn.com | bluekai.com | chango.com | mathtag.com | quantserve.com | revsci.net | rfihub.com | simpli.fi | yahoo.com
+2123;fandango;yellowpages;5;facebook.com | google.com | mathtag.com | pubmatic.com | yahoo.com
+2124;zergnet;people;2;quantserve.com | scorecardresearch.com
+2125;blogspot;theblaze;1;youtube.com
+2126;facebook;conservativetribune;1;facebook.com
+2127;babycenter;nbcnews;2;quantserve.com | revsci.net
+2128;amazon;topix;7;amazon-adsystem.com | contextweb.com | doubleclick.net | facebook.com | liverail.com | openx.net | rubiconproject.com
+2129;nydailynews;imgur;2;quantserve.com | twitter.com
+2130;nbcnews;distractify;1;doubleclick.net
+2131;mic;inquisitr;4;bidswitch.net | crwdcntrl.net | doubleclick.net | quantserve.com
+2132;walmart;lifehacker;3;agkn.com | criteo.com | rubiconproject.com
+2133;vimeo;inquisitr;3;google.com | mathtag.com | quantserve.com
+2134;stackexchange;mic;1;quantserve.com
+2135;godaddy;deadspin;1;mathtag.com
+2136;ibtimes;thechive;7;adnxs.com | advertising.com | bidswitch.net | casalemedia.com | openx.net | optimizely.com | twitter.com
+2137;opposingviews;att;1;bluekai.com
+2138;mapquest;thoughtcatalog;1;bluekai.com
+2139;imgur;photobucket;2;quantserve.com | twitter.com
+2140;city-data;cnn;1;agkn.com
+2141;wikia;about;1;optimizely.com
+2142;gawker;chase;2;rlcdn.com | yahoo.com
