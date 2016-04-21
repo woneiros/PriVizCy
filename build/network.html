@@ -120,13 +120,6 @@
       0 <input id="min-degree" type="range" min="0" max="0" value="0"> <span id="max-degree-value">0</span><br>
     </div>
     <div>
-<!--
-      <p><strong>Filter</strong>   <button id="go-btn">GO!</button></p>
-       <select id="node-category">
-        <option value="" selected>All categories</option>
-      </select>
- -->
-
     
     <fieldset id="demoButtons">
       <legend><strong>WEBSITE CATEGORIES</strong></legend>
@@ -169,6 +162,7 @@
  * This is an example on how to use sigma filters plugin on a real-world graph.
  */
 var filter;
+var node_classes = document.getElementsByName("category[]");
 
 /**
  * DOM utility functions
@@ -252,7 +246,12 @@ function updatePane (graph, filter) {
   _.$('reset-btn').addEventListener("click", function(e) {
     _.$('min-degree').value = 0;
     _.$('min-degree-val').textContent = '0';
-    _.$('node-category').selectedIndex = 0;    // ZZZ adapt to all selected!
+
+    for (var i=0; i < node_classes.length; i++) {
+      node_classes[i].checked = true;
+    }
+    
+
     filter.undo().apply();
     _.$('dump').textContent = '';
     _.hide('#dump');
@@ -272,7 +271,6 @@ sigma.parsers.gexf('data/network.gexf', {
   filter = new sigma.plugins.filter(s);
 
   // Node classes
-  var node_classes = document.getElementsByName("category[]");
 
   updatePane(s.graph, filter);
 
