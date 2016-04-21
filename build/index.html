@@ -166,31 +166,28 @@
             <p class="text-muted">Some websites designate parts of their site to other websites and services that get integrated into the page. These internal mini-websites might be in several websites, and therefore can store information from website A, read it from website B and show you ads based on your behavior on website A</p>
           </div>
         </div>
+      </div><br /><br />
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading">Research</h2>
+          <hr class="primary">
+        </div>
       </div>
-
+      <div class="row">
+        <div class="col-lg-12 col-md-10 text-center">
+          <p class="text-muted">Three researchers from UC Berkeley (Abe Altaweel, Nathan Good and Chris Jay Hoofnagle) performed a "Web Privacy Census" in which they collected web cookies and local storage created by the sites as a web crawler navigated through the top 100 (1000 and 25000) sites.</p> <br />
+          <p class="text-muted">They analyzed the distribution of several methods of tracking used by these common websites (first-party cookies, third-party cookies, HTML5 local storage, etc...). <em>For more on their research refer to their <a target="_blank" href="http://techscience.org/a/2015121502/download.pdf">paper</a></em></p> <br />
+          <p class="text-muted">Here is a selection of some of their results:</p>
+          <ul class="text-muted">
+            <li>A total of 6000 cookies and local storage files were created after browsing through the top100 websites</li>
+            <li>Of these 6000 cookies <b>83% would be third-party cookies</b></li>
+            <li>32 websites (out of the 100) placed <b>over 100 cookies</b></li>
+          </ul>
+        </div>
+      </div>
     </div>
   </section>
-
-
-  <!-- @ankit maybe insert some sort of line break... not background, since it is the same section... but diff subsection -->
-
-  <h2>Research</h2>
-  <p>Three researchers from UC Berkeley (Abe Altaweel, Nathan Good and Chris Jay Hoofnagle) performed a "Web Privacy Census" in which they collected web cookies and local storage created by the sites as a web crawler navigated through the top 100 (1000 and 25000) sites.</p> <br />
-  <p>They analyzed the distribution of several methods of tracking used by these common websites (first-party cookies, third-party cookies, HTML5 local storage, etc...). <em>For more on their research refer to their <a target="_blank" href="http://techscience.org/a/2015121502/download.pdf">paper</a></em></p> <br />
-  <p>Here is a selection of some of their results:</p>
-  <ul>
-    <li>A total of 6000 cookies and local storage files were created after browsing through the top100 websites</li>
-    <li>Of these 6000 cookies <b>83% would be third-party cookies</b></li>
-    <li>32 websites (out of the 100) placed <b>over 100 cookies</b></li>
-  </ul>
-
-
-  <!-- @ankit Section break! -->
-
-
-  <!-- COOKIES! COOKIES! -->
-
-  <section id="body">
+  <section id="body" class="bg-primary">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 text-left">
@@ -199,30 +196,32 @@
 
           <p>Based on this research we wanted to create a visualization that would help show this suprising amount of surveillance-in-cahoots, that may fall unnoticed to standard users.</p> <br />
 
-          <p>There have not been many attempts to provide visualizations to this type of data, and the few seem not to be very efficient. An interesting example is provided in <a href="http://jots.pub/a/2015103001/images/fig1.png">here</a> (<a href="http://jots.pub/a/2015103001/index.php">source</a>) for a similar study performed on mobile apps.</p>
+          <p>There have not been many attempts to provide visualizations to this type of data, and the few seem not to be very efficient. An interesting example is provided in <a href="http://jots.pub/a/2015103001/images/fig1.png" style="color:white; text-decoration: underline;">here</a> (<a href="http://jots.pub/a/2015103001/index.php" style="color:white; text-decoration: underline;">source</a>) for a similar study performed on mobile apps.</p>
 
           <p>The effort of the project therefore was to create more efficient visualizations for this type of data in order to raise awareness of these facts.</p> <br />
 
           <p>The data was provided by the authors of the Web Privacy Census paper (Abe Altaweel, Nathan Good and Chris Jay Hoofnagle). The analysis was done by our team.</p> <br />
-
-
         </div>
       </div>
+    </div>
+  </section>
+  <section id="body">
+    <div class="container">
       <h3>Cross-Site Cookies by Website Type</h3>
       <p>Given the great complexity of the data obtained, we found it interesting to classify websites according to a set of general categories, to see whether sites would share more cross-site cookies among the same sector, or with different categories.</p>
       <div class="row">
-        <div class="iframe"><center><iframe src="./adjacency.html" marginwidth="0" marginheight="0" scrolling="no" width="1060px" height="650px" style="border: 0px"></iframe></center></div>
+        <div class="iframe"><center><iframe src="./adjacency.html" marginwidth="0" marginheight="0" scrolling="no" width="1280px" height="550px" style="border: 0px"></iframe></center></div>
       </div>
       <p>From the above matrix we can observe most websites have a wide variety cross-site cookies. Let's try to picture it with a more elaborated visualization: a chord diagram.</p>
       <p>This graph divides the circle among the different site categories (according to number of sites) and each chord represents the amount of sites from category A that share cookies with category B (if these categories are the same the chord is basically a dome).</p>
       <p>Take some time to explore the graph, since it has a lot of information packed into one graph.</p>
       <div class="row">
-        <div class="iframe"><center><iframe src="./chord.html" marginwidth="0" marginheight="0" scrolling="no" width="1060px" height="650px" style="border: 0px"></iframe></center></div>
+        <div class="iframe"><center><iframe src="./chord.html" marginwidth="0" marginheight="0" scrolling="no" width="1280px" height="500px" style="border: 0px"></iframe></center></div>
       </div>
       <h3>Network dependence through Cross-Site Cookies</h3>
       <p>Even though the above illustrations show a clear amount of sharing among completely different websites, let's explore a little deeper.</p><br />
-      <p class="text-right">The following figure is the graph of the top100 sites explored:</p>
-      <ul class="text-right">
+      <p class="text-left">The following figure is the graph of the top 100 sites explored:</p>
+      <ul class="text-left">
         <li>Each node is a website</li>
         <li>Two websites are connected by an edge if they share one or more cross-site cookie services</li>
         <li>Hover over a node to see the website</li>
@@ -230,10 +229,10 @@
       </ul>
       <p class="text-right"><b>try out the circular layout as well!</b></p>
       <div class="row">
-        <div class="iframe"><center><iframe src="./network.html" marginwidth="0" marginheight="0" scrolling="no" width="1060px" height="650px" style="border: 0px"></iframe></center></div>
+        <div class="iframe"><center><iframe src="./network.html" marginwidth="0" marginheight="0" scrolling="no" width="1280px" height="650px" style="border: 0px"></iframe></center></div>
       </div>
       <div class="row">
-        <div class="iframe"><center><iframe src="./circular.html" marginwidth="0" marginheight="0" scrolling="no" width="1060px" height="650px" style="border: 0px"></iframe></center></div>
+        <div class="iframe"><center><iframe src="./circular.html" marginwidth="0" marginheight="0" scrolling="no" width="1280px" height="650px" style="border: 0px"></iframe></center></div>
       </div>
     </div>
   </section>

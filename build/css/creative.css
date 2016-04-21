@@ -65,7 +65,7 @@ p {
 }
 
 section {
-    padding: 100px 0;
+    padding: 50px 0;
 }
 
 aside {
@@ -474,4 +474,23 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+}
+
+
+.iframe
+{
+    width: 1280px;
+    border: 0;
+
+    -ms-transform: scale(0.90);
+    -moz-transform: scale(0.90);
+    -o-transform: scale(0.90);
+    -webkit-transform: scale(0.90);
+    transform: scale(0.90);
+
+    -ms-transform-origin: 0 0;
+    -moz-transform-origin: 0 0;
+    -o-transform-origin: 0 0;
+    -webkit-transform-origin: 0 0;
+    transform-origin: 0 0;
 }

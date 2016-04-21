@@ -114,13 +114,13 @@
   <div id="graph-container"></div>
   <div id="control-pane">
     <h2 class="underline">filters</h2>
-    
+
     <div>
       <h3>min degree <span id="min-degree-val">0</span></h3>
       0 <input id="min-degree" type="range" min="0" max="0" value="0"> <span id="max-degree-value">0</span><br>
     </div>
     <div>
-    
+
     <fieldset id="demoButtons">
       <legend><strong>WEBSITE CATEGORIES</strong></legend>
         <input type="checkbox" name="category[]" checked value="News and Media" />News and Media <br />
@@ -147,7 +147,7 @@
         <input type="checkbox" name="category[]" checked value="Political Organizations" />Political Organizations<br />
         <input type="checkbox" name="category[]" checked value="Job Search" />Job Search<br />
     </fieldset>
-    
+
     </div>
     <span class="line"></span>
     <div>
@@ -169,7 +169,7 @@ sigma.classes.graph.addMethod('neighbors', function(nodeId) {
 
   var neighbors = {};
   var _index = this.allNeighborsIndex[nodeId];
-  
+
   return _index;
 
 });
@@ -238,7 +238,7 @@ function updatePane (graph, filter) {
   // get max degree
   var maxDegree = 0,
       categories = {};
-  
+
   // read nodes
   graph.nodes().forEach(function(n) {
     maxDegree = Math.max(maxDegree, graph.degree(n.id));
@@ -248,7 +248,7 @@ function updatePane (graph, filter) {
   // min degree
   _.$('min-degree').max = maxDegree;
   _.$('max-degree-value').textContent = maxDegree;
-  
+
   // Node classes
   var node_classes = document.getElementsByName("category[]");
 
@@ -260,7 +260,7 @@ function updatePane (graph, filter) {
     for (var i=0; i < node_classes.length; i++) {
       node_classes[i].checked = true;
     }
-    
+
 
     filter.undo().apply();
     _.$('dump').textContent = '';
@@ -318,7 +318,7 @@ sigma.parsers.gexf('data/circular.gexf', {
   });
 
 
-  // CATEGORY FILTERS 
+  // CATEGORY FILTERS
   function applyWillFilter() {
     // get all values with true
     var show_values = [];
@@ -355,7 +355,7 @@ sigma.parsers.gexf('data/circular.gexf', {
       // Re-locate all nodes
       n.x = n.originalx;
       n.y = n.originaly;
-      
+
       // Color accordingly
       if ( toKeep[n.label] ) {
         n.color = n.originalColor;
@@ -376,7 +376,7 @@ sigma.parsers.gexf('data/circular.gexf', {
 
     // Center selected node
     e.data.node.x = 0;
-    e.data.node.y = 0; 
+    e.data.node.y = 0;
 
     s.refresh();
 
