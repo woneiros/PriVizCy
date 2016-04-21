@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
-  <meta lastmodifieddate="2016-04-20">
+  <meta lastmodifieddate="2016-04-21">
     <creator>Gephi 0.9</creator>
     <description></description>
   </meta>
@@ -13,805 +13,805 @@
       <attribute id="tag" title="tag" type="string"></attribute>
     </attributes>
     <nodes>
-      <node id="google">
-        <attvalues>
-          <attvalue for="class" value="Search Engines and Portals"></attvalue>
-        </attvalues>
-        <viz:size value="6.7831326"></viz:size>
-        <viz:position x="-286.52133" y="252.60252"></viz:position>
-        <viz:color r="47" g="67" b="45"></viz:color>
-      </node>
-      <node id="youtube">
-        <attvalues>
-          <attvalue for="class" value="Streaming Media"></attvalue>
-        </attvalues>
-        <viz:size value="10.493976"></viz:size>
-        <viz:position x="-59.753563" y="377.26917"></viz:position>
-        <viz:color r="58" g="94" b="81"></viz:color>
-      </node>
-      <node id="facebook">
-        <attvalues>
-          <attvalue for="class" value="Social Networking"></attvalue>
-        </attvalues>
-        <viz:size value="6.385542"></viz:size>
-        <viz:position x="-151.69933" y="350.55646"></viz:position>
-        <viz:color r="68" g="57" b="29"></viz:color>
-      </node>
-      <node id="msn">
-        <attvalues>
-          <attvalue for="class" value="Search Engines and Portals"></attvalue>
-        </attvalues>
-        <viz:size value="5.722892"></viz:size>
-        <viz:position x="-301.817" y="234.11325"></viz:position>
-        <viz:color r="47" g="67" b="45"></viz:color>
-      </node>
-      <node id="yelp">
-        <attvalues>
-          <attvalue for="class" value="Reference"></attvalue>
-        </attvalues>
-        <viz:size value="12.8795185"></viz:size>
-        <viz:position x="-372.77274" y="83.32458"></viz:position>
-        <viz:color r="92" g="49" b="58"></viz:color>
-      </node>
-      <node id="bing">
-        <attvalues>
-          <attvalue for="class" value="Search Engines and Portals"></attvalue>
-        </attvalues>
-        <viz:size value="4.795181"></viz:size>
-        <viz:position x="-315.9215" y="214.70004"></viz:position>
-        <viz:color r="47" g="67" b="45"></viz:color>
-      </node>
-      <node id="twitter">
-        <attvalues>
-          <attvalue for="class" value="Social Networking"></attvalue>
-        </attvalues>
-        <viz:size value="8.240964"></viz:size>
-        <viz:position x="-173.41159" y="340.33942"></viz:position>
-        <viz:color r="68" g="57" b="29"></viz:color>
-      </node>
-      <node id="amazon">
-        <attvalues>
-          <attvalue for="class" value="Shopping"></attvalue>
-        </attvalues>
-        <viz:size value="10.493976"></viz:size>
-        <viz:position x="-194.4395" y="328.77924"></viz:position>
-        <viz:color r="111" g="86" b="63"></viz:color>
-      </node>
-      <node id="buzzfeed">
-        <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
-        </attvalues>
-        <viz:size value="10.891566"></viz:size>
-        <viz:position x="380.27667" y="-35.946728"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
-      </node>
-      <node id="answers">
-        <attvalues>
-          <attvalue for="class" value="Reference"></attvalue>
-        </attvalues>
-        <viz:size value="8.240964"></viz:size>
-        <viz:position x="-377.26917" y="59.753563"></viz:position>
-        <viz:color r="92" g="49" b="58"></viz:color>
-      </node>
-      <node id="ebay">
-        <attvalues>
-          <attvalue for="class" value="Auction"></attvalue>
-        </attvalues>
-        <viz:size value="6.6506023"></viz:size>
-        <viz:position x="106.56675" y="366.80518"></viz:position>
-        <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="yahoo">
-        <attvalues>
-          <attvalue for="class" value="Search Engines and Portals"></attvalue>
-        </attvalues>
-        <viz:size value="5.8554215"></viz:size>
-        <viz:position x="-328.77924" y="194.4395"></viz:position>
-        <viz:color r="47" g="67" b="45"></viz:color>
-      </node>
-      <node id="aol">
-        <attvalues>
-          <attvalue for="class" value="Search Engines and Portals"></attvalue>
-        </attvalues>
-        <viz:size value="12.8795185"></viz:size>
-        <viz:position x="-340.33942" y="173.41159"></viz:position>
-        <viz:color r="47" g="67" b="45"></viz:color>
-      </node>
-      <node id="pinterest">
-        <attvalues>
-          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
-        </attvalues>
-        <viz:size value="6.518072"></viz:size>
-        <viz:position x="-350.55646" y="-151.69933"></viz:position>
-        <viz:color r="132" g="83" b="108"></viz:color>
-      </node>
-      <node id="microsoft">
-        <attvalues>
-          <attvalue for="class" value="Information Technology"></attvalue>
-        </attvalues>
-        <viz:size value="9.566265"></viz:size>
-        <viz:position x="194.4395" y="-328.77924"></viz:position>
-        <viz:color r="151" g="83" b="77"></viz:color>
-      </node>
-      <node id="wikipedia">
-        <attvalues>
-          <attvalue for="class" value="Reference"></attvalue>
-        </attvalues>
-        <viz:size value="4.0"></viz:size>
-        <viz:position x="-380.27667" y="35.946728"></viz:position>
-        <viz:color r="92" g="49" b="58"></viz:color>
-      </node>
-      <node id="wikia">
-        <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
-        </attvalues>
-        <viz:size value="13.542169"></viz:size>
-        <viz:position x="381.7834" y="-11.998026"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
-      </node>
-      <node id="live">
-        <attvalues>
-          <attvalue for="class" value="Search Engines and Portals"></attvalue>
-        </attvalues>
-        <viz:size value="6.120482"></viz:size>
-        <viz:position x="-350.55646" y="151.69933"></viz:position>
-        <viz:color r="47" g="67" b="45"></viz:color>
-      </node>
-      <node id="diply">
-        <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
-        </attvalues>
-        <viz:size value="8.506023"></viz:size>
-        <viz:position x="381.7834" y="11.998026"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
-      </node>
-      <node id="paypal">
-        <attvalues>
-          <attvalue for="class" value="Finance and Banking"></attvalue>
-        </attvalues>
-        <viz:size value="7.1807227"></viz:size>
-        <viz:position x="350.55646" y="-151.69933"></viz:position>
-        <viz:color r="109" g="90" b="91"></viz:color>
-      </node>
-      <node id="about">
-        <attvalues>
-          <attvalue for="class" value="Reference"></attvalue>
-        </attvalues>
-        <viz:size value="5.8554215"></viz:size>
-        <viz:position x="-381.7834" y="11.998026"></viz:position>
-        <viz:color r="92" g="49" b="58"></viz:color>
-      </node>
-      <node id="littlethings">
-        <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
-        </attvalues>
-        <viz:size value="4.6626506"></viz:size>
-        <viz:position x="380.27667" y="35.946728"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
-      </node>
-      <node id="godaddy">
-        <attvalues>
-          <attvalue for="class" value="Web Hosting"></attvalue>
-        </attvalues>
-        <viz:size value="11.421686"></viz:size>
-        <viz:position x="-11.998026" y="381.7834"></viz:position>
-        <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="linkedin">
-        <attvalues>
-          <attvalue for="class" value="Business"></attvalue>
-        </attvalues>
-        <viz:size value="7.9759035"></viz:size>
-        <viz:position x="173.41159" y="340.33942"></viz:position>
-        <viz:color r="81" g="104" b="58"></viz:color>
-      </node>
-      <node id="wordpress">
-        <attvalues>
-          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
-        </attvalues>
-        <viz:size value="7.445783"></viz:size>
-        <viz:position x="-340.33942" y="-173.41159"></viz:position>
-        <viz:color r="132" g="83" b="108"></viz:color>
-      </node>
-      <node id="blogger">
-        <attvalues>
-          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
-        </attvalues>
-        <viz:size value="7.3132534"></viz:size>
-        <viz:position x="-328.77924" y="-194.4395"></viz:position>
-        <viz:color r="132" g="83" b="108"></viz:color>
-      </node>
-      <node id="adobe">
-        <attvalues>
-          <attvalue for="class" value="Information Technology"></attvalue>
-        </attvalues>
-        <viz:size value="10.759036"></viz:size>
-        <viz:position x="214.70004" y="-315.9215"></viz:position>
-        <viz:color r="151" g="83" b="77"></viz:color>
-      </node>
-      <node id="whitepages">
-        <attvalues>
-          <attvalue for="class" value="Reference"></attvalue>
-        </attvalues>
-        <viz:size value="12.481928"></viz:size>
-        <viz:position x="-381.7834" y="-11.998026"></viz:position>
-        <viz:color r="92" g="49" b="58"></viz:color>
-      </node>
-      <node id="weather">
+      <node id="inquisitr" label="inquisitr">
         <attvalues>
           <attvalue for="class" value="News and Media"></attvalue>
         </attvalues>
-        <viz:size value="13.807229"></viz:size>
-        <viz:position x="-234.11325" y="-301.817"></viz:position>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-930.0371" y="-3201.209"></viz:position>
         <viz:color r="112" g="98" b="39"></viz:color>
       </node>
-      <node id="urbandictionary">
+      <node id="photobucket" label="photobucket">
         <attvalues>
-          <attvalue for="class" value="Adult Materials"></attvalue>
+          <attvalue for="class" value="File Sharing and Storage"></attvalue>
         </attvalues>
-        <viz:size value="13.409638"></viz:size>
-        <viz:position x="35.946728" y="380.27667"></viz:position>
-        <viz:color r="67" g="55" b="59"></viz:color>
+        <viz:size value="95.3735"></viz:size>
+        <viz:position x="3292.531" y="-521.48566"></viz:position>
+        <viz:color r="77" g="77" b="99"></viz:color>
       </node>
-      <node id="craigslist">
-        <attvalues>
-          <attvalue for="class" value="Shopping"></attvalue>
-        </attvalues>
-        <viz:size value="4.0"></viz:size>
-        <viz:position x="-214.70004" y="315.9215"></viz:position>
-        <viz:color r="111" g="86" b="63"></viz:color>
-      </node>
-      <node id="blogspot">
-        <attvalues>
-          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
-        </attvalues>
-        <viz:size value="7.3132534"></viz:size>
-        <viz:position x="-315.9215" y="-214.70004"></viz:position>
-        <viz:color r="132" g="83" b="108"></viz:color>
-      </node>
-      <node id="usmagazine">
-        <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
-        </attvalues>
-        <viz:size value="11.819277"></viz:size>
-        <viz:position x="377.26917" y="59.753563"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
-      </node>
-      <node id="walmart">
-        <attvalues>
-          <attvalue for="class" value="Shopping"></attvalue>
-        </attvalues>
-        <viz:size value="11.421686"></viz:size>
-        <viz:position x="-234.11325" y="301.817"></viz:position>
-        <viz:color r="111" g="86" b="63"></viz:color>
-      </node>
-      <node id="wayfair">
-        <attvalues>
-          <attvalue for="class" value="Shopping"></attvalue>
-        </attvalues>
-        <viz:size value="13.939759"></viz:size>
-        <viz:position x="-252.60252" y="286.52133"></viz:position>
-        <viz:color r="111" g="86" b="63"></viz:color>
-      </node>
-      <node id="ask">
-        <attvalues>
-          <attvalue for="class" value="Search Engines and Portals"></attvalue>
-        </attvalues>
-        <viz:size value="12.084337"></viz:size>
-        <viz:position x="-359.38998" y="129.38835"></viz:position>
-        <viz:color r="47" g="67" b="45"></viz:color>
-      </node>
-      <node id="nydailynews">
+      <node id="topix" label="topix">
         <attvalues>
           <attvalue for="class" value="News and Media"></attvalue>
         </attvalues>
-        <viz:size value="14.204819"></viz:size>
-        <viz:position x="-214.70004" y="-315.9215"></viz:position>
+        <viz:size value="95.3735"></viz:size>
+        <viz:position x="104.710045" y="-3331.9277"></viz:position>
         <viz:color r="112" g="98" b="39"></viz:color>
       </node>
-      <node id="legacy">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="10.096386"></viz:size>
-        <viz:position x="-194.4395" y="-328.77924"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="bustle">
-        <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
-        </attvalues>
-        <viz:size value="9.831326"></viz:size>
-        <viz:position x="372.77274" y="83.32458"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
-      </node>
-      <node id="vimeo">
-        <attvalues>
-          <attvalue for="class" value="Streaming Media"></attvalue>
-        </attvalues>
-        <viz:size value="10.891566"></viz:size>
-        <viz:position x="-83.32458" y="372.77274"></viz:position>
-        <viz:color r="58" g="94" b="81"></viz:color>
-      </node>
-      <node id="stackexchange">
-        <attvalues>
-          <attvalue for="class" value="Information Technology"></attvalue>
-        </attvalues>
-        <viz:size value="8.506023"></viz:size>
-        <viz:position x="234.11325" y="-301.817"></viz:position>
-        <viz:color r="151" g="83" b="77"></viz:color>
-      </node>
-      <node id="sbnation">
+      <node id="sbnation" label="sbnation">
         <attvalues>
           <attvalue for="class" value="Sports"></attvalue>
         </attvalues>
-        <viz:size value="14.337349"></viz:size>
-        <viz:position x="-106.56675" y="366.80518"></viz:position>
+        <viz:size value="94.216866"></viz:size>
+        <viz:position x="-930.0371" y="3201.209"></viz:position>
         <viz:color r="97" g="72" b="36"></viz:color>
       </node>
-      <node id="nytimes">
+      <node id="nydailynews" label="nydailynews">
         <attvalues>
           <attvalue for="class" value="News and Media"></attvalue>
         </attvalues>
-        <viz:size value="12.349398"></viz:size>
-        <viz:position x="-173.41159" y="-340.33942"></viz:position>
+        <viz:size value="93.06024"></viz:size>
+        <viz:position x="-1873.7458" y="-2757.1333"></viz:position>
         <viz:color r="112" g="98" b="39"></viz:color>
       </node>
-      <node id="mozilla">
-        <attvalues>
-          <attvalue for="class" value="Information Technology"></attvalue>
-        </attvalues>
-        <viz:size value="5.5903616"></viz:size>
-        <viz:position x="252.60252" y="-286.52133"></viz:position>
-        <viz:color r="151" g="83" b="77"></viz:color>
-      </node>
-      <node id="conservativetribune">
+      <node id="conservativetribune" label="conservativetribune">
         <attvalues>
           <attvalue for="class" value="News and Media"></attvalue>
         </attvalues>
-        <viz:size value="14.072289"></viz:size>
-        <viz:position x="-151.69933" y="-350.55646"></viz:position>
+        <viz:size value="91.90362"></viz:size>
+        <viz:position x="-1323.9214" y="-3059.4019"></viz:position>
         <viz:color r="112" g="98" b="39"></viz:color>
       </node>
-      <node id="imgur">
-        <attvalues>
-          <attvalue for="class" value="File Sharing and Storage"></attvalue>
-        </attvalues>
-        <viz:size value="9.301205"></viz:size>
-        <viz:position x="372.77274" y="-83.32458"></viz:position>
-        <viz:color r="77" g="77" b="99"></viz:color>
-      </node>
-      <node id="mic">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="11.819277"></viz:size>
-        <viz:position x="-129.38835" y="-359.38998"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="uproxx">
+      <node id="people" label="people">
         <attvalues>
           <attvalue for="class" value="Entertainment"></attvalue>
         </attvalues>
-        <viz:size value="12.216867"></viz:size>
-        <viz:position x="366.80518" y="106.56675"></viz:position>
+        <viz:size value="91.90362"></viz:size>
+        <viz:position x="2869.3462" y="1696.9266"></viz:position>
         <viz:color r="67" g="101" b="119"></viz:color>
       </node>
-      <node id="opposingviews">
-        <attvalues>
-          <attvalue for="class" value="Newsgroups and Message Boards"></attvalue>
-        </attvalues>
-        <viz:size value="12.8795185"></viz:size>
-        <viz:position x="-286.52133" y="-252.60252"></viz:position>
-        <viz:color r="137" g="88" b="49"></viz:color>
-      </node>
-      <node id="inquisitr">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="15.0"></viz:size>
-        <viz:position x="-106.56675" y="-366.80518"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="wellsfargo">
-        <attvalues>
-          <attvalue for="class" value="Finance and Banking"></attvalue>
-        </attvalues>
-        <viz:size value="4.0"></viz:size>
-        <viz:position x="359.38998" y="-129.38835"></viz:position>
-        <viz:color r="109" g="90" b="91"></viz:color>
-      </node>
-      <node id="zergnet">
-        <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
-        </attvalues>
-        <viz:size value="9.433735"></viz:size>
-        <viz:position x="359.38998" y="129.38835"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
-      </node>
-      <node id="fandango">
-        <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
-        </attvalues>
-        <viz:size value="13.409638"></viz:size>
-        <viz:position x="350.55646" y="151.69933"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
-      </node>
-      <node id="thetiebar">
+      <node id="wayfair" label="wayfair">
         <attvalues>
           <attvalue for="class" value="Shopping"></attvalue>
         </attvalues>
-        <viz:size value="9.566265"></viz:size>
-        <viz:position x="-270.0949" y="270.0949"></viz:position>
+        <viz:size value="90.746994"></viz:size>
+        <viz:position x="-2204.5312" y="2500.5498"></viz:position>
         <viz:color r="111" g="86" b="63"></viz:color>
       </node>
-      <node id="ijreview">
+      <node id="tmz" label="tmz">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="90.746994"></viz:size>
+        <viz:position x="2500.5498" y="2204.5312"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="vox" label="vox">
         <attvalues>
           <attvalue for="class" value="News and Media"></attvalue>
         </attvalues>
-        <viz:size value="7.710843"></viz:size>
-        <viz:position x="-83.32458" y="-372.77274"></viz:position>
+        <viz:size value="90.746994"></viz:size>
+        <viz:position x="930.0371" y="-3201.209"></viz:position>
         <viz:color r="112" g="98" b="39"></viz:color>
       </node>
-      <node id="babycenter">
+      <node id="thechive" label="thechive">
         <attvalues>
-          <attvalue for="class" value="Health and Wellness"></attvalue>
+          <attvalue for="class" value="Adult Materials"></attvalue>
         </attvalues>
-        <viz:size value="10.759036"></viz:size>
-        <viz:position x="315.9215" y="-214.70004"></viz:position>
-        <viz:color r="34" g="110" b="108"></viz:color>
+        <viz:size value="90.746994"></viz:size>
+        <viz:position x="104.710045" y="3331.9277"></viz:position>
+        <viz:color r="67" g="55" b="59"></viz:color>
       </node>
-      <node id="dose">
+      <node id="weather" label="weather">
         <attvalues>
           <attvalue for="class" value="News and Media"></attvalue>
         </attvalues>
-        <viz:size value="10.891566"></viz:size>
-        <viz:position x="-59.753563" y="-377.26917"></viz:position>
+        <viz:size value="89.59036"></viz:size>
+        <viz:position x="-2043.1703" y="-2634.0393"></viz:position>
         <viz:color r="112" g="98" b="39"></viz:color>
       </node>
-      <node id="healthline">
+      <node id="eonline" label="eonline">
         <attvalues>
-          <attvalue for="class" value="Health and Wellness"></attvalue>
+          <attvalue for="class" value="Entertainment"></attvalue>
         </attvalues>
-        <viz:size value="12.614458"></viz:size>
-        <viz:position x="328.77924" y="-194.4395"></viz:position>
-        <viz:color r="34" g="110" b="108"></viz:color>
+        <viz:size value="88.43374"></viz:size>
+        <viz:position x="2970.235" y="1513.4103"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
       </node>
-      <node id="go">
+      <node id="wikia" label="wikia">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="87.27711"></viz:size>
+        <viz:position x="3331.9277" y="-104.710045"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="urbandictionary" label="urbandictionary">
+        <attvalues>
+          <attvalue for="class" value="Adult Materials"></attvalue>
+        </attvalues>
+        <viz:size value="86.12048"></viz:size>
+        <viz:position x="313.71692" y="3318.7783"></viz:position>
+        <viz:color r="67" g="55" b="59"></viz:color>
+      </node>
+      <node id="fandango" label="fandango">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="86.12048"></viz:size>
+        <viz:position x="3059.4019" y="1323.9214"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="nbcnews" label="nbcnews">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="84.96385"></viz:size>
+        <viz:position x="313.71692" y="-3318.7783"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="yellowpages" label="yellowpages">
+        <attvalues>
+          <attvalue for="class" value="Reference"></attvalue>
+        </attvalues>
+        <viz:size value="83.80723"></viz:size>
+        <viz:position x="-3201.209" y="-930.0371"></viz:position>
+        <viz:color r="92" g="49" b="58"></viz:color>
+      </node>
+      <node id="examiner" label="examiner">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="82.650604"></viz:size>
+        <viz:position x="-104.710045" y="-3331.9277"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="yelp" label="yelp">
+        <attvalues>
+          <attvalue for="class" value="Reference"></attvalue>
+        </attvalues>
+        <viz:size value="81.49398"></viz:size>
+        <viz:position x="-3253.2893" y="727.19635"></viz:position>
+        <viz:color r="92" g="49" b="58"></viz:color>
+      </node>
+      <node id="aol" label="aol">
         <attvalues>
           <attvalue for="class" value="Search Engines and Portals"></attvalue>
         </attvalues>
-        <viz:size value="4.0"></viz:size>
-        <viz:position x="-366.80518" y="106.56675"></viz:position>
+        <viz:size value="81.49398"></viz:size>
+        <viz:position x="-2970.235" y="1513.4103"></viz:position>
         <viz:color r="47" g="67" b="45"></viz:color>
       </node>
-      <node id="eonline">
+      <node id="opposingviews" label="opposingviews">
         <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
+          <attvalue for="class" value="Newsgroups and Message Boards"></attvalue>
         </attvalues>
-        <viz:size value="13.674699"></viz:size>
-        <viz:position x="340.33942" y="173.41159"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
+        <viz:size value="81.49398"></viz:size>
+        <viz:position x="-2500.5498" y="-2204.5312"></viz:position>
+        <viz:color r="137" g="88" b="49"></viz:color>
       </node>
-      <node id="mapquest">
+      <node id="healthline" label="healthline">
         <attvalues>
-          <attvalue for="class" value="Reference"></attvalue>
+          <attvalue for="class" value="Health and Wellness"></attvalue>
         </attvalues>
-        <viz:size value="9.301205"></viz:size>
-        <viz:position x="-380.27667" y="-35.946728"></viz:position>
-        <viz:color r="92" g="49" b="58"></viz:color>
+        <viz:size value="79.180725"></viz:size>
+        <viz:position x="2869.3462" y="-1696.9266"></viz:position>
+        <viz:color r="34" g="110" b="108"></viz:color>
       </node>
-      <node id="people">
-        <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
-        </attvalues>
-        <viz:size value="14.072289"></viz:size>
-        <viz:position x="328.77924" y="194.4395"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
-      </node>
-      <node id="apple">
-        <attvalues>
-          <attvalue for="class" value="Information Technology"></attvalue>
-        </attvalues>
-        <viz:size value="4.13253"></viz:size>
-        <viz:position x="270.0949" y="-270.0949"></viz:position>
-        <viz:color r="151" g="83" b="77"></viz:color>
-      </node>
-      <node id="goodreads">
-        <attvalues>
-          <attvalue for="class" value="Arts and Culture"></attvalue>
-        </attvalues>
-        <viz:size value="8.506023"></viz:size>
-        <viz:position x="83.32458" y="372.77274"></viz:position>
-        <viz:color r="117" g="63" b="60"></viz:color>
-      </node>
-      <node id="photobucket">
-        <attvalues>
-          <attvalue for="class" value="File Sharing and Storage"></attvalue>
-        </attvalues>
-        <viz:size value="14.469879"></viz:size>
-        <viz:position x="377.26917" y="-59.753563"></viz:position>
-        <viz:color r="77" g="77" b="99"></viz:color>
-      </node>
-      <node id="city-data">
-        <attvalues>
-          <attvalue for="class" value="Reference"></attvalue>
-        </attvalues>
-        <viz:size value="10.759036"></viz:size>
-        <viz:position x="-377.26917" y="-59.753563"></viz:position>
-        <viz:color r="92" g="49" b="58"></viz:color>
-      </node>
-      <node id="glassdoor">
+      <node id="glassdoor" label="glassdoor">
         <attvalues>
           <attvalue for="class" value="Job Search"></attvalue>
         </attvalues>
-        <viz:size value="12.614458"></viz:size>
-        <viz:position x="173.41159" y="-340.33942"></viz:position>
+        <viz:size value="79.180725"></viz:size>
+        <viz:position x="1513.4103" y="-2970.235"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="theblaze">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="11.819277"></viz:size>
-        <viz:position x="-35.946728" y="-380.27667"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="examiner">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="13.012048"></viz:size>
-        <viz:position x="-11.998026" y="-381.7834"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="topix">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="14.469879"></viz:size>
-        <viz:position x="11.998026" y="-381.7834"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="nbcnews">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="13.277108"></viz:size>
-        <viz:position x="35.946728" y="-380.27667"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="instructables">
+      <node id="whitepages" label="whitepages">
         <attvalues>
           <attvalue for="class" value="Reference"></attvalue>
         </attvalues>
-        <viz:size value="9.831326"></viz:size>
-        <viz:position x="-372.77274" y="-83.32458"></viz:position>
+        <viz:size value="78.0241"></viz:size>
+        <viz:position x="-3331.9277" y="-104.710045"></viz:position>
         <viz:color r="92" g="49" b="58"></viz:color>
       </node>
-      <node id="ibtimes">
+      <node id="deviantart" label="deviantart">
+        <attvalues>
+          <attvalue for="class" value="Arts and Culture"></attvalue>
+        </attvalues>
+        <viz:size value="78.0241"></viz:size>
+        <viz:position x="521.48566" y="3292.531"></viz:position>
+        <viz:color r="117" g="63" b="60"></viz:color>
+      </node>
+      <node id="nytimes" label="nytimes">
         <attvalues>
           <attvalue for="class" value="News and Media"></attvalue>
         </attvalues>
-        <viz:size value="12.084337"></viz:size>
-        <viz:position x="59.753563" y="-377.26917"></viz:position>
+        <viz:size value="76.86747"></viz:size>
+        <viz:position x="-1513.4103" y="-2970.235"></viz:position>
         <viz:color r="112" g="98" b="39"></viz:color>
       </node>
-      <node id="guff">
+      <node id="uproxx" label="uproxx">
         <attvalues>
           <attvalue for="class" value="Entertainment"></attvalue>
         </attvalues>
-        <viz:size value="6.6506023"></viz:size>
-        <viz:position x="315.9215" y="214.70004"></viz:position>
+        <viz:size value="75.710846"></viz:size>
+        <viz:position x="3201.209" y="930.0371"></viz:position>
         <viz:color r="67" g="101" b="119"></viz:color>
       </node>
-      <node id="distractify">
+      <node id="ask" label="ask">
         <attvalues>
-          <attvalue for="class" value="Entertainment"></attvalue>
+          <attvalue for="class" value="Search Engines and Portals"></attvalue>
         </attvalues>
-        <viz:size value="7.445783"></viz:size>
-        <viz:position x="301.817" y="234.11325"></viz:position>
-        <viz:color r="67" g="101" b="119"></viz:color>
+        <viz:size value="74.554214"></viz:size>
+        <viz:position x="-3136.4944" y="1129.2075"></viz:position>
+        <viz:color r="47" g="67" b="45"></viz:color>
       </node>
-      <node id="qpolitical">
+      <node id="ibtimes" label="ibtimes">
         <attvalues>
           <attvalue for="class" value="News and Media"></attvalue>
         </attvalues>
-        <viz:size value="11.819277"></viz:size>
-        <viz:position x="83.32458" y="-372.77274"></viz:position>
+        <viz:size value="74.554214"></viz:size>
+        <viz:position x="521.48566" y="-3292.531"></viz:position>
         <viz:color r="112" g="98" b="39"></viz:color>
       </node>
-      <node id="tmz">
+      <node id="usmagazine" label="usmagazine">
         <attvalues>
           <attvalue for="class" value="Entertainment"></attvalue>
         </attvalues>
-        <viz:size value="13.939759"></viz:size>
-        <viz:position x="286.52133" y="252.60252"></viz:position>
+        <viz:size value="72.24097"></viz:size>
+        <viz:position x="3292.531" y="521.48566"></viz:position>
         <viz:color r="67" g="101" b="119"></viz:color>
       </node>
-      <node id="usps">
+      <node id="mic" label="mic">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="72.24097"></viz:size>
+        <viz:position x="-1129.2075" y="-3136.4944"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="theblaze" label="theblaze">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="72.24097"></viz:size>
+        <viz:position x="-313.71692" y="-3318.7783"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="qpolitical" label="qpolitical">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="72.24097"></viz:size>
+        <viz:position x="727.19635" y="-3253.2893"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="godaddy" label="godaddy">
+        <attvalues>
+          <attvalue for="class" value="Web Hosting"></attvalue>
+        </attvalues>
+        <viz:size value="68.77108"></viz:size>
+        <viz:position x="-104.710045" y="3331.9277"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="walmart" label="walmart">
+        <attvalues>
+          <attvalue for="class" value="Shopping"></attvalue>
+        </attvalues>
+        <viz:size value="68.77108"></viz:size>
+        <viz:position x="-2043.1703" y="2634.0393"></viz:position>
+        <viz:color r="111" g="86" b="63"></viz:color>
+      </node>
+      <node id="chase" label="chase">
+        <attvalues>
+          <attvalue for="class" value="Finance and Banking"></attvalue>
+        </attvalues>
+        <viz:size value="67.614456"></viz:size>
+        <viz:position x="3201.209" y="-930.0371"></viz:position>
+        <viz:color r="109" g="90" b="91"></viz:color>
+      </node>
+      <node id="buzzfeed" label="buzzfeed">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="64.14458"></viz:size>
+        <viz:position x="3318.7783" y="-313.71692"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="vimeo" label="vimeo">
+        <attvalues>
+          <attvalue for="class" value="Streaming Media"></attvalue>
+        </attvalues>
+        <viz:size value="64.14458"></viz:size>
+        <viz:position x="-727.19635" y="3253.2893"></viz:position>
+        <viz:color r="58" g="94" b="81"></viz:color>
+      </node>
+      <node id="dose" label="dose">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="64.14458"></viz:size>
+        <viz:position x="-521.48566" y="-3292.531"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="adobe" label="adobe">
+        <attvalues>
+          <attvalue for="class" value="Information Technology"></attvalue>
+        </attvalues>
+        <viz:size value="62.987953"></viz:size>
+        <viz:position x="1873.7458" y="-2757.1333"></viz:position>
+        <viz:color r="151" g="83" b="77"></viz:color>
+      </node>
+      <node id="babycenter" label="babycenter">
+        <attvalues>
+          <attvalue for="class" value="Health and Wellness"></attvalue>
+        </attvalues>
+        <viz:size value="62.987953"></viz:size>
+        <viz:position x="2757.1333" y="-1873.7458"></viz:position>
+        <viz:color r="34" g="110" b="108"></viz:color>
+      </node>
+      <node id="city-data" label="city-data">
+        <attvalues>
+          <attvalue for="class" value="Reference"></attvalue>
+        </attvalues>
+        <viz:size value="62.987953"></viz:size>
+        <viz:position x="-3292.531" y="-521.48566"></viz:position>
+        <viz:color r="92" g="49" b="58"></viz:color>
+      </node>
+      <node id="gawker" label="gawker">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="62.987953"></viz:size>
+        <viz:position x="2043.1703" y="2634.0393"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="deadspin" label="deadspin">
+        <attvalues>
+          <attvalue for="class" value="Sports"></attvalue>
+        </attvalues>
+        <viz:size value="62.987953"></viz:size>
+        <viz:position x="-1129.2075" y="3136.4944"></viz:position>
+        <viz:color r="97" g="72" b="36"></viz:color>
+      </node>
+      <node id="youtube" label="youtube">
+        <attvalues>
+          <attvalue for="class" value="Streaming Media"></attvalue>
+        </attvalues>
+        <viz:size value="60.674698"></viz:size>
+        <viz:position x="-521.48566" y="3292.531"></viz:position>
+        <viz:color r="58" g="94" b="81"></viz:color>
+      </node>
+      <node id="amazon" label="amazon">
+        <attvalues>
+          <attvalue for="class" value="Shopping"></attvalue>
+        </attvalues>
+        <viz:size value="60.674698"></viz:size>
+        <viz:position x="-1696.9266" y="2869.3462"></viz:position>
+        <viz:color r="111" g="86" b="63"></viz:color>
+      </node>
+      <node id="cnn" label="cnn">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="60.674698"></viz:size>
+        <viz:position x="1129.2075" y="-3136.4944"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="legacy" label="legacy">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="57.204826"></viz:size>
+        <viz:position x="-1696.9266" y="-2869.3462"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="lifehacker" label="lifehacker">
+        <attvalues>
+          <attvalue for="class" value="Information Technology"></attvalue>
+        </attvalues>
+        <viz:size value="56.0482"></viz:size>
+        <viz:position x="2500.5498" y="-2204.5312"></viz:position>
+        <viz:color r="151" g="83" b="77"></viz:color>
+      </node>
+      <node id="att" label="att">
+        <attvalues>
+          <attvalue for="class" value="Information Technology"></attvalue>
+        </attvalues>
+        <viz:size value="56.0482"></viz:size>
+        <viz:position x="2634.0393" y="-2043.1703"></viz:position>
+        <viz:color r="151" g="83" b="77"></viz:color>
+      </node>
+      <node id="bustle" label="bustle">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="54.89157"></viz:size>
+        <viz:position x="3253.2893" y="727.19635"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="instructables" label="instructables">
+        <attvalues>
+          <attvalue for="class" value="Reference"></attvalue>
+        </attvalues>
+        <viz:size value="54.89157"></viz:size>
+        <viz:position x="-3253.2893" y="-727.19635"></viz:position>
+        <viz:color r="92" g="49" b="58"></viz:color>
+      </node>
+      <node id="youngcons" label="youngcons">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="53.734943"></viz:size>
+        <viz:position x="1323.9214" y="-3059.4019"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="microsoft" label="microsoft">
+        <attvalues>
+          <attvalue for="class" value="Information Technology"></attvalue>
+        </attvalues>
+        <viz:size value="52.578316"></viz:size>
+        <viz:position x="1696.9266" y="-2869.3462"></viz:position>
+        <viz:color r="151" g="83" b="77"></viz:color>
+      </node>
+      <node id="thetiebar" label="thetiebar">
+        <attvalues>
+          <attvalue for="class" value="Shopping"></attvalue>
+        </attvalues>
+        <viz:size value="52.578316"></viz:size>
+        <viz:position x="-2357.192" y="2357.192"></viz:position>
+        <viz:color r="111" g="86" b="63"></viz:color>
+      </node>
+      <node id="zergnet" label="zergnet">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="51.421688"></viz:size>
+        <viz:position x="3136.4944" y="1129.2075"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="imgur" label="imgur">
+        <attvalues>
+          <attvalue for="class" value="File Sharing and Storage"></attvalue>
+        </attvalues>
+        <viz:size value="50.26506"></viz:size>
+        <viz:position x="3253.2893" y="-727.19635"></viz:position>
+        <viz:color r="77" g="77" b="99"></viz:color>
+      </node>
+      <node id="mapquest" label="mapquest">
+        <attvalues>
+          <attvalue for="class" value="Reference"></attvalue>
+        </attvalues>
+        <viz:size value="50.26506"></viz:size>
+        <viz:position x="-3318.7783" y="-313.71692"></viz:position>
+        <viz:color r="92" g="49" b="58"></viz:color>
+      </node>
+      <node id="brainjet" label="brainjet">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="46.795177"></viz:size>
+        <viz:position x="2357.192" y="2357.192"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="southwest" label="southwest">
+        <attvalues>
+          <attvalue for="class" value="Travel"></attvalue>
+        </attvalues>
+        <viz:size value="46.795177"></viz:size>
+        <viz:position x="-313.71692" y="3318.7783"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="thoughtcatalog" label="thoughtcatalog">
+        <attvalues>
+          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
+        </attvalues>
+        <viz:size value="45.63855"></viz:size>
+        <viz:position x="-2634.0393" y="-2043.1703"></viz:position>
+        <viz:color r="132" g="83" b="108"></viz:color>
+      </node>
+      <node id="diply" label="diply">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="43.325294"></viz:size>
+        <viz:position x="3331.9277" y="104.710045"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="stackexchange" label="stackexchange">
+        <attvalues>
+          <attvalue for="class" value="Information Technology"></attvalue>
+        </attvalues>
+        <viz:size value="43.325294"></viz:size>
+        <viz:position x="2043.1703" y="-2634.0393"></viz:position>
+        <viz:color r="151" g="83" b="77"></viz:color>
+      </node>
+      <node id="goodreads" label="goodreads">
+        <attvalues>
+          <attvalue for="class" value="Arts and Culture"></attvalue>
+        </attvalues>
+        <viz:size value="43.325294"></viz:size>
+        <viz:position x="727.19635" y="3253.2893"></viz:position>
+        <viz:color r="117" g="63" b="60"></viz:color>
+      </node>
+      <node id="imdb" label="imdb">
+        <attvalues>
+          <attvalue for="class" value="Entertainment"></attvalue>
+        </attvalues>
+        <viz:size value="43.325294"></viz:size>
+        <viz:position x="2204.5312" y="2500.5498"></viz:position>
+        <viz:color r="67" g="101" b="119"></viz:color>
+      </node>
+      <node id="twitter" label="twitter">
+        <attvalues>
+          <attvalue for="class" value="Social Networking"></attvalue>
+        </attvalues>
+        <viz:size value="41.01205"></viz:size>
+        <viz:position x="-1513.4103" y="2970.235"></viz:position>
+        <viz:color r="68" g="57" b="29"></viz:color>
+      </node>
+      <node id="answers" label="answers">
+        <attvalues>
+          <attvalue for="class" value="Reference"></attvalue>
+        </attvalues>
+        <viz:size value="41.01205"></viz:size>
+        <viz:position x="-3292.531" y="521.48566"></viz:position>
+        <viz:color r="92" g="49" b="58"></viz:color>
+      </node>
+      <node id="webmd" label="webmd">
+        <attvalues>
+          <attvalue for="class" value="Health and Wellness"></attvalue>
+        </attvalues>
+        <viz:size value="41.01205"></viz:size>
+        <viz:position x="2970.235" y="-1513.4103"></viz:position>
+        <viz:color r="34" g="110" b="108"></viz:color>
+      </node>
+      <node id="linkedin" label="linkedin">
         <attvalues>
           <attvalue for="class" value="Business"></attvalue>
         </attvalues>
-        <viz:size value="7.445783"></viz:size>
-        <viz:position x="151.69933" y="350.55646"></viz:position>
+        <viz:size value="38.698795"></viz:size>
+        <viz:position x="1513.4103" y="2970.235"></viz:position>
         <viz:color r="81" g="104" b="58"></viz:color>
       </node>
-      <node id="brainjet">
+      <node id="ijreview" label="ijreview">
+        <attvalues>
+          <attvalue for="class" value="News and Media"></attvalue>
+        </attvalues>
+        <viz:size value="36.38554"></viz:size>
+        <viz:position x="-727.19635" y="-3253.2893"></viz:position>
+        <viz:color r="112" g="98" b="39"></viz:color>
+      </node>
+      <node id="wordpress" label="wordpress">
+        <attvalues>
+          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
+        </attvalues>
+        <viz:size value="34.07229"></viz:size>
+        <viz:position x="-2970.235" y="-1513.4103"></viz:position>
+        <viz:color r="132" g="83" b="108"></viz:color>
+      </node>
+      <node id="distractify" label="distractify">
         <attvalues>
           <attvalue for="class" value="Entertainment"></attvalue>
         </attvalues>
-        <viz:size value="8.903614"></viz:size>
-        <viz:position x="270.0949" y="270.0949"></viz:position>
+        <viz:size value="34.07229"></viz:size>
+        <viz:position x="2634.0393" y="2043.1703"></viz:position>
         <viz:color r="67" g="101" b="119"></viz:color>
       </node>
-      <node id="imdb">
+      <node id="usps" label="usps">
+        <attvalues>
+          <attvalue for="class" value="Business"></attvalue>
+        </attvalues>
+        <viz:size value="34.07229"></viz:size>
+        <viz:position x="1323.9214" y="3059.4019"></viz:position>
+        <viz:color r="81" g="104" b="58"></viz:color>
+      </node>
+      <node id="blogger" label="blogger">
+        <attvalues>
+          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
+        </attvalues>
+        <viz:size value="32.915665"></viz:size>
+        <viz:position x="-2869.3462" y="-1696.9266"></viz:position>
+        <viz:color r="132" g="83" b="108"></viz:color>
+      </node>
+      <node id="blogspot" label="blogspot">
+        <attvalues>
+          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
+        </attvalues>
+        <viz:size value="32.915665"></viz:size>
+        <viz:position x="-2757.1333" y="-1873.7458"></viz:position>
+        <viz:color r="132" g="83" b="108"></viz:color>
+      </node>
+      <node id="paypal" label="paypal">
+        <attvalues>
+          <attvalue for="class" value="Finance and Banking"></attvalue>
+        </attvalues>
+        <viz:size value="31.759035"></viz:size>
+        <viz:position x="3059.4019" y="-1323.9214"></viz:position>
+        <viz:color r="109" g="90" b="91"></viz:color>
+      </node>
+      <node id="google" label="google">
+        <attvalues>
+          <attvalue for="class" value="Search Engines and Portals"></attvalue>
+        </attvalues>
+        <viz:size value="28.289158"></viz:size>
+        <viz:position x="-2500.5498" y="2204.5312"></viz:position>
+        <viz:color r="47" g="67" b="45"></viz:color>
+      </node>
+      <node id="ebay" label="ebay">
+        <attvalues>
+          <attvalue for="class" value="Auction"></attvalue>
+        </attvalues>
+        <viz:size value="27.13253"></viz:size>
+        <viz:position x="930.0371" y="3201.209"></viz:position>
+        <viz:color r="192" g="192" b="192"></viz:color>
+      </node>
+      <node id="guff" label="guff">
         <attvalues>
           <attvalue for="class" value="Entertainment"></attvalue>
         </attvalues>
-        <viz:size value="8.506023"></viz:size>
-        <viz:position x="252.60252" y="286.52133"></viz:position>
+        <viz:size value="27.13253"></viz:size>
+        <viz:position x="2757.1333" y="1873.7458"></viz:position>
         <viz:color r="67" g="101" b="119"></viz:color>
       </node>
-      <node id="gawker">
+      <node id="pinterest" label="pinterest">
+        <attvalues>
+          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
+        </attvalues>
+        <viz:size value="25.975903"></viz:size>
+        <viz:position x="-3059.4019" y="-1323.9214"></viz:position>
+        <viz:color r="132" g="83" b="108"></viz:color>
+      </node>
+      <node id="facebook" label="facebook">
+        <attvalues>
+          <attvalue for="class" value="Social Networking"></attvalue>
+        </attvalues>
+        <viz:size value="24.819275"></viz:size>
+        <viz:position x="-1323.9214" y="3059.4019"></viz:position>
+        <viz:color r="68" g="57" b="29"></viz:color>
+      </node>
+      <node id="live" label="live">
+        <attvalues>
+          <attvalue for="class" value="Search Engines and Portals"></attvalue>
+        </attvalues>
+        <viz:size value="22.506025"></viz:size>
+        <viz:position x="-3059.4019" y="1323.9214"></viz:position>
+        <viz:color r="47" g="67" b="45"></viz:color>
+      </node>
+      <node id="yahoo" label="yahoo">
+        <attvalues>
+          <attvalue for="class" value="Search Engines and Portals"></attvalue>
+        </attvalues>
+        <viz:size value="20.19277"></viz:size>
+        <viz:position x="-2869.3462" y="1696.9266"></viz:position>
+        <viz:color r="47" g="67" b="45"></viz:color>
+      </node>
+      <node id="about" label="about">
+        <attvalues>
+          <attvalue for="class" value="Reference"></attvalue>
+        </attvalues>
+        <viz:size value="20.19277"></viz:size>
+        <viz:position x="-3331.9277" y="104.710045"></viz:position>
+        <viz:color r="92" g="49" b="58"></viz:color>
+      </node>
+      <node id="msn" label="msn">
+        <attvalues>
+          <attvalue for="class" value="Search Engines and Portals"></attvalue>
+        </attvalues>
+        <viz:size value="19.036148"></viz:size>
+        <viz:position x="-2634.0393" y="2043.1703"></viz:position>
+        <viz:color r="47" g="67" b="45"></viz:color>
+      </node>
+      <node id="mozilla" label="mozilla">
+        <attvalues>
+          <attvalue for="class" value="Information Technology"></attvalue>
+        </attvalues>
+        <viz:size value="17.87952"></viz:size>
+        <viz:position x="2204.5312" y="-2500.5498"></viz:position>
+        <viz:color r="151" g="83" b="77"></viz:color>
+      </node>
+      <node id="bing" label="bing">
+        <attvalues>
+          <attvalue for="class" value="Search Engines and Portals"></attvalue>
+        </attvalues>
+        <viz:size value="10.93976"></viz:size>
+        <viz:position x="-2757.1333" y="1873.7458"></viz:position>
+        <viz:color r="47" g="67" b="45"></viz:color>
+      </node>
+      <node id="littlethings" label="littlethings">
         <attvalues>
           <attvalue for="class" value="Entertainment"></attvalue>
         </attvalues>
-        <viz:size value="10.759036"></viz:size>
-        <viz:position x="234.11325" y="301.817"></viz:position>
+        <viz:size value="9.783133"></viz:size>
+        <viz:position x="3318.7783" y="313.71692"></viz:position>
         <viz:color r="67" g="101" b="119"></viz:color>
       </node>
-      <node id="moviepilot">
+      <node id="apple" label="apple">
+        <attvalues>
+          <attvalue for="class" value="Information Technology"></attvalue>
+        </attvalues>
+        <viz:size value="5.156627"></viz:size>
+        <viz:position x="2357.192" y="-2357.192"></viz:position>
+        <viz:color r="151" g="83" b="77"></viz:color>
+      </node>
+      <node id="wikipedia" label="wikipedia">
+        <attvalues>
+          <attvalue for="class" value="Reference"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-3318.7783" y="313.71692"></viz:position>
+        <viz:color r="92" g="49" b="58"></viz:color>
+      </node>
+      <node id="craigslist" label="craigslist">
+        <attvalues>
+          <attvalue for="class" value="Shopping"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1873.7458" y="2757.1333"></viz:position>
+        <viz:color r="111" g="86" b="63"></viz:color>
+      </node>
+      <node id="wellsfargo" label="wellsfargo">
+        <attvalues>
+          <attvalue for="class" value="Finance and Banking"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="3136.4944" y="-1129.2075"></viz:position>
+        <viz:color r="109" g="90" b="91"></viz:color>
+      </node>
+      <node id="go" label="go">
+        <attvalues>
+          <attvalue for="class" value="Search Engines and Portals"></attvalue>
+        </attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-3201.209" y="930.0371"></viz:position>
+        <viz:color r="47" g="67" b="45"></viz:color>
+      </node>
+      <node id="moviepilot" label="moviepilot">
         <attvalues>
           <attvalue for="class" value="Entertainment"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="214.70004" y="315.9215"></viz:position>
+        <viz:position x="1873.7458" y="2757.1333"></viz:position>
         <viz:color r="67" g="101" b="119"></viz:color>
       </node>
-      <node id="vox">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="13.939759"></viz:size>
-        <viz:position x="106.56675" y="-366.80518"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="cnn">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="10.493976"></viz:size>
-        <viz:position x="129.38835" y="-359.38998"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="youngcons">
-        <attvalues>
-          <attvalue for="class" value="News and Media"></attvalue>
-        </attvalues>
-        <viz:size value="9.698795"></viz:size>
-        <viz:position x="151.69933" y="-350.55646"></viz:position>
-        <viz:color r="112" g="98" b="39"></viz:color>
-      </node>
-      <node id="thoughtcatalog">
-        <attvalues>
-          <attvalue for="class" value="Personal Websites and Blogs"></attvalue>
-        </attvalues>
-        <viz:size value="8.771084"></viz:size>
-        <viz:position x="-301.817" y="-234.11325"></viz:position>
-        <viz:color r="132" g="83" b="108"></viz:color>
-      </node>
-      <node id="chase">
-        <attvalues>
-          <attvalue for="class" value="Finance and Banking"></attvalue>
-        </attvalues>
-        <viz:size value="11.289156"></viz:size>
-        <viz:position x="366.80518" y="-106.56675"></viz:position>
-        <viz:color r="109" g="90" b="91"></viz:color>
-      </node>
-      <node id="thechive">
-        <attvalues>
-          <attvalue for="class" value="Adult Materials"></attvalue>
-        </attvalues>
-        <viz:size value="13.939759"></viz:size>
-        <viz:position x="11.998026" y="381.7834"></viz:position>
-        <viz:color r="67" g="55" b="59"></viz:color>
-      </node>
-      <node id="deadspin">
-        <attvalues>
-          <attvalue for="class" value="Sports"></attvalue>
-        </attvalues>
-        <viz:size value="10.759036"></viz:size>
-        <viz:position x="-129.38835" y="359.38998"></viz:position>
-        <viz:color r="97" g="72" b="36"></viz:color>
-      </node>
-      <node id="hubpages">
+      <node id="hubpages" label="hubpages">
         <attvalues>
           <attvalue for="class" value="Newsgroups and Message Boards"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="-270.0949" y="-270.0949"></viz:position>
+        <viz:position x="-2357.192" y="-2357.192"></viz:position>
         <viz:color r="137" g="88" b="49"></viz:color>
       </node>
-      <node id="americanoverlook">
+      <node id="americanoverlook" label="americanoverlook">
         <attvalues>
           <attvalue for="class" value="Political Organizations"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="-359.38998" y="-129.38835"></viz:position>
+        <viz:position x="-3136.4944" y="-1129.2075"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="ups">
+      <node id="ups" label="ups">
         <attvalues>
           <attvalue for="class" value="Business"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="129.38835" y="359.38998"></viz:position>
+        <viz:position x="1129.2075" y="3136.4944"></viz:position>
         <viz:color r="81" g="104" b="58"></viz:color>
       </node>
-      <node id="southwest">
-        <attvalues>
-          <attvalue for="class" value="Travel"></attvalue>
-        </attvalues>
-        <viz:size value="8.903614"></viz:size>
-        <viz:position x="-35.946728" y="380.27667"></viz:position>
-        <viz:color r="192" g="192" b="192"></viz:color>
-      </node>
-      <node id="deviantart">
-        <attvalues>
-          <attvalue for="class" value="Arts and Culture"></attvalue>
-        </attvalues>
-        <viz:size value="12.481928"></viz:size>
-        <viz:position x="59.753563" y="377.26917"></viz:position>
-        <viz:color r="117" g="63" b="60"></viz:color>
-      </node>
-      <node id="webmd">
-        <attvalues>
-          <attvalue for="class" value="Health and Wellness"></attvalue>
-        </attvalues>
-        <viz:size value="8.240964"></viz:size>
-        <viz:position x="340.33942" y="-173.41159"></viz:position>
-        <viz:color r="34" g="110" b="108"></viz:color>
-      </node>
-      <node id="lifehacker">
-        <attvalues>
-          <attvalue for="class" value="Information Technology"></attvalue>
-        </attvalues>
-        <viz:size value="9.963856"></viz:size>
-        <viz:position x="286.52133" y="-252.60252"></viz:position>
-        <viz:color r="151" g="83" b="77"></viz:color>
-      </node>
-      <node id="quizlet">
+      <node id="quizlet" label="quizlet">
         <attvalues>
           <attvalue for="class" value="Education"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="194.4395" y="328.77924"></viz:position>
+        <viz:position x="1696.9266" y="2869.3462"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
-      <node id="reddit">
+      <node id="reddit" label="reddit">
         <attvalues>
           <attvalue for="class" value="Newsgroups and Message Boards"></attvalue>
         </attvalues>
         <viz:size value="4.0"></viz:size>
-        <viz:position x="-252.60252" y="-286.52133"></viz:position>
+        <viz:position x="-2204.5312" y="-2500.5498"></viz:position>
         <viz:color r="137" g="88" b="49"></viz:color>
-      </node>
-      <node id="yellowpages">
-        <attvalues>
-          <attvalue for="class" value="Reference"></attvalue>
-        </attvalues>
-        <viz:size value="13.144578"></viz:size>
-        <viz:position x="-366.80518" y="-106.56675"></viz:position>
-        <viz:color r="92" g="49" b="58"></viz:color>
-      </node>
-      <node id="att">
-        <attvalues>
-          <attvalue for="class" value="Information Technology"></attvalue>
-        </attvalues>
-        <viz:size value="9.963856"></viz:size>
-        <viz:position x="301.817" y="-234.11325"></viz:position>
-        <viz:color r="151" g="83" b="77"></viz:color>
       </node>
     </nodes>
     <edges>
