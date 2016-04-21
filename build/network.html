@@ -164,6 +164,34 @@
 var filter;
 var node_classes = document.getElementsByName("category[]");
 
+// Add the neighbors method
+sigma.classes.graph.addMethod('neighbors', function(nodeId) {
+  console.log('Neighboring... for: ' + nodeId);
+
+  var neighbors = {};
+  var _index = this.allNeighborsIndex[nodeId];
+  
+  console.log(_index);
+  console.log(this.allNeighborsIndex[nodeId]);
+
+  console.log('-----');
+  console.log(this.nodesIndex);
+
+  console.log(Object.keys(_index).length);
+  for (k in _index) {
+    var _node = _index[k];
+    console.log(_node);
+    console.log(this.nodesIndex[k]);
+    neighbors[k] = this.nodesIndex[k];
+  }
+
+  console.log('=====');
+  console.log(neighbors);
+
+  return neighbors;
+
+});
+
 /**
  * DOM utility functions
  */
@@ -290,7 +318,7 @@ sigma.parsers.gexf('data/network.gexf', {
   _.$('min-degree').addEventListener("change", applyMinDegreeFilter); // for IE10+, that sucks
 
 
-  // reset camera button
+  // Reset camera button
   _.$('camera-btn').addEventListener("click", function(e) {
     s.camera.goTo({
       x: 0,
@@ -300,9 +328,10 @@ sigma.parsers.gexf('data/network.gexf', {
     });
   });
 
-  s.refresh();
+  // s.refresh();
 
 
+  // CATEGORY FILTERS 
   function applyWillFilter() {
     // get all values with true
     var show_values = [];
@@ -326,6 +355,29 @@ sigma.parsers.gexf('data/network.gexf', {
   for (var i = 0; i < node_classes.length; i++){
     node_classes[i].onclick = applyWillFilter;
   }
+
+
+  // Bind the click event
+  s.bind('clickNode', function(e) {
+    var nodeId = e.data.node.id;
+    var toKeep = s.graph.neighbors(nodeId);
+    toKeep[nodeId] = e.data.node;
+
+    console.log('You clicked...' + nodeId);
+    console.log('Neighbors:' + Object.keys(toKeep).length);
+
+    console.log(s);
+
+    // s.graph.nodes().forEach(function(n) {
+    //   console.log(n);
+    //   if (toKeep[n.id]) {
+    //     n.color = n.originalColor;
+    //   }
+    //   else {
+    //     n.color = '#eee';
+    //   }
+    // }
+  });
 
   // Include the dragNodes plugins
   var dragListener = sigma.plugins.dragNodes(s, s.renderers[0]);
