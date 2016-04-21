@@ -348,12 +348,22 @@ sigma.parsers.gexf('data/network.gexf', {
     var toKeep = s.graph.neighbors(nodeId);
     toKeep[nodeId] = e.data.node;
 
+    // Highlight nodes
     s.graph.nodes().forEach(function(n) {
       if ( toKeep[n.label] ) {
         n.color = n.originalColor;
       }
       else {
         n.color = '#eee';
+      }
+    });
+
+    // Highlight edges
+    s.graph.edges().forEach(function(e) {
+      if (nodeId === e.source || nodeId === e.target) {
+        e.color = "rgb(190,190,190)";
+      } else {
+        e.color = "rgb(238,238,238)";
       }
     });
 
@@ -365,6 +375,12 @@ sigma.parsers.gexf('data/network.gexf', {
     s.graph.nodes().forEach(function(n) {
       n.color = n.originalColor;
     });
+
+    s.graph.edges().forEach(function(e) {
+      // Re-color all nodes
+      e.color = "rgb(190,190,190)";
+    });
+
     s.refresh();
   });
 
