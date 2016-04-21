@@ -8,7 +8,7 @@
 <style>
 
 body {
-  font: 10px sans-serif;
+  font: 7px sans-serif;
 }
 
 .chord path {
@@ -23,6 +23,8 @@ body {
   <script>
 
   var c = d3.scale.category20c();
+
+  var labels =  ["Search Engines and Portals", "Streaming Media", "Social Networking", "Reference", "Shopping", "Entertainment", "Auction", "Personal Websites and Blogs", "Information Technology", "Finance and Banking", "Web Hosting", "Business", "News and Media", "Adult Materials", "Sports", "File Sharing and Storage", "Newsgroups and Message Boards", "Health and Wellness", "Arts and Culture", "Job Search", "Political Organizations", "Travel", "Education"];
 
   var chord = d3.layout.chord()
   .padding(.05)
@@ -88,11 +90,12 @@ body {
 
   // Returns an array of tick angles and labels, given a group.
   function groupTicks(d) {
+    console.log(d);
     var k = (d.endAngle - d.startAngle) / d.value;
-    return d3.range(0, d.value, 1000).map(function(v, i) {
+    return d3.range(0, d.value, 5000).map(function(v, i) {
       return {
         angle: v * k + d.startAngle,
-        label: i % 5 ? null : v / 1000 + "k"
+        label: labels[d['index']]
       };
     });
   }
