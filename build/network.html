@@ -1,0 +1,348 @@
+<!-- START SIGMA IMPORTS -->
+<script src="sigma/src/sigma.core.js"></script>
+<script src="sigma/src/conrad.js"></script>
+<script src="sigma/src/utils/sigma.utils.js"></script>
+<script src="sigma/src/utils/sigma.polyfills.js"></script>
+<script src="sigma/src/sigma.settings.js"></script>
+<script src="sigma/src/classes/sigma.classes.dispatcher.js"></script>
+<script src="sigma/src/classes/sigma.classes.configurable.js"></script>
+<script src="sigma/src/classes/sigma.classes.graph.js"></script>
+<script src="sigma/src/classes/sigma.classes.camera.js"></script>
+<script src="sigma/src/classes/sigma.classes.quad.js"></script>
+<script src="sigma/src/classes/sigma.classes.edgequad.js"></script>
+<script src="sigma/src/captors/sigma.captors.mouse.js"></script>
+<script src="sigma/src/captors/sigma.captors.touch.js"></script>
+<script src="sigma/src/renderers/sigma.renderers.canvas.js"></script>
+<script src="sigma/src/renderers/sigma.renderers.webgl.js"></script>
+<script src="sigma/src/renderers/sigma.renderers.svg.js"></script>
+<script src="sigma/src/renderers/sigma.renderers.def.js"></script>
+<script src="sigma/src/renderers/webgl/sigma.webgl.nodes.def.js"></script>
+<script src="sigma/src/renderers/webgl/sigma.webgl.nodes.fast.js"></script>
+<script src="sigma/src/renderers/webgl/sigma.webgl.edges.def.js"></script>
+<script src="sigma/src/renderers/webgl/sigma.webgl.edges.fast.js"></script>
+<script src="sigma/src/renderers/webgl/sigma.webgl.edges.arrow.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.labels.def.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.hovers.def.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.nodes.def.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.edges.def.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.edges.curve.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.edges.arrow.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.edges.curvedArrow.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.edgehovers.def.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.edgehovers.curve.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.edgehovers.arrow.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.edgehovers.curvedArrow.js"></script>
+<script src="sigma/src/renderers/canvas/sigma.canvas.extremities.def.js"></script>
+<script src="sigma/src/renderers/svg/sigma.svg.utils.js"></script>
+<script src="sigma/src/renderers/svg/sigma.svg.nodes.def.js"></script>
+<script src="sigma/src/renderers/svg/sigma.svg.edges.def.js"></script>
+<script src="sigma/src/renderers/svg/sigma.svg.edges.curve.js"></script>
+<script src="sigma/src/renderers/svg/sigma.svg.labels.def.js"></script>
+<script src="sigma/src/renderers/svg/sigma.svg.hovers.def.js"></script>
+<script src="sigma/src/middlewares/sigma.middlewares.rescale.js"></script>
+<script src="sigma/src/middlewares/sigma.middlewares.copy.js"></script>
+<script src="sigma/src/misc/sigma.misc.animation.js"></script>
+<script src="sigma/src/misc/sigma.misc.bindEvents.js"></script>
+<script src="sigma/src/misc/sigma.misc.bindDOMEvents.js"></script>
+<script src="sigma/src/misc/sigma.misc.drawHovers.js"></script>
+<!-- END SIGMA IMPORTS -->
+<script src="sigma/plugins/sigma.parsers.gexf/gexf-parser.js"></script>
+<script src="sigma/plugins/sigma.parsers.gexf/sigma.parsers.gexf.js"></script>
+<script src="sigma/plugins/sigma.plugins.filter/sigma.plugins.filter.js"></script>
+<link href='http://fonts.googleapis.com/css?family=Lato:300,700' rel='stylesheet' type='text/css'>
+<div id="container">
+  <style>
+    body {
+      color: #333;
+      font-size: 14px;
+      font-family: Lato, sans-serif;
+    }
+    #graph-container {
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      position: absolute;
+    }
+    #control-pane {
+      top: 10px;
+      /*bottom: 10px;*/
+      right: 10px;
+      position: absolute;
+      width: 230px;
+      background-color: rgb(249, 247, 237);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    }
+    #control-pane > div {
+      margin: 10px;
+      overflow-x: auto;
+    }
+    .line {
+      clear: both;
+      display: block;
+      width: 100%;
+      margin: 0;
+      padding: 12px 0 0 0;
+      border-bottom: 1px solid #aac789;
+      background: transparent;
+    }
+    h2, h3, h4 {
+      padding: 0;
+      font-variant: small-caps;
+    }
+    .green {
+      color: #437356;
+    }
+    h2.underline {
+      color: #437356;
+      background: #f4f0e4;
+      margin: 0;
+      border-radius: 2px;
+      padding: 8px 12px;
+      font-weight: 700;
+    }
+    .hidden {
+      display: none;
+      visibility: hidden;
+    }
+
+    input[type=range] {
+      width: 160px;
+    }
+  </style>
+  <div id="graph-container"></div>
+  <div id="control-pane">
+    <h2 class="underline">filters</h2>
+    
+    <div>
+      <h3>min degree <span id="min-degree-val">0</span></h3>
+      0 <input id="min-degree" type="range" min="0" max="0" value="0"> <span id="max-degree-value">0</span><br>
+    </div>
+    <div>
+<!--
+      <p><strong>Filter</strong>   <button id="go-btn">GO!</button></p>
+       <select id="node-category">
+        <option value="" selected>All categories</option>
+      </select>
+ -->
+
+    
+    <fieldset id="demoButtons">
+      <legend><strong>WEBSITE CATEGORIES</strong></legend>
+        <input type="checkbox" name="category[]" value="News and Media" />News and Media <br />
+        <input type="checkbox" name="category[]" value="Entertainment" />Entertainment<br />
+        <input type="checkbox" name="category[]" value="Reference" />Reference<br />
+        <input type="checkbox" name="category[]" value="Search Engines and Portals" />Search Engines and Portals<br />
+        <input type="checkbox" name="category[]" value="Information Technology" />Information Technology<br />
+        <input type="checkbox" name="category[]" value="Personal Websites and Blogs" />Personal Websites and Blogs<br />
+        <input type="checkbox" name="category[]" value="Shopping" />Shopping<br />
+        <input type="checkbox" name="category[]" value="Health and Wellness" />Health and Wellness<br />
+        <input type="checkbox" name="category[]" value="Business" />Business<br />
+        <input type="checkbox" name="category[]" value="Newsgroups and Message Boards" />Newsgroups and Message Boards<br />
+        <input type="checkbox" name="category[]" value="Finance and Banking" />Finance and Banking<br />
+        <input type="checkbox" name="category[]" value="Sports" />Sports<br />
+        <input type="checkbox" name="category[]" value="Arts and Culture" />Arts and Culture<br />
+        <input type="checkbox" name="category[]" value="Streaming Media" />Streaming Media<br />
+        <input type="checkbox" name="category[]" value="File Sharing and Storage" />File Sharing and Storage<br />
+        <input type="checkbox" name="category[]" value="Social Networking" />Social Networking<br />
+        <input type="checkbox" name="category[]" value="Adult Materials" />Adult Materials<br />
+        <input type="checkbox" name="category[]" value="Education" />Education<br />
+        <input type="checkbox" name="category[]" value="Auction" />Auction<br />
+        <input type="checkbox" name="category[]" value="Travel" />Travel<br />
+        <input type="checkbox" name="category[]" value="Web Hosting" />Web Hosting<br />
+        <input type="checkbox" name="category[]" value="Political Organizations" />Political Organizations<br />
+        <input type="checkbox" name="category[]" value="Job Search" />Job Search<br />
+    </fieldset>
+    
+    </div>
+    <span class="line"></span>
+    <div>
+      <button id="reset-btn">Reset filters</button>
+      <button id="export-btn">Export</button>
+    </div>
+    <div id="dump" class="hidden"></div>
+  </div>
+</div>
+<script>
+/**
+ * This is an example on how to use sigma filters plugin on a real-world graph.
+ */
+var filter;
+
+/**
+ * DOM utility functions
+ */
+var _ = {
+  $: function (id) {
+    return document.getElementById(id);
+  },
+
+  all: function (selectors) {
+    return document.querySelectorAll(selectors);
+  },
+
+  removeClass: function(selectors, cssClass) {
+    var nodes = document.querySelectorAll(selectors);
+    var l = nodes.length;
+    for ( i = 0 ; i < l; i++ ) {
+      var el = nodes[i];
+      // Bootstrap compatibility
+      el.className = el.className.replace(cssClass, '');
+    }
+  },
+
+  addClass: function (selectors, cssClass) {
+    var nodes = document.querySelectorAll(selectors);
+    var l = nodes.length;
+    for ( i = 0 ; i < l; i++ ) {
+      var el = nodes[i];
+      // Bootstrap compatibility
+      if (-1 == el.className.indexOf(cssClass)) {
+        el.className += ' ' + cssClass;
+      }
+    }
+  },
+
+  show: function (selectors) {
+    this.removeClass(selectors, 'hidden');
+  },
+
+  hide: function (selectors) {
+    this.addClass(selectors, 'hidden');
+  },
+
+  toggle: function (selectors, cssClass) {
+    var cssClass = cssClass || "hidden";
+    var nodes = document.querySelectorAll(selectors);
+    var l = nodes.length;
+    for ( i = 0 ; i < l; i++ ) {
+      var el = nodes[i];
+      //el.style.display = (el.style.display != 'none' ? 'none' : '' );
+      // Bootstrap compatibility
+      if (-1 !== el.className.indexOf(cssClass)) {
+        el.className = el.className.replace(cssClass, '');
+      } else {
+        el.className += ' ' + cssClass;
+      }
+    }
+  }
+};
+
+
+function updatePane (graph, filter) {
+  // get max degree
+  var maxDegree = 0,
+      categories = {};
+  
+  // read nodes
+  graph.nodes().forEach(function(n) {
+    maxDegree = Math.max(maxDegree, graph.degree(n.id));
+    categories[n.attributes.class] = true;
+  })
+
+  // min degree
+  _.$('min-degree').max = maxDegree;
+  _.$('max-degree-value').textContent = maxDegree;
+  
+  // node category
+  var nodecategoryElt = _.$('node-category');
+  Object.keys(categories).forEach(function(c) {
+    var optionElt = document.createElement("option"); // ZZZ Not necessary !!!
+    optionElt.text = c;
+    nodecategoryElt.add(optionElt);
+  });
+
+  // Node classes
+  var node_classes = document.getElementsByName("category[]");
+
+  // reset button
+  _.$('reset-btn').addEventListener("click", function(e) {
+    _.$('min-degree').value = 0;
+    _.$('min-degree-val').textContent = '0';
+    _.$('node-category').selectedIndex = 0;    // ZZZ adapt to all selected!
+    filter.undo().apply();
+    _.$('dump').textContent = '';
+    _.hide('#dump');
+  });
+
+  // export button
+  _.$('export-btn').addEventListener("click", function(e) {
+    var chain = filter.export();
+    console.log(chain);
+    _.$('dump').textContent = JSON.stringify(chain);
+    _.show('#dump');
+  });
+}
+
+// Initialize sigma with the dataset:
+//   e-Diaspora Moroccan corpus of websites
+//   by Dana Diminescu & Matthieu Renault
+//   http://www.e-diasporas.fr/wp/moroccan.html
+sigma.parsers.gexf('data/network-graph.gexf', {
+  container: 'graph-container',
+  settings: {
+    edgeColor: 'default',
+    defaultEdgeColor: '#ccc'
+  }
+}, function(s) {
+  // Initialize the Filter API
+  filter = new sigma.plugins.filter(s);
+
+  updatePane(s.graph, filter);
+
+  function applyMinDegreeFilter(e) {
+    var v = e.target.value;
+    _.$('min-degree-val').textContent = v;
+
+    filter
+      .undo('min-degree')
+      .nodesBy(function(n) {
+        return this.degree(n.id) >= v;
+      }, 'min-degree')
+      .apply();
+  }
+
+  function applyCategoryFilter(e) {
+    var c = e.target[e.target.selectedIndex].value;
+    filter
+      .undo('node-category')
+      .nodesBy(function(n) {
+        return !c.length || n.attributes.class === c;
+      }, 'node-category')
+      .apply();
+  }
+
+  _.$('min-degree').addEventListener("input", applyMinDegreeFilter);  // for Chrome and FF
+  _.$('min-degree').addEventListener("change", applyMinDegreeFilter); // for IE10+, that sucks
+//  _.$('node-category').addEventListener("change", applyCategoryFilter);  // ZZZ CHANGE!!
+
+
+  function applyWillFilter() {
+    // get all values with true
+    show_values = [ for (x of node_classes) if (x.checked) x.value ];
+
+    log.console('FILTER!');
+
+    // filter for only those who are in show_values
+    filter
+      .undo('node-category')
+      .nodesBy(function(n) {
+        return (show_values.indexOf(n.attributes.class) > -1);
+      }, 'node-category')
+      .apply();
+
+    }
+  }
+
+  // add onclick to each category filter
+  node_classes.forEach(function(c){
+    c.onclick = applyWillFilter;
+  });
+
+
+
+});
+
+
+
+</script>
