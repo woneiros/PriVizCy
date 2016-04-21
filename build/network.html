@@ -166,31 +166,11 @@ var node_classes = document.getElementsByName("category[]");
 
 // Add the neighbors method
 sigma.classes.graph.addMethod('neighbors', function(nodeId) {
-  console.log('Neighboring... for: ' + nodeId);
 
   var neighbors = {};
   var _index = this.allNeighborsIndex[nodeId];
   
   return _index;
-
-  // console.log(_index);
-  // console.log(this.allNeighborsIndex[nodeId]);
-
-  // console.log('-----');
-  // console.log(this.nodesIndex);
-
-  // console.log(Object.keys(_index).length);
-  // for (k in _index) {
-  //   var _node = _index[k];
-  //   console.log(_node);
-  //   console.log(this.nodesIndex[k]);
-  //   neighbors[k] = this.nodesIndex[k];
-  // }
-
-  // console.log('=====');
-  // console.log(neighbors);
-
-  // return neighbors;
 
 });
 
@@ -368,14 +348,8 @@ sigma.parsers.gexf('data/network.gexf', {
     var toKeep = s.graph.neighbors(nodeId);
     toKeep[nodeId] = e.data.node;
 
-    console.log('You clicked...' + nodeId);
-    console.log('Neighbors:' + Object.keys(toKeep).length);
-
-    console.log( toKeep );
-
     s.graph.nodes().forEach(function(n) {
       if ( toKeep[n.label] ) {
-        console.log('N');
         n.color = n.originalColor;
       }
       else {
@@ -383,10 +357,17 @@ sigma.parsers.gexf('data/network.gexf', {
       }
     });
 
+    s.refresh();
+
   });
 
-  s.refresh();
-  
+  s.bind('clickStage', function(e) {
+    s.graph.nodes().forEach(function(n) {
+      n.color = n.originalColor;
+    });
+    s.refresh();
+  });
+
 
   // Include the dragNodes plugins
   var dragListener = sigma.plugins.dragNodes(s, s.renderers[0]);
