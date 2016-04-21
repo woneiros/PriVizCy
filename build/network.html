@@ -171,24 +171,26 @@ sigma.classes.graph.addMethod('neighbors', function(nodeId) {
   var neighbors = {};
   var _index = this.allNeighborsIndex[nodeId];
   
-  console.log(_index);
-  console.log(this.allNeighborsIndex[nodeId]);
+  return _index;
 
-  console.log('-----');
-  console.log(this.nodesIndex);
+  // console.log(_index);
+  // console.log(this.allNeighborsIndex[nodeId]);
 
-  console.log(Object.keys(_index).length);
-  for (k in _index) {
-    var _node = _index[k];
-    console.log(_node);
-    console.log(this.nodesIndex[k]);
-    neighbors[k] = this.nodesIndex[k];
-  }
+  // console.log('-----');
+  // console.log(this.nodesIndex);
 
-  console.log('=====');
-  console.log(neighbors);
+  // console.log(Object.keys(_index).length);
+  // for (k in _index) {
+  //   var _node = _index[k];
+  //   console.log(_node);
+  //   console.log(this.nodesIndex[k]);
+  //   neighbors[k] = this.nodesIndex[k];
+  // }
 
-  return neighbors;
+  // console.log('=====');
+  // console.log(neighbors);
+
+  // return neighbors;
 
 });
 
@@ -295,6 +297,11 @@ sigma.parsers.gexf('data/network.gexf', {
     defaultEdgeColor: '#ccc'
   }
 }, function(s) {
+  // Record the "original" colors of nodes and edges
+  s.graph.nodes().forEach(function(n) {
+    n.originalColor = n.color;
+  });
+
   // Initialize the Filter API
   filter = new sigma.plugins.filter(s);
 
@@ -327,8 +334,6 @@ sigma.parsers.gexf('data/network.gexf', {
       ratio: 1
     });
   });
-
-  // s.refresh();
 
 
   // CATEGORY FILTERS 
@@ -366,18 +371,22 @@ sigma.parsers.gexf('data/network.gexf', {
     console.log('You clicked...' + nodeId);
     console.log('Neighbors:' + Object.keys(toKeep).length);
 
-    console.log(s);
+    console.log( toKeep );
 
-    // s.graph.nodes().forEach(function(n) {
-    //   console.log(n);
-    //   if (toKeep[n.id]) {
-    //     n.color = n.originalColor;
-    //   }
-    //   else {
-    //     n.color = '#eee';
-    //   }
-    // }
+    s.graph.nodes().forEach(function(n) {
+      if ( toKeep[n.label] ) {
+        console.log('N');
+        n.color = n.originalColor;
+      }
+      else {
+        n.color = '#eee';
+      }
+    });
+
   });
+
+  s.refresh();
+  
 
   // Include the dragNodes plugins
   var dragListener = sigma.plugins.dragNodes(s, s.renderers[0]);
