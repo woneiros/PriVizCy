@@ -174,11 +174,11 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-12 col-md-10 text-center">
+        <div class="col-lg-12 col-md-10 text-left">
           <p class="text-muted">Three researchers from UC Berkeley (Abe Altaweel, Nathan Good and Chris Jay Hoofnagle) performed a "Web Privacy Census" in which they collected web cookies and local storage created by the sites as a web crawler navigated through the top 100 (1000 and 25000) sites.</p> <br />
           <p class="text-muted">They analyzed the distribution of several methods of tracking used by these common websites (first-party cookies, third-party cookies, HTML5 local storage, etc...). <em>For more on their research refer to their <a target="_blank" href="http://techscience.org/a/2015121502/download.pdf">paper</a></em></p> <br />
           <p class="text-muted">Here is a selection of some of their results:</p>
-          <ul class="text-muted">
+          <ul class="text-muted text-left">
             <li>A total of 6000 cookies and local storage files were created after browsing through the top100 websites</li>
             <li>Of these 6000 cookies <b>83% would be third-party cookies</b></li>
             <li>32 websites (out of the 100) placed <b>over 100 cookies</b></li>
@@ -227,12 +227,29 @@
         <li>Hover over a node to see the website</li>
         <li>Click on a node to view the direct neighbors</li>
       </ul>
-      <p class="text-right"><b>try out the circular layout as well!</b></p>
+      <p class="text-center"><b>try out the circular layout as well!</b></p>
+    <div class="row">
+        <div class="span12">
+            <ul class="nav nav-tabs" id="myTabs">
+              <li class="active"><a href="#network" data-toggle="tab">Network</a></li>
+              <li><a href="#circular" data-toggle="tab">Circular</a></li>
+            </ul>
+
+            <div class="tab-content">
+              <div class="tab-pane active" id="network">
+                  <div class="iframe"><center><iframe src="./network.html" marginwidth="0" marginheight="0" scrolling="no" width="1280px" height="650px" style="border: 0px"></iframe></center></div>
+                </div>
+              <div class="tab-pane" id="circular">
+                  <div class="iframe"><center><iframe src="./circular.html" marginwidth="0" marginheight="0" scrolling="no" width="1280px" height="650px" style="border: 0px"></iframe></center></div>
+                </div>
+            </div>
+        </div>
+    </div>
       <div class="row">
-        <div class="iframe"><center><iframe src="./network.html" marginwidth="0" marginheight="0" scrolling="no" width="1280px" height="650px" style="border: 0px"></iframe></center></div>
+
       </div>
       <div class="row">
-        <div class="iframe"><center><iframe src="./circular.html" marginwidth="0" marginheight="0" scrolling="no" width="1280px" height="650px" style="border: 0px"></iframe></center></div>
+
       </div>
     </div>
   </section>
