@@ -49,6 +49,7 @@
 <script src="sigma/plugins/sigma.parsers.gexf/gexf-parser.js"></script>
 <script src="sigma/plugins/sigma.parsers.gexf/sigma.parsers.gexf.js"></script>
 <script src="sigma/plugins/sigma.plugins.filter/sigma.plugins.filter.js"></script>
+<!-- <script src="sigma/plugins/sigma.plugins.dragNodes/sigma.plugins.dragNodes.js"></script> -->
 <link href='http://fonts.googleapis.com/css?family=Lato:300,700' rel='stylesheet' type='text/css'>
 <div id="container">
   <style>
@@ -119,15 +120,39 @@
       0 <input id="min-degree" type="range" min="0" max="0" value="0"> <span id="max-degree-value">0</span><br>
     </div>
     <div>
-      <h3>node category</h3>
-      <select id="node-category">
-        <option value="" selected>All categories</option>
-      </select>
+    
+    <fieldset id="demoButtons">
+      <legend><strong>WEBSITE CATEGORIES</strong></legend>
+        <input type="checkbox" name="category[]" checked value="News and Media" />News and Media <br />
+        <input type="checkbox" name="category[]" checked value="Entertainment" />Entertainment<br />
+        <input type="checkbox" name="category[]" checked value="Reference" />Reference<br />
+        <input type="checkbox" name="category[]" checked value="Search Engines and Portals" />Search Engines and Portals<br />
+        <input type="checkbox" name="category[]" checked value="Information Technology" />Information Technology<br />
+        <input type="checkbox" name="category[]" checked value="Personal Websites and Blogs" />Personal Websites and Blogs<br />
+        <input type="checkbox" name="category[]" checked value="Shopping" />Shopping<br />
+        <input type="checkbox" name="category[]" checked value="Health and Wellness" />Health and Wellness<br />
+        <input type="checkbox" name="category[]" checked value="Business" />Business<br />
+        <input type="checkbox" name="category[]" checked value="Newsgroups and Message Boards" />Newsgroups and Message Boards<br />
+        <input type="checkbox" name="category[]" checked value="Finance and Banking" />Finance and Banking<br />
+        <input type="checkbox" name="category[]" checked value="Sports" />Sports<br />
+        <input type="checkbox" name="category[]" checked value="Arts and Culture" />Arts and Culture<br />
+        <input type="checkbox" name="category[]" checked value="Streaming Media" />Streaming Media<br />
+        <input type="checkbox" name="category[]" checked value="File Sharing and Storage" />File Sharing and Storage<br />
+        <input type="checkbox" name="category[]" checked value="Social Networking" />Social Networking<br />
+        <input type="checkbox" name="category[]" checked value="Adult Materials" />Adult Materials<br />
+        <input type="checkbox" name="category[]" checked value="Education" />Education<br />
+        <input type="checkbox" name="category[]" checked value="Auction" />Auction<br />
+        <input type="checkbox" name="category[]" checked value="Travel" />Travel<br />
+        <input type="checkbox" name="category[]" checked value="Web Hosting" />Web Hosting<br />
+        <input type="checkbox" name="category[]" checked value="Political Organizations" />Political Organizations<br />
+        <input type="checkbox" name="category[]" checked value="Job Search" />Job Search<br />
+    </fieldset>
+    
     </div>
     <span class="line"></span>
     <div>
-      <button id="reset-btn">Reset filters</button>
-      <button id="export-btn">Export</button>
+      <button id="reset-btn">Reset Filters</button>
+      <button id="camera-btn">Reset Camera</button>
     </div>
     <div id="dump" class="hidden"></div>
   </div>
@@ -137,6 +162,17 @@
  * This is an example on how to use sigma filters plugin on a real-world graph.
  */
 var filter;
+var node_classes = document.getElementsByName("category[]");
+
+// Add the neighbors method
+sigma.classes.graph.addMethod('neighbors', function(nodeId) {
+
+  var neighbors = {};
+  var _index = this.allNeighborsIndex[nodeId];
+  
+  return _index;
+
+});
 
 /**
  * DOM utility functions
@@ -206,44 +242,34 @@ function updatePane (graph, filter) {
   // read nodes
   graph.nodes().forEach(function(n) {
     maxDegree = Math.max(maxDegree, graph.degree(n.id));
-    categories[n.attributes.acategory] = true;
+    categories[n.attributes.class] = true;
   })
 
   // min degree
   _.$('min-degree').max = maxDegree;
   _.$('max-degree-value').textContent = maxDegree;
   
-  // node category
-  var nodecategoryElt = _.$('node-category');
-  Object.keys(categories).forEach(function(c) {
-    var optionElt = document.createElement("option");
-    optionElt.text = c;
-    nodecategoryElt.add(optionElt);
-  });
+  // Node classes
+  var node_classes = document.getElementsByName("category[]");
 
   // reset button
   _.$('reset-btn').addEventListener("click", function(e) {
     _.$('min-degree').value = 0;
     _.$('min-degree-val').textContent = '0';
-    _.$('node-category').selectedIndex = 0;
+
+    for (var i=0; i < node_classes.length; i++) {
+      node_classes[i].checked = true;
+    }
+    
+
     filter.undo().apply();
     _.$('dump').textContent = '';
     _.hide('#dump');
   });
 
-  // export button
-  _.$('export-btn').addEventListener("click", function(e) {
-    var chain = filter.export();
-    console.log(chain);
-    _.$('dump').textContent = JSON.stringify(chain);
-    _.show('#dump');
-  });
 }
 
-// Initialize sigma with the dataset:
-//   e-Diaspora Moroccan corpus of websites
-//   by Dana Diminescu & Matthieu Renault
-//   http://www.e-diasporas.fr/wp/moroccan.html
+// Initialize sigma with the dataset
 sigma.parsers.gexf('data/circular.gexf', {
   container: 'graph-container',
   settings: {
@@ -251,8 +277,17 @@ sigma.parsers.gexf('data/circular.gexf', {
     defaultEdgeColor: '#ccc'
   }
 }, function(s) {
+  // Record the "original" colors and position of nodes
+  s.graph.nodes().forEach(function(n) {
+    n.originalColor = n.color;
+    n.originalx = n.x;
+    n.originaly = n.y;
+  });
+
   // Initialize the Filter API
   filter = new sigma.plugins.filter(s);
+
+  // Node classes
 
   updatePane(s.graph, filter);
 
@@ -268,21 +303,90 @@ sigma.parsers.gexf('data/circular.gexf', {
       .apply();
   }
 
-  function applyCategoryFilter(e) {
-    var c = e.target[e.target.selectedIndex].value;
+  _.$('min-degree').addEventListener("input", applyMinDegreeFilter);  // for Chrome and FF
+  _.$('min-degree').addEventListener("change", applyMinDegreeFilter); // for IE10+, that sucks
+
+
+  // Reset camera button
+  _.$('camera-btn').addEventListener("click", function(e) {
+    s.camera.goTo({
+      x: 0,
+      y: 0,
+      angle: 0,
+      ratio: 1
+    });
+  });
+
+
+  // CATEGORY FILTERS 
+  function applyWillFilter() {
+    // get all values with true
+    var show_values = [];
+    for(var i=0; i < node_classes.length; i++) {
+      if (node_classes[i].checked) {
+        show_values.push(node_classes[i].value);
+      }
+    }
+
+    // filter for only those who are in show_values
     filter
       .undo('node-category')
       .nodesBy(function(n) {
-        return !c.length || n.attributes.acategory === c;
+        return (show_values.indexOf(n.attributes.class) > -1);
       }, 'node-category')
       .apply();
+
   }
 
-  _.$('min-degree').addEventListener("input", applyMinDegreeFilter);  // for Chrome and FF
-  _.$('min-degree').addEventListener("change", applyMinDegreeFilter); // for IE10+, that sucks
-  _.$('node-category').addEventListener("change", applyCategoryFilter);
-});
+  // add onclick to each category filter
+  for (var i = 0; i < node_classes.length; i++){
+    node_classes[i].onclick = applyWillFilter;
+  }
 
+
+  // Bind the click event
+  s.bind('clickNode', function(e) {
+
+
+    var nodeId = e.data.node.id;
+    var toKeep = s.graph.neighbors(nodeId);
+    toKeep[nodeId] = e.data.node;
+
+    s.graph.nodes().forEach(function(n) {
+      // Re-locate all nodes
+      n.x = n.originalx;
+      n.y = n.originaly;
+      
+      // Color accordingly
+      if ( toKeep[n.label] ) {
+        n.color = n.originalColor;
+      }
+      else {
+        n.color = '#eee';
+      }
+    });
+
+    // Center selected node
+    e.data.node.x = 0;
+    e.data.node.y = 0; 
+
+    s.refresh();
+
+  });
+
+  s.bind('clickStage', function(e) {
+    s.graph.nodes().forEach(function(n) {
+      // Re-color all nodes
+      n.color = n.originalColor;
+
+      // Re-locate all nodes
+      n.x = n.originalx;
+      n.y = n.originaly;
+    });
+    s.refresh();
+  });
+
+});
 
 
 </script>
