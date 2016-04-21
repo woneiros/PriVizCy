@@ -346,12 +346,11 @@ sigma.parsers.gexf('data/circular.gexf', {
 
   // Bind the click event
   s.bind('clickNode', function(e) {
-
-
     var nodeId = e.data.node.id;
     var toKeep = s.graph.neighbors(nodeId);
     toKeep[nodeId] = e.data.node;
 
+    // Highlight edges
     s.graph.nodes().forEach(function(n) {
       // Re-locate all nodes
       n.x = n.originalx;
@@ -363,6 +362,15 @@ sigma.parsers.gexf('data/circular.gexf', {
       }
       else {
         n.color = '#eee';
+      }
+    });
+
+    // Highlight edges
+    s.graph.edges().forEach(function(e) {
+      if (nodeId === e.source || nodeId === e.target) {
+        e.color = "rgb(190,190,190)";
+      } else {
+        e.color = "rgb(238,238,238)";
       }
     });
 
@@ -383,6 +391,12 @@ sigma.parsers.gexf('data/circular.gexf', {
       n.x = n.originalx;
       n.y = n.originaly;
     });
+
+    s.graph.edges().forEach(function(e) {
+      // Re-color all nodes
+      e.color = "rgb(238,238,238)";
+    });
+
     s.refresh();
   });
 
