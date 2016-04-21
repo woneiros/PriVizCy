@@ -129,29 +129,29 @@
     
     <fieldset id="demoButtons">
       <legend><strong>WEBSITE CATEGORIES</strong></legend>
-        <input type="checkbox" name="category[]" value="News and Media" />News and Media <br />
-        <input type="checkbox" name="category[]" value="Entertainment" />Entertainment<br />
-        <input type="checkbox" name="category[]" value="Reference" />Reference<br />
-        <input type="checkbox" name="category[]" value="Search Engines and Portals" />Search Engines and Portals<br />
-        <input type="checkbox" name="category[]" value="Information Technology" />Information Technology<br />
-        <input type="checkbox" name="category[]" value="Personal Websites and Blogs" />Personal Websites and Blogs<br />
-        <input type="checkbox" name="category[]" value="Shopping" />Shopping<br />
-        <input type="checkbox" name="category[]" value="Health and Wellness" />Health and Wellness<br />
-        <input type="checkbox" name="category[]" value="Business" />Business<br />
-        <input type="checkbox" name="category[]" value="Newsgroups and Message Boards" />Newsgroups and Message Boards<br />
-        <input type="checkbox" name="category[]" value="Finance and Banking" />Finance and Banking<br />
-        <input type="checkbox" name="category[]" value="Sports" />Sports<br />
-        <input type="checkbox" name="category[]" value="Arts and Culture" />Arts and Culture<br />
-        <input type="checkbox" name="category[]" value="Streaming Media" />Streaming Media<br />
-        <input type="checkbox" name="category[]" value="File Sharing and Storage" />File Sharing and Storage<br />
-        <input type="checkbox" name="category[]" value="Social Networking" />Social Networking<br />
-        <input type="checkbox" name="category[]" value="Adult Materials" />Adult Materials<br />
-        <input type="checkbox" name="category[]" value="Education" />Education<br />
-        <input type="checkbox" name="category[]" value="Auction" />Auction<br />
-        <input type="checkbox" name="category[]" value="Travel" />Travel<br />
-        <input type="checkbox" name="category[]" value="Web Hosting" />Web Hosting<br />
-        <input type="checkbox" name="category[]" value="Political Organizations" />Political Organizations<br />
-        <input type="checkbox" name="category[]" value="Job Search" />Job Search<br />
+        <input type="checkbox" name="category[]" checked value="News and Media" />News and Media <br />
+        <input type="checkbox" name="category[]" checked value="Entertainment" />Entertainment<br />
+        <input type="checkbox" name="category[]" checked value="Reference" />Reference<br />
+        <input type="checkbox" name="category[]" checked value="Search Engines and Portals" />Search Engines and Portals<br />
+        <input type="checkbox" name="category[]" checked value="Information Technology" />Information Technology<br />
+        <input type="checkbox" name="category[]" checked value="Personal Websites and Blogs" />Personal Websites and Blogs<br />
+        <input type="checkbox" name="category[]" checked value="Shopping" />Shopping<br />
+        <input type="checkbox" name="category[]" checked value="Health and Wellness" />Health and Wellness<br />
+        <input type="checkbox" name="category[]" checked value="Business" />Business<br />
+        <input type="checkbox" name="category[]" checked value="Newsgroups and Message Boards" />Newsgroups and Message Boards<br />
+        <input type="checkbox" name="category[]" checked value="Finance and Banking" />Finance and Banking<br />
+        <input type="checkbox" name="category[]" checked value="Sports" />Sports<br />
+        <input type="checkbox" name="category[]" checked value="Arts and Culture" />Arts and Culture<br />
+        <input type="checkbox" name="category[]" checked value="Streaming Media" />Streaming Media<br />
+        <input type="checkbox" name="category[]" checked value="File Sharing and Storage" />File Sharing and Storage<br />
+        <input type="checkbox" name="category[]" checked value="Social Networking" />Social Networking<br />
+        <input type="checkbox" name="category[]" checked value="Adult Materials" />Adult Materials<br />
+        <input type="checkbox" name="category[]" checked value="Education" />Education<br />
+        <input type="checkbox" name="category[]" checked value="Auction" />Auction<br />
+        <input type="checkbox" name="category[]" checked value="Travel" />Travel<br />
+        <input type="checkbox" name="category[]" checked value="Web Hosting" />Web Hosting<br />
+        <input type="checkbox" name="category[]" checked value="Political Organizations" />Political Organizations<br />
+        <input type="checkbox" name="category[]" checked value="Job Search" />Job Search<br />
     </fieldset>
     
     </div>
@@ -246,11 +246,11 @@ function updatePane (graph, filter) {
   
   // node category
   var nodecategoryElt = _.$('node-category');
-  Object.keys(categories).forEach(function(c) {
-    var optionElt = document.createElement("option"); // ZZZ Not necessary !!!
-    optionElt.text = c;
-    nodecategoryElt.add(optionElt);
-  });
+  // Object.keys(categories).forEach(function(c) {
+  //   var optionElt = document.createElement("option"); // ZZZ Not necessary !!!
+  //   optionElt.text = c;
+  //   nodecategoryElt.add(optionElt);
+  // });
 
   // Node classes
   var node_classes = document.getElementsByName("category[]");
@@ -274,10 +274,7 @@ function updatePane (graph, filter) {
   });
 }
 
-// Initialize sigma with the dataset:
-//   e-Diaspora Moroccan corpus of websites
-//   by Dana Diminescu & Matthieu Renault
-//   http://www.e-diasporas.fr/wp/moroccan.html
+// Initialize sigma with the dataset
 sigma.parsers.gexf('data/network-graph.gexf', {
   container: 'graph-container',
   settings: {
@@ -287,6 +284,9 @@ sigma.parsers.gexf('data/network-graph.gexf', {
 }, function(s) {
   // Initialize the Filter API
   filter = new sigma.plugins.filter(s);
+
+  // Node classes
+  var node_classes = document.getElementsByName("category[]");
 
   updatePane(s.graph, filter);
 
@@ -302,26 +302,18 @@ sigma.parsers.gexf('data/network-graph.gexf', {
       .apply();
   }
 
-  function applyCategoryFilter(e) {
-    var c = e.target[e.target.selectedIndex].value;
-    filter
-      .undo('node-category')
-      .nodesBy(function(n) {
-        return !c.length || n.attributes.class === c;
-      }, 'node-category')
-      .apply();
-  }
-
   _.$('min-degree').addEventListener("input", applyMinDegreeFilter);  // for Chrome and FF
   _.$('min-degree').addEventListener("change", applyMinDegreeFilter); // for IE10+, that sucks
-//  _.$('node-category').addEventListener("change", applyCategoryFilter);  // ZZZ CHANGE!!
 
 
   function applyWillFilter() {
     // get all values with true
-    show_values = [ for (x of node_classes) if (x.checked) x.value ];
-
-    log.console('FILTER!');
+    var show_values = [];
+    for(var i=0; i < node_classes.length; i++) {
+      if (node_classes[i].checked) {
+        show_values.push(node_classes[i].value);
+      }
+    }
 
     // filter for only those who are in show_values
     filter
@@ -331,14 +323,12 @@ sigma.parsers.gexf('data/network-graph.gexf', {
       }, 'node-category')
       .apply();
 
-    }
   }
 
   // add onclick to each category filter
-  node_classes.forEach(function(c){
-    c.onclick = applyWillFilter;
-  });
-
+  for (var i = 0; i < node_classes.length; i++){
+    node_classes[i].onclick = applyWillFilter;
+  }
 
 
 });
