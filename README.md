@@ -1,4 +1,4 @@
-# PriVizCy - [TrackAware.me](www.trackaware.me)]  
+# PriVizCy - [TrackAware.me](www.trackaware.me) 
 ## Exploring the connectedness of websites through 3rd-party cookies
 
 
